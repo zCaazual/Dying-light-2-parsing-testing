@@ -1,0 +1,4879 @@
+Weapon IDs
+ 
+Copy the ID and paste into the Weapons tab to replace your item
+
+//All weapons (work in progress)
+
+
+WPN_1HB_STK_h_francis_fpp_r6 = Magic Rod
+
+wpn_15hb_o_halloween = Dying Laugh Bat
+
+wpn_15hb_o_halloween dying laughter bat
+
+wpn_15hb_s_fpp_prodder = Prodder
+
+wpn_15hs_b_fpp_redkatana = Chinoarashi
+
+wpn_1hb_mace_j_fpp_r1_first = First Mace
+
+wpn_2hs_e_AxeCutter = Cutting Edge
+
+wpn_15hb_b_rooftop = Rooftop Party
+
+wpn_15hs_b_anderson_fpp_r6 = Bad Gal
+
+WPN_1HB_STK_A_barney_fpp_r4 = Pretty Face
+
+WPN_1HS_MACH_T_cobra = Cobra Machete
+
+wpn_2hb_o_fpp_Winter = Bauble Mace
+
+wpn_2hb_a_weaponofgods = Tainted Godkiller
+
+wpn_bolter_weapon_quad_damage = Two Hits
+
+wpn_bolter_weapon_push_away = Homerun
+
+wpn_1hs_axe_k_legendarynightrunner = Legendary Axe
+
+wpn_15hb_scarecrow = Alis Scarecrow
+
+wpn_1hs_knuckle_duster_lazarus = The Lazarus
+
+wpn_1hb_mace_c_fpp_blastmace = Basher
+
+wpn_1hb_ham_m_marco_fpp_r11 = Stinky Pipe
+
+wpn_harran_spectacle_3 = = Heavy Tribal Axe
+
+wpn_1hs_mach_t_avery_fpp_r6 = Bandits Beak
+
+wpn_1hs_axe_k_hakon_fpp = Hakon axe
+
+wpn_2hb_hermann = Hermann's Bludgeon
+
+wpn_15hb_b_challenge_ringout = Catapult Bat
+
+wpn_cirofight_Player = Fratellanza
+
+wpn_1hb_stk_h_postman_fpp_r10 = Deliverance
+
+wpn_1hb_mace_d_FelineClaw = Feline Claw
+
+wpn_1hb_stk_l_fpp_winter = Candy Cane
+
+wpn_2hs_g_ancestral_dragon_boat = Ancestral Dragon
+
+wpn_2hb_a_fpp_Rebarbar = RebarBar
+
+wpn_1hs_mach_j_reload = Reload Machete
+
+wpn_2hb_d_goon_event = Goon Smasher
+
+wpn_1kj_machete = Korek Machete RNG
+
+wpn_1hs_mach_z = &wpn_mach_harran& // pretty sure this is military machete
+
+wpn_1hb_stk_e_fpp_crushtonfa = Skullcracker
+
+Chapter2_Mission_wpn_1hb_stk_e_fpp_crushtonfa = Skullcracker (Used in chapter mission)
+
+wpn_1hb_stk_a_baptistry = Baptizer
+
+wpn_1hb_stk_a_baptistry_AI = Baptizer
+
+wpn_1hb_stk_a_baptistry_Player = Baptizer
+
+wpn_1hs_mach_b_legendarynightrunner = Legendary Machete
+
+wpn_1hs_mach_cut = Nutcracker's Saber
+
+wpn_1hb_stk_a_fpp_r2_prologue = Grubby Bat
+
+wpn_2hr_crossbow_hunters = Hunters Crossbow
+
+Chapter2_Mission_wpn_2hr_crossbow_hunters = Hunters Crossbow challenge
+
+wpn_1hs_mach_p_bart_fpp_r6 = Veteran
+
+wpn_15hb_a_fpp_prodder = Prodder
+
+wpn_1hs_knuckle_duster_d_fppightrunnersclaws = Nightrunners Claws
+
+wpn_1hs_axe_c_reload = Reload Axe
+
+wpn_2hs_g_dragon_boat = Raging Dragon
+
+wpn_1hs_axe_l_CampbellSoup = Can Opener
+
+wpn_2hr_crossbow_a_fpp_challenge = Legbreaker Crossbow
+
+wpn_1hs_axe_r_fpp_tactical_cleaver = tactical cleaver
+
+wpn_2hs_c_fpp_starving_infected = starving infected
+
+wpn_1hs_knuckle_duster_d_fpp_doubledaggers = Double daggers
+
+wpn_15hb_k_fpp_mechaslugger = mechslugger
+
+wpn_1hs_mach_w_fpp_ll = the test
+
+wpn_15hb_k_fpp_ll = bluntonio
+
+wpn_2hs_e_fpp_ll = roses axe
+
+wpn_2hb_d_fpp_ll = papas blessing
+
+wpn_1hs_axe_i_fpp_ll = Ax of orion
+
+wpn_1hs_axe_a_fpp_ll = the soul reaper
+
+wpn_1hb_ham_g_fpp_ll= bentos beef
+
+wpn_15hs_b_fpp_ll = toudis wrath
+
+wpn_2hs_g_fpp_ll = scope cutter
+
+wpn_1hs_mach_a_fpp_ll = delicate cut
+
+wpn_1hs_axe_r_fpp_ll = sick touch
+
+wpn_1hb_stk_e_fpp_ll = woody strike
+
+wpn_1hb_ham_n_fpp_ll = daniels hammer
+
+wpn_1hs_mach_k_fpp_ll = bloody nexus
+
+wpn_15hs_f_fpp_ll = timmys terrifier
+
+wpn_1hs_axe_c_fpp_ll_s1 = good night
+
+wpn_1hs_axe_c_fpp_ll_s2 = good luck
+
+wpn_1hs_axe_t_fpp_ll = the hotfix
+
+wpn_1hb_ham_g_platinum_ch2_t9 = mohawk hammer legendary
+
+wpn_1hb_ham_h_platinum_ch2_t9 = antique hammer legendary
+
+wpn_1hb_ham_p_platinum_ch2_t9 = smasher legendary
+
+wpn_1hb_stk_e_platinum_ch2_t9 = police stick legendary
+
+wpn_1hb_stk_h_platinum_ch2_t9 = rude stick legendary
+
+wpn_1hb_mace_d_platinum_ch2_t9 = medival mace legendary
+
+wpn_2hb_n_hermann_fpp_diff9 = //
+
+wpn_1hs_mach_s_fpp_Jack = //
+
+wpn_1hb_mace_f_fpp_Joe = //
+
+wpn_1hs_axe_l_CampbellSoup_fpp_r8 = //
+
+wpn_2hb_j_fpp_authority = //
+
+wpn_15hs_m_fpp_wisekatana = //
+
+wpn_1hs_axe_u_fpp_scrapslicer //
+
+wpn_1hs_axe_t_fpp_extinguisher //
+
+wpn_1hs_mach_w_fpp_timeout  //
+
+wpn_1hs_mach_v = Chop Chop
+wpn_1hs_mach_v_fpp_r0 = check this id for above weapon
+
+wpn_1hs_axe_b_opera = Le xecuteur
+wpn_1hs_axe_a_opera_t1 = check this id for above weapon
+
+wpn_1hs_axe_e = Chopper // check this id
+wpn_1hs_axe_e_fpp_r0
+
+wpn_15hb_j = Yellow Hammer  // get the full id
+
+wpn_1hs_axe_h = Riot // get the full id
+
+wpn_1hb_knuckle_duster_d = Slashers // get the full id
+
+wpn_1hs_knuckle_duster_b = Beast Claws // incomplete id > get full id for this
+
+wpn_1hs_mach_c_hussar // already have 34 tiers of this, check this weapon
+
+wpn_2hp_bow_t1 = pipe bow
+wpn_2hp_bow_t2 = copper bow
+wpn_2hp_bow_t3 = sport bow
+wpn_2hp_bow_t4 = rust bow
+wpn_2hp_bow_t5 = paper clip bow
+wpn_2hp_bow_t6 = nails bow
+wpn_2hp_bow_t7 = military bow
+wpn_2hp_bow_t8 = composite bow
+wpn_2hp_bow_t9 = yardstick bow
+wpn_2hp_bow_f_fpp_t3_PlagueWitch = monster skewer
+wpn_2hp_bow_a_fpp_t9_challenge_archery_01 = challenge bow
+wpn_2hp_bow_a_fpp_t3_playtest = military bow
+wpn_2hp_bow_starting = pipe bow
+wpn_2hp_bow_prince_1 = Thiefs Bow
+wpn_2hp_bow_ballista = Ballista
+wpn_2hp_bow_bozak = bozak bow
+wpn_lbow_h_fpp_ll = winters bow
+wpn_lbow_a_fpp_ll = bards call
+ABOW_TEST_SLOW = //
+ABOW_TEST_FAST = //
+
+wpn_1hs_mach_a_fpp_r0 = Shoelace Machete
+wpn_1hs_mach_a_fpp_r1 = Shoelace Machete
+wpn_1hs_mach_a_fpp_r2 = Shoelace Machete
+wpn_1hs_mach_a_fpp_r3 = Shoelace Machete
+wpn_1hs_mach_a_fpp_r4 = Shoelace Machete
+wpn_1hs_mach_a_fpp_r5 = Shoelace Machete
+wpn_1hs_mach_a_fpp_r6 = Shoelace Machete
+wpn_1hs_mach_a_fpp_r7 = Shoelace Machete
+wpn_1hs_mach_a_fpp_r8 = Shoelace Machete
+wpn_1hs_mach_a_fpp_r9 = Shoelace Machete
+wpn_1hs_mach_a_fpp_r10 = Shoelace Machete
+wpn_1hs_mach_a_fpp_r11 = Shoelace Machete
+wpn_1hs_mach_a_fpp_r12 = Shoelace Machete
+wpn_1hs_mach_a_fpp_r13 = Shoelace Machete
+wpn_1hs_mach_a_fpp_r14 = Shoelace Machete
+wpn_1hs_mach_a_fpp_r15 = Shoelace Machete
+wpn_1hs_mach_a_fpp_r16 = Shoelace Machete
+wpn_1hs_mach_a_fpp_r17 = Shoelace Machete
+wpn_1hs_mach_a_fpp_r18 = Shoelace Machete
+wpn_1hs_mach_a_fpp_r19 = Shoelace Machete
+wpn_1hs_mach_a_fpp_r20 = Shoelace Machete
+wpn_1hs_mach_a_fpp_r21 = Shoelace Machete
+wpn_1hs_mach_a_fpp_r22 = Shoelace Machete
+wpn_1hs_mach_a_fpp_r23 = Shoelace Machete
+wpn_1hs_mach_a_fpp_r24 = Shoelace Machete
+
+wpn_1hs_mach_b_fpp_r0 = military machete
+wpn_1hs_mach_b_fpp_r1 = military machete
+wpn_1hs_mach_b_fpp_r2 = military machete
+wpn_1hs_mach_b_fpp_r3 = military machete
+wpn_1hs_mach_b_fpp_r4 = military machete
+wpn_1hs_mach_b_fpp_r5 = military machete
+wpn_1hs_mach_b_fpp_r6 = military machete
+wpn_1hs_mach_b_fpp_r7 = military machete
+wpn_1hs_mach_b_fpp_r8 = military machete
+wpn_1hs_mach_b_fpp_r9 = military machete
+wpn_1hs_mach_b_fpp_r10 = military machete
+wpn_1hs_mach_b_fpp_r11 = military machete
+wpn_1hs_mach_b_fpp_r12 = military machete
+wpn_1hs_mach_b_fpp_r13 = military machete
+wpn_1hs_mach_b_fpp_r14 = military machete
+wpn_1hs_mach_b_fpp_r15 = military machete
+wpn_1hs_mach_b_fpp_r16 = military machete
+wpn_1hs_mach_b_fpp_r17 = military machete
+wpn_1hs_mach_b_fpp_r18 = military machete
+wpn_1hs_mach_b_fpp_r19 = military machete
+wpn_1hs_mach_b_fpp_r20 = military machete
+wpn_1hs_mach_b_fpp_r21 = military machete
+wpn_1hs_mach_b_fpp_r22 = military machete
+wpn_1hs_mach_b_fpp_r23 = military machete
+wpn_1hs_mach_b_fpp_r24 = military machete
+
+wpn_1hs_mach_c_fpp_r1  = hussar
+wpn_1hs_mach_c_fpp_r2  = hussar
+wpn_1hs_mach_c_fpp_r3  = hussar
+wpn_1hs_mach_c_fpp_r4  = hussar
+wpn_1hs_mach_c_fpp_r5  = hussar
+wpn_1hs_mach_c_fpp_r6  = hussar
+wpn_1hs_mach_c_fpp_r7  = hussar
+wpn_1hs_mach_c_fpp_r8  = hussar
+wpn_1hs_mach_c_fpp_r9  = hussar
+wpn_1hs_mach_c_fpp_r10 = hussar
+wpn_1hs_mach_c_fpp_r11 = hussar
+wpn_1hs_mach_c_fpp_r12 = hussar
+wpn_1hs_mach_c_fpp_r13 = hussar
+wpn_1hs_mach_c_fpp_r14 = hussar
+wpn_1hs_mach_c_fpp_r15 = hussar
+wpn_1hs_mach_c_fpp_r16 = hussar
+wpn_1hs_mach_c_fpp_r17 = hussar
+wpn_1hs_mach_c_fpp_r18 = hussar
+wpn_1hs_mach_c_fpp_r19 = hussar
+wpn_1hs_mach_c_fpp_r20 = hussar
+wpn_1hs_mach_c_fpp_r21 = hussar
+wpn_1hs_mach_c_fpp_r22 = hussar
+wpn_1hs_mach_c_fpp_r23 = hussar
+wpn_1hs_mach_c_fpp_r24 = hussar
+
+wpn_1hs_mach_d_fpp_r1  = secateur
+wpn_1hs_mach_d_fpp_r2  = secateur
+wpn_1hs_mach_d_fpp_r3  = secateur
+wpn_1hs_mach_d_fpp_r4  = secateur
+wpn_1hs_mach_d_fpp_r5  = secateur
+wpn_1hs_mach_d_fpp_r6  = secateur
+wpn_1hs_mach_d_fpp_r7  = secateur
+wpn_1hs_mach_d_fpp_r8  = secateur
+wpn_1hs_mach_d_fpp_r9  = secateur
+wpn_1hs_mach_d_fpp_r10 = secateur
+wpn_1hs_mach_d_fpp_r11 = secateur
+wpn_1hs_mach_d_fpp_r12 = secateur
+wpn_1hs_mach_d_fpp_r13 = secateur
+wpn_1hs_mach_d_fpp_r14 = secateur
+wpn_1hs_mach_d_fpp_r15 = secateur
+wpn_1hs_mach_d_fpp_r16 = secateur
+wpn_1hs_mach_d_fpp_r17 = secateur
+wpn_1hs_mach_d_fpp_r18 = secateur
+wpn_1hs_mach_d_fpp_r19 = secateur
+wpn_1hs_mach_d_fpp_r20 = secateur
+wpn_1hs_mach_d_fpp_r21 = secateur
+wpn_1hs_mach_d_fpp_r22 = secateur
+wpn_1hs_mach_d_fpp_r23 = secateur
+wpn_1hs_mach_d_fpp_r24 = secateur
+                    
+wpn_1hs_mach_e_fpp_r1  = billhook
+wpn_1hs_mach_e_fpp_r2  = billhook
+wpn_1hs_mach_e_fpp_r3  = billhook
+wpn_1hs_mach_e_fpp_r4  = billhook
+wpn_1hs_mach_e_fpp_r5  = billhook
+wpn_1hs_mach_e_fpp_r6  = billhook
+wpn_1hs_mach_e_fpp_r7  = billhook
+wpn_1hs_mach_e_fpp_r8  = billhook
+wpn_1hs_mach_e_fpp_r9  = billhook
+wpn_1hs_mach_e_fpp_r10 = billhook
+wpn_1hs_mach_e_fpp_r11 = billhook
+wpn_1hs_mach_e_fpp_r12 = billhook
+wpn_1hs_mach_e_fpp_r13 = billhook
+wpn_1hs_mach_e_fpp_r14 = billhook
+wpn_1hs_mach_e_fpp_r15 = billhook
+wpn_1hs_mach_e_fpp_r16 = billhook
+wpn_1hs_mach_e_fpp_r17 = billhook
+wpn_1hs_mach_e_fpp_r18 = billhook
+wpn_1hs_mach_e_fpp_r19 = billhook
+wpn_1hs_mach_e_fpp_r20 = billhook
+wpn_1hs_mach_e_fpp_r21 = billhook
+wpn_1hs_mach_e_fpp_r22 = billhook
+wpn_1hs_mach_e_fpp_r23 = billhook
+wpn_1hs_mach_e_fpp_r24 = billhook
+
+wpn_1hs_mach_f_fpp_r1  = tinware machete
+wpn_1hs_mach_f_fpp_r2  = tinware machete
+wpn_1hs_mach_f_fpp_r3  = tinware machete
+wpn_1hs_mach_f_fpp_r4  = tinware machete
+wpn_1hs_mach_f_fpp_r5  = tinware machete
+wpn_1hs_mach_f_fpp_r6  = tinware machete
+wpn_1hs_mach_f_fpp_r7  = tinware machete
+wpn_1hs_mach_f_fpp_r8  = tinware machete
+wpn_1hs_mach_f_fpp_r9  = tinware machete
+wpn_1hs_mach_f_fpp_r10 = tinware machete
+wpn_1hs_mach_f_fpp_r11 = tinware machete
+wpn_1hs_mach_f_fpp_r12 = tinware machete
+wpn_1hs_mach_f_fpp_r13 = tinware machete
+wpn_1hs_mach_f_fpp_r14 = tinware machete
+wpn_1hs_mach_f_fpp_r15 = tinware machete
+wpn_1hs_mach_f_fpp_r16 = tinware machete
+wpn_1hs_mach_f_fpp_r17 = tinware machete
+wpn_1hs_mach_f_fpp_r18 = tinware machete
+wpn_1hs_mach_f_fpp_r19 = tinware machete
+wpn_1hs_mach_f_fpp_r20 = tinware machete
+wpn_1hs_mach_f_fpp_r21 = tinware machete
+wpn_1hs_mach_f_fpp_r22 = tinware machete
+wpn_1hs_mach_f_fpp_r23 = tinware machete
+wpn_1hs_mach_f_fpp_r24 = tinware machete
+
+wpn_1hs_mach_9_fpp_r1  = gangrene
+wpn_1hs_mach_9_fpp_r2  = gangrene
+wpn_1hs_mach_9_fpp_r3  = gangrene
+wpn_1hs_mach_9_fpp_r4  = gangrene
+wpn_1hs_mach_9_fpp_r5  = gangrene
+wpn_1hs_mach_9_fpp_r6  = gangrene
+wpn_1hs_mach_9_fpp_r7  = gangrene
+wpn_1hs_mach_9_fpp_r8  = gangrene
+wpn_1hs_mach_9_fpp_r9  = gangrene
+wpn_1hs_mach_9_fpp_r10 = gangrene
+wpn_1hs_mach_9_fpp_r11 = gangrene
+wpn_1hs_mach_9_fpp_r12 = gangrene
+wpn_1hs_mach_9_fpp_r13 = gangrene
+wpn_1hs_mach_9_fpp_r14 = gangrene
+wpn_1hs_mach_9_fpp_r15 = gangrene
+wpn_1hs_mach_9_fpp_r16 = gangrene
+wpn_1hs_mach_9_fpp_r17 = gangrene
+wpn_1hs_mach_9_fpp_r18 = gangrene
+wpn_1hs_mach_9_fpp_r19 = gangrene
+wpn_1hs_mach_9_fpp_r20 = gangrene
+wpn_1hs_mach_9_fpp_r21 = gangrene
+wpn_1hs_mach_9_fpp_r22 = gangrene
+wpn_1hs_mach_9_fpp_r23 = gangrene
+wpn_1hs_mach_9_fpp_r24 = gangrene
+
+wpn_1hs_mach_h_fpp_r1  = stopgap machete
+wpn_1hs_mach_h_fpp_r2  = stopgap machete
+wpn_1hs_mach_h_fpp_r3  = stopgap machete
+wpn_1hs_mach_h_fpp_r4  = stopgap machete
+wpn_1hs_mach_h_fpp_r5  = stopgap machete
+wpn_1hs_mach_h_fpp_r6  = stopgap machete
+wpn_1hs_mach_h_fpp_r7  = stopgap machete
+wpn_1hs_mach_h_fpp_r8  = stopgap machete
+wpn_1hs_mach_h_fpp_r9  = stopgap machete
+wpn_1hs_mach_h_fpp_r10 = stopgap machete
+wpn_1hs_mach_h_fpp_r11 = stopgap machete
+wpn_1hs_mach_h_fpp_r12 = stopgap machete
+wpn_1hs_mach_h_fpp_r13 = stopgap machete
+wpn_1hs_mach_h_fpp_r14 = stopgap machete
+wpn_1hs_mach_h_fpp_r15 = stopgap machete
+wpn_1hs_mach_h_fpp_r16 = stopgap machete
+wpn_1hs_mach_h_fpp_r17 = stopgap machete
+wpn_1hs_mach_h_fpp_r18 = stopgap machete
+wpn_1hs_mach_h_fpp_r19 = stopgap machete
+wpn_1hs_mach_h_fpp_r20 = stopgap machete
+wpn_1hs_mach_h_fpp_r21 = stopgap machete
+wpn_1hs_mach_h_fpp_r22 = stopgap machete
+wpn_1hs_mach_h_fpp_r23 = stopgap machete
+wpn_1hs_mach_h_fpp_r24 = stopgap machete
+
+wpn_1hs_mach_i_fpp_r1  = cheapo machete
+wpn_1hs_mach_i_fpp_r2  = cheapo machete
+wpn_1hs_mach_i_fpp_r3  = cheapo machete
+wpn_1hs_mach_i_fpp_r4  = cheapo machete
+wpn_1hs_mach_i_fpp_r5  = cheapo machete
+wpn_1hs_mach_i_fpp_r6  = cheapo machete
+wpn_1hs_mach_i_fpp_r7  = cheapo machete
+wpn_1hs_mach_i_fpp_r8  = cheapo machete
+wpn_1hs_mach_i_fpp_r9  = cheapo machete
+wpn_1hs_mach_i_fpp_r10 = cheapo machete
+wpn_1hs_mach_i_fpp_r11 = cheapo machete
+wpn_1hs_mach_i_fpp_r12 = cheapo machete
+wpn_1hs_mach_i_fpp_r13 = cheapo machete
+wpn_1hs_mach_i_fpp_r14 = cheapo machete
+wpn_1hs_mach_i_fpp_r15 = cheapo machete
+wpn_1hs_mach_i_fpp_r16 = cheapo machete
+wpn_1hs_mach_i_fpp_r17 = cheapo machete
+wpn_1hs_mach_i_fpp_r18 = cheapo machete
+wpn_1hs_mach_i_fpp_r19 = cheapo machete
+wpn_1hs_mach_i_fpp_r20 = cheapo machete
+wpn_1hs_mach_i_fpp_r21 = cheapo machete
+wpn_1hs_mach_i_fpp_r22 = cheapo machete
+wpn_1hs_mach_i_fpp_r23 = cheapo machete
+wpn_1hs_mach_i_fpp_r24 = cheapo machete
+
+wpn_1hs_mach_j_fpp_r1  = buccanear
+wpn_1hs_mach_j_fpp_r2  = buccanear
+wpn_1hs_mach_j_fpp_r3  = buccanear
+wpn_1hs_mach_j_fpp_r4  = buccanear
+wpn_1hs_mach_j_fpp_r5  = buccanear
+wpn_1hs_mach_j_fpp_r6  = buccanear
+wpn_1hs_mach_j_fpp_r7  = buccanear
+wpn_1hs_mach_j_fpp_r8  = buccanear
+wpn_1hs_mach_j_fpp_r9  = buccanear
+wpn_1hs_mach_j_fpp_r10 = buccanear
+wpn_1hs_mach_j_fpp_r11 = buccanear
+wpn_1hs_mach_j_fpp_r12 = buccanear
+wpn_1hs_mach_j_fpp_r13 = buccanear
+wpn_1hs_mach_j_fpp_r14 = buccanear
+wpn_1hs_mach_j_fpp_r15 = buccanear
+wpn_1hs_mach_j_fpp_r16 = buccanear
+wpn_1hs_mach_j_fpp_r17 = buccanear
+wpn_1hs_mach_j_fpp_r18 = buccanear
+wpn_1hs_mach_j_fpp_r19 = buccanear
+wpn_1hs_mach_j_fpp_r20 = buccanear
+wpn_1hs_mach_j_fpp_r21 = buccanear
+wpn_1hs_mach_j_fpp_r22 = buccanear
+wpn_1hs_mach_j_fpp_r23 = buccanear
+wpn_1hs_mach_j_fpp_r24 = buccanear
+
+
+wpn_1hs_mach_k_fpp_r1  = loose screw
+wpn_1hs_mach_k_fpp_r2  = loose screw
+wpn_1hs_mach_k_fpp_r3  = loose screw
+wpn_1hs_mach_k_fpp_r4  = loose screw
+wpn_1hs_mach_k_fpp_r5  = loose screw
+wpn_1hs_mach_k_fpp_r6  = loose screw
+wpn_1hs_mach_k_fpp_r7  = loose screw
+wpn_1hs_mach_k_fpp_r8  = loose screw
+wpn_1hs_mach_k_fpp_r9  = loose screw
+wpn_1hs_mach_k_fpp_r10 = loose screw
+wpn_1hs_mach_k_fpp_r11 = loose screw
+wpn_1hs_mach_k_fpp_r12 = loose screw
+wpn_1hs_mach_k_fpp_r13 = loose screw
+wpn_1hs_mach_k_fpp_r14 = loose screw
+wpn_1hs_mach_k_fpp_r15 = loose screw
+wpn_1hs_mach_k_fpp_r16 = loose screw
+wpn_1hs_mach_k_fpp_r17 = loose screw
+wpn_1hs_mach_k_fpp_r18 = loose screw
+wpn_1hs_mach_k_fpp_r19 = loose screw
+wpn_1hs_mach_k_fpp_r20 = loose screw
+wpn_1hs_mach_k_fpp_r21 = loose screw
+wpn_1hs_mach_k_fpp_r22 = loose screw
+wpn_1hs_mach_k_fpp_r23 = loose screw
+wpn_1hs_mach_k_fpp_r24 = loose screw
+
+wpn_1hs_mach_L_fpp_r1  = crude machete
+wpn_1hs_mach_L_fpp_r2  = crude machete
+wpn_1hs_mach_L_fpp_r3  = crude machete
+wpn_1hs_mach_L_fpp_r4  = crude machete
+wpn_1hs_mach_L_fpp_r5  = crude machete
+wpn_1hs_mach_L_fpp_r6  = crude machete
+wpn_1hs_mach_L_fpp_r7  = crude machete
+wpn_1hs_mach_L_fpp_r8  = crude machete
+wpn_1hs_mach_L_fpp_r9  = crude machete
+wpn_1hs_mach_L_fpp_r10 = crude machete
+wpn_1hs_mach_L_fpp_r11 = crude machete
+wpn_1hs_mach_L_fpp_r12 = crude machete
+wpn_1hs_mach_L_fpp_r13 = crude machete
+wpn_1hs_mach_L_fpp_r14 = crude machete
+wpn_1hs_mach_L_fpp_r15 = crude machete
+wpn_1hs_mach_L_fpp_r16 = crude machete
+wpn_1hs_mach_L_fpp_r17 = crude machete
+wpn_1hs_mach_L_fpp_r18 = crude machete
+wpn_1hs_mach_L_fpp_r19 = crude machete
+wpn_1hs_mach_L_fpp_r20 = crude machete
+wpn_1hs_mach_L_fpp_r21 = crude machete
+wpn_1hs_mach_L_fpp_r22 = crude machete
+wpn_1hs_mach_L_fpp_r23 = crude machete
+wpn_1hs_mach_L_fpp_r24 = crude machete
+
+wpn_1hs_mach_m_fpp_r1  = warsaw
+wpn_1hs_mach_m_fpp_r2  = warsaw
+wpn_1hs_mach_m_fpp_r3  = warsaw
+wpn_1hs_mach_m_fpp_r4  = warsaw
+wpn_1hs_mach_m_fpp_r5  = warsaw
+wpn_1hs_mach_m_fpp_r6  = warsaw
+wpn_1hs_mach_m_fpp_r7  = warsaw
+wpn_1hs_mach_m_fpp_r8  = warsaw
+wpn_1hs_mach_m_fpp_r9  = warsaw
+wpn_1hs_mach_m_fpp_r10 = warsaw
+wpn_1hs_mach_m_fpp_r11 = warsaw
+wpn_1hs_mach_m_fpp_r12 = warsaw
+wpn_1hs_mach_m_fpp_r13 = warsaw
+wpn_1hs_mach_m_fpp_r14 = warsaw
+wpn_1hs_mach_m_fpp_r15 = warsaw
+wpn_1hs_mach_m_fpp_r16 = warsaw
+wpn_1hs_mach_m_fpp_r17 = warsaw
+wpn_1hs_mach_m_fpp_r18 = warsaw
+wpn_1hs_mach_m_fpp_r19 = warsaw
+wpn_1hs_mach_m_fpp_r20 = warsaw
+wpn_1hs_mach_m_fpp_r21 = warsaw
+wpn_1hs_mach_m_fpp_r22 = warsaw
+wpn_1hs_mach_m_fpp_r23 = warsaw
+wpn_1hs_mach_m_fpp_r24 = warsaw
+
+wpn_1hs_mach_n_fpp_r1  = hacksaw
+wpn_1hs_mach_n_fpp_r2  = hacksaw
+wpn_1hs_mach_n_fpp_r3  = hacksaw
+wpn_1hs_mach_n_fpp_r4  = hacksaw
+wpn_1hs_mach_n_fpp_r5  = hacksaw
+wpn_1hs_mach_n_fpp_r6  = hacksaw
+wpn_1hs_mach_n_fpp_r7  = hacksaw
+wpn_1hs_mach_n_fpp_r8  = hacksaw
+wpn_1hs_mach_n_fpp_r9  = hacksaw
+wpn_1hs_mach_n_fpp_r10 = hacksaw
+wpn_1hs_mach_n_fpp_r11 = hacksaw
+wpn_1hs_mach_n_fpp_r12 = hacksaw
+wpn_1hs_mach_n_fpp_r13 = hacksaw
+wpn_1hs_mach_n_fpp_r14 = hacksaw
+wpn_1hs_mach_n_fpp_r15 = hacksaw
+wpn_1hs_mach_n_fpp_r16 = hacksaw
+wpn_1hs_mach_n_fpp_r17 = hacksaw
+wpn_1hs_mach_n_fpp_r18 = hacksaw
+wpn_1hs_mach_n_fpp_r19 = hacksaw
+wpn_1hs_mach_n_fpp_r20 = hacksaw
+wpn_1hs_mach_n_fpp_r21 = hacksaw
+wpn_1hs_mach_n_fpp_r22 = hacksaw
+wpn_1hs_mach_n_fpp_r23 = hacksaw
+wpn_1hs_mach_n_fpp_r24 = hacksaw
+
+wpn_1hs_mach_o_fpp_r1  = sharkteeth
+wpn_1hs_mach_o_fpp_r2  = sharkteeth
+wpn_1hs_mach_o_fpp_r3  = sharkteeth
+wpn_1hs_mach_o_fpp_r4  = sharkteeth
+wpn_1hs_mach_o_fpp_r5  = sharkteeth
+wpn_1hs_mach_o_fpp_r6  = sharkteeth
+wpn_1hs_mach_o_fpp_r7  = sharkteeth
+wpn_1hs_mach_o_fpp_r8  = sharkteeth
+wpn_1hs_mach_o_fpp_r9  = sharkteeth
+wpn_1hs_mach_o_fpp_r10 = sharkteeth
+wpn_1hs_mach_o_fpp_r11 = sharkteeth
+wpn_1hs_mach_o_fpp_r12 = sharkteeth
+wpn_1hs_mach_o_fpp_r13 = sharkteeth
+wpn_1hs_mach_o_fpp_r14 = sharkteeth
+wpn_1hs_mach_o_fpp_r15 = sharkteeth
+wpn_1hs_mach_o_fpp_r16 = sharkteeth
+wpn_1hs_mach_o_fpp_r17 = sharkteeth
+wpn_1hs_mach_o_fpp_r18 = sharkteeth
+wpn_1hs_mach_o_fpp_r19 = sharkteeth
+wpn_1hs_mach_o_fpp_r20 = sharkteeth
+wpn_1hs_mach_o_fpp_r21 = sharkteeth
+wpn_1hs_mach_o_fpp_r22 = sharkteeth
+wpn_1hs_mach_o_fpp_r23 = sharkteeth
+wpn_1hs_mach_o_fpp_r24 = sharkteeth
+
+wpn_1hs_mach_p_fpp_r1  = barcode machete
+wpn_1hs_mach_p_fpp_r2  = barcode machete
+wpn_1hs_mach_p_fpp_r3  = barcode machete
+wpn_1hs_mach_p_fpp_r4  = barcode machete
+wpn_1hs_mach_p_fpp_r5  = barcode machete
+wpn_1hs_mach_p_fpp_r6  = barcode machete
+wpn_1hs_mach_p_fpp_r7  = barcode machete
+wpn_1hs_mach_p_fpp_r8  = barcode machete
+wpn_1hs_mach_p_fpp_r9  = barcode machete
+wpn_1hs_mach_p_fpp_r10 = barcode machete
+wpn_1hs_mach_p_fpp_r11 = barcode machete
+wpn_1hs_mach_p_fpp_r12 = barcode machete
+wpn_1hs_mach_p_fpp_r13 = barcode machete
+wpn_1hs_mach_p_fpp_r14 = barcode machete
+wpn_1hs_mach_p_fpp_r15 = barcode machete
+wpn_1hs_mach_p_fpp_r16 = barcode machete
+wpn_1hs_mach_p_fpp_r17 = barcode machete
+wpn_1hs_mach_p_fpp_r18 = barcode machete
+wpn_1hs_mach_p_fpp_r19 = barcode machete
+wpn_1hs_mach_p_fpp_r20 = barcode machete
+wpn_1hs_mach_p_fpp_r21 = barcode machete
+wpn_1hs_mach_p_fpp_r22 = barcode machete
+wpn_1hs_mach_p_fpp_r23 = barcode machete
+wpn_1hs_mach_p_fpp_r24 = barcode machete
+
+wpn_1hs_mach_s_fpp_r1  = dirty cleaver
+wpn_1hs_mach_s_fpp_r2  = dirty cleaver
+wpn_1hs_mach_s_fpp_r3  = dirty cleaver
+wpn_1hs_mach_s_fpp_r4  = dirty cleaver
+wpn_1hs_mach_s_fpp_r5  = dirty cleaver
+wpn_1hs_mach_s_fpp_r6  = dirty cleaver
+wpn_1hs_mach_s_fpp_r7  = dirty cleaver
+wpn_1hs_mach_s_fpp_r8  = dirty cleaver
+wpn_1hs_mach_s_fpp_r9  = dirty cleaver
+wpn_1hs_mach_s_fpp_r10 = dirty cleaver
+wpn_1hs_mach_s_fpp_r11 = dirty cleaver
+wpn_1hs_mach_s_fpp_r12 = dirty cleaver
+wpn_1hs_mach_s_fpp_r13 = dirty cleaver
+wpn_1hs_mach_s_fpp_r14 = dirty cleaver
+wpn_1hs_mach_s_fpp_r15 = dirty cleaver
+wpn_1hs_mach_s_fpp_r16 = dirty cleaver
+wpn_1hs_mach_s_fpp_r17 = dirty cleaver
+wpn_1hs_mach_s_fpp_r18 = dirty cleaver
+wpn_1hs_mach_s_fpp_r19 = dirty cleaver
+wpn_1hs_mach_s_fpp_r20 = dirty cleaver
+wpn_1hs_mach_s_fpp_r21 = dirty cleaver
+wpn_1hs_mach_s_fpp_r22 = dirty cleaver
+wpn_1hs_mach_s_fpp_r23 = dirty cleaver
+wpn_1hs_mach_s_fpp_r24 = dirty cleaver
+
+wpn_1hs_mach_t_fpp_r1  = beak
+wpn_1hs_mach_t_fpp_r2  = beak
+wpn_1hs_mach_t_fpp_r3  = beak
+wpn_1hs_mach_t_fpp_r4  = beak
+wpn_1hs_mach_t_fpp_r5  = beak
+wpn_1hs_mach_t_fpp_r6  = beak
+wpn_1hs_mach_t_fpp_r7  = beak
+wpn_1hs_mach_t_fpp_r8  = beak
+wpn_1hs_mach_t_fpp_r9  = beak
+wpn_1hs_mach_t_fpp_r10 = beak
+wpn_1hs_mach_t_fpp_r11 = beak
+wpn_1hs_mach_t_fpp_r12 = beak
+wpn_1hs_mach_t_fpp_r13 = beak
+wpn_1hs_mach_t_fpp_r14 = beak
+wpn_1hs_mach_t_fpp_r15 = beak
+wpn_1hs_mach_t_fpp_r16 = beak
+wpn_1hs_mach_t_fpp_r17 = beak
+wpn_1hs_mach_t_fpp_r18 = beak
+wpn_1hs_mach_t_fpp_r19 = beak
+wpn_1hs_mach_t_fpp_r20 = beak
+wpn_1hs_mach_t_fpp_r21 = beak
+wpn_1hs_mach_t_fpp_r22 = beak
+wpn_1hs_mach_t_fpp_r23 = beak
+wpn_1hs_mach_t_fpp_r24 = beak
+
+wpn_1hs_mach_u_fpp_r1  = scythe
+wpn_1hs_mach_u_fpp_r2  = scythe
+wpn_1hs_mach_u_fpp_r3  = scythe
+wpn_1hs_mach_u_fpp_r4  = scythe
+wpn_1hs_mach_u_fpp_r5  = scythe
+wpn_1hs_mach_u_fpp_r6  = scythe
+wpn_1hs_mach_u_fpp_r7  = scythe
+wpn_1hs_mach_u_fpp_r8  = scythe
+wpn_1hs_mach_u_fpp_r9  = scythe
+wpn_1hs_mach_u_fpp_r10 = scythe
+wpn_1hs_mach_u_fpp_r11 = scythe
+wpn_1hs_mach_u_fpp_r12 = scythe
+wpn_1hs_mach_u_fpp_r13 = scythe
+wpn_1hs_mach_u_fpp_r14 = scythe
+wpn_1hs_mach_u_fpp_r15 = scythe
+wpn_1hs_mach_u_fpp_r16 = scythe
+wpn_1hs_mach_u_fpp_r17 = scythe
+wpn_1hs_mach_u_fpp_r18 = scythe
+wpn_1hs_mach_u_fpp_r19 = scythe
+wpn_1hs_mach_u_fpp_r20 = scythe
+wpn_1hs_mach_u_fpp_r21 = scythe
+wpn_1hs_mach_u_fpp_r22 = scythe
+wpn_1hs_mach_u_fpp_r23 = scythe
+wpn_1hs_mach_u_fpp_r24 = scythe
+
+wpn_1hs_mach_v_fpp_r1  = chop cho
+wpn_1hs_mach_v_fpp_r2  = chop cho
+wpn_1hs_mach_v_fpp_r3  = chop cho
+wpn_1hs_mach_v_fpp_r4  = chop cho
+wpn_1hs_mach_v_fpp_r5  = chop cho
+wpn_1hs_mach_v_fpp_r6  = chop cho
+wpn_1hs_mach_v_fpp_r7  = chop cho
+wpn_1hs_mach_v_fpp_r8  = chop cho
+wpn_1hs_mach_v_fpp_r9  = chop cho
+wpn_1hs_mach_v_fpp_r10 = chop cho
+wpn_1hs_mach_v_fpp_r11 = chop cho
+wpn_1hs_mach_v_fpp_r12 = chop cho
+wpn_1hs_mach_v_fpp_r13 = chop cho
+wpn_1hs_mach_v_fpp_r14 = chop cho
+wpn_1hs_mach_v_fpp_r15 = chop cho
+wpn_1hs_mach_v_fpp_r16 = chop cho
+wpn_1hs_mach_v_fpp_r17 = chop cho
+wpn_1hs_mach_v_fpp_r18 = chop cho
+wpn_1hs_mach_v_fpp_r19 = chop cho
+wpn_1hs_mach_v_fpp_r20 = chop cho
+wpn_1hs_mach_v_fpp_r21 = chop cho
+wpn_1hs_mach_v_fpp_r22 = chop cho
+wpn_1hs_mach_v_fpp_r23 = chop cho
+wpn_1hs_mach_v_fpp_r24 = chop cho
+
+wpn_1hs_axed_a_fpp_r1  = gravedigger
+wpn_1hs_axed_a_fpp_r2  = gravedigger
+wpn_1hs_axed_a_fpp_r3  = gravedigger
+wpn_1hs_axed_a_fpp_r4  = gravedigger
+wpn_1hs_axed_a_fpp_r5  = gravedigger
+wpn_1hs_axed_a_fpp_r6  = gravedigger
+wpn_1hs_axed_a_fpp_r7  = gravedigger
+wpn_1hs_axed_a_fpp_r8  = gravedigger
+wpn_1hs_axed_a_fpp_r9  = gravedigger
+wpn_1hs_axed_a_fpp_r10 = gravedigger
+wpn_1hs_axed_a_fpp_r11 = gravedigger
+wpn_1hs_axed_a_fpp_r12 = gravedigger
+wpn_1hs_axed_a_fpp_r13 = gravedigger
+wpn_1hs_axed_a_fpp_r14 = gravedigger
+wpn_1hs_axed_a_fpp_r15 = gravedigger
+wpn_1hs_axed_a_fpp_r16 = gravedigger
+wpn_1hs_axed_a_fpp_r17 = gravedigger
+wpn_1hs_axed_a_fpp_r18 = gravedigger
+wpn_1hs_axed_a_fpp_r19 = gravedigger
+wpn_1hs_axed_a_fpp_r20 = gravedigger
+wpn_1hs_axed_a_fpp_r21 = gravedigger
+wpn_1hs_axed_a_fpp_r22 = gravedigger
+wpn_1hs_axed_a_fpp_r23 = gravedigger
+wpn_1hs_axed_a_fpp_r24 = gravedigger
+
+wpn_1hs_mach_w_fpp_r1  = papercutter
+wpn_1hs_mach_w_fpp_r2  = papercutter
+wpn_1hs_mach_w_fpp_r3  = papercutter
+wpn_1hs_mach_w_fpp_r4  = papercutter
+wpn_1hs_mach_w_fpp_r5  = papercutter
+wpn_1hs_mach_w_fpp_r6  = papercutter
+wpn_1hs_mach_w_fpp_r7  = papercutter
+wpn_1hs_mach_w_fpp_r8  = papercutter
+wpn_1hs_mach_w_fpp_r9  = papercutter
+wpn_1hs_mach_w_fpp_r10 = papercutter
+wpn_1hs_mach_w_fpp_r11 = papercutter
+wpn_1hs_mach_w_fpp_r12 = papercutter
+wpn_1hs_mach_w_fpp_r13 = papercutter
+wpn_1hs_mach_w_fpp_r14 = papercutter
+wpn_1hs_mach_w_fpp_r15 = papercutter
+wpn_1hs_mach_w_fpp_r16 = papercutter
+wpn_1hs_mach_w_fpp_r17 = papercutter
+wpn_1hs_mach_w_fpp_r18 = papercutter
+wpn_1hs_mach_w_fpp_r19 = papercutter
+wpn_1hs_mach_w_fpp_r20 = papercutter
+wpn_1hs_mach_w_fpp_r21 = papercutter
+wpn_1hs_mach_w_fpp_r22 = papercutter
+wpn_1hs_mach_w_fpp_r23 = papercutter
+wpn_1hs_mach_w_fpp_r24 = papercutter
+
+wpn_1hs_axe_a_fpp_r1  = tomahawk
+wpn_1hs_axe_a_fpp_r2  = tomahawk
+wpn_1hs_axe_a_fpp_r3  = tomahawk
+wpn_1hs_axe_a_fpp_r4  = tomahawk
+wpn_1hs_axe_a_fpp_r5  = tomahawk
+wpn_1hs_axe_a_fpp_r6  = tomahawk
+wpn_1hs_axe_a_fpp_r7  = tomahawk
+wpn_1hs_axe_a_fpp_r8  = tomahawk
+wpn_1hs_axe_a_fpp_r9  = tomahawk
+wpn_1hs_axe_a_fpp_r10 = tomahawk
+wpn_1hs_axe_a_fpp_r11 = tomahawk
+wpn_1hs_axe_a_fpp_r12 = tomahawk
+wpn_1hs_axe_a_fpp_r13 = tomahawk
+wpn_1hs_axe_a_fpp_r14 = tomahawk
+wpn_1hs_axe_a_fpp_r15 = tomahawk
+wpn_1hs_axe_a_fpp_r16 = tomahawk
+wpn_1hs_axe_a_fpp_r17 = tomahawk
+wpn_1hs_axe_a_fpp_r18 = tomahawk
+wpn_1hs_axe_a_fpp_r19 = tomahawk
+wpn_1hs_axe_a_fpp_r20 = tomahawk
+wpn_1hs_axe_a_fpp_r21 = tomahawk
+wpn_1hs_axe_a_fpp_r22 = tomahawk
+wpn_1hs_axe_a_fpp_r23 = tomahawk
+wpn_1hs_axe_a_fpp_r24 = tomahawk
+
+wpn_1hs_axe_b_fpp_r1  = executioners axe
+wpn_1hs_axe_b_fpp_r2  = executioners axe
+wpn_1hs_axe_b_fpp_r3  = executioners axe
+wpn_1hs_axe_b_fpp_r4  = executioners axe
+wpn_1hs_axe_b_fpp_r5  = executioners axe
+wpn_1hs_axe_b_fpp_r6  = executioners axe
+wpn_1hs_axe_b_fpp_r7  = executioners axe
+wpn_1hs_axe_b_fpp_r8  = executioners axe
+wpn_1hs_axe_b_fpp_r9  = executioners axe
+wpn_1hs_axe_b_fpp_r10 = executioners axe
+wpn_1hs_axe_b_fpp_r11 = executioners axe
+wpn_1hs_axe_b_fpp_r12 = executioners axe
+wpn_1hs_axe_b_fpp_r13 = executioners axe
+wpn_1hs_axe_b_fpp_r14 = executioners axe
+wpn_1hs_axe_b_fpp_r15 = executioners axe
+wpn_1hs_axe_b_fpp_r16 = executioners axe
+wpn_1hs_axe_b_fpp_r17 = executioners axe
+wpn_1hs_axe_b_fpp_r18 = executioners axe
+wpn_1hs_axe_b_fpp_r19 = executioners axe
+wpn_1hs_axe_b_fpp_r20 = executioners axe
+wpn_1hs_axe_b_fpp_r21 = executioners axe
+wpn_1hs_axe_b_fpp_r22 = executioners axe
+wpn_1hs_axe_b_fpp_r23 = executioners axe
+wpn_1hs_axe_b_fpp_r24 = executioners axe
+
+wpn_1hs_axe_c_fpp_r1  = hacker axe
+wpn_1hs_axe_c_fpp_r2  = hacker axe
+wpn_1hs_axe_c_fpp_r3  = hacker axe
+wpn_1hs_axe_c_fpp_r4  = hacker axe
+wpn_1hs_axe_c_fpp_r5  = hacker axe
+wpn_1hs_axe_c_fpp_r6  = hacker axe
+wpn_1hs_axe_c_fpp_r7  = hacker axe
+wpn_1hs_axe_c_fpp_r8  = hacker axe
+wpn_1hs_axe_c_fpp_r9  = hacker axe
+wpn_1hs_axe_c_fpp_r10 = hacker axe
+wpn_1hs_axe_c_fpp_r11 = hacker axe
+wpn_1hs_axe_c_fpp_r12 = hacker axe
+wpn_1hs_axe_c_fpp_r13 = hacker axe
+wpn_1hs_axe_c_fpp_r14 = hacker axe
+wpn_1hs_axe_c_fpp_r15 = hacker axe
+wpn_1hs_axe_c_fpp_r16 = hacker axe
+wpn_1hs_axe_c_fpp_r17 = hacker axe
+wpn_1hs_axe_c_fpp_r18 = hacker axe
+wpn_1hs_axe_c_fpp_r19 = hacker axe
+wpn_1hs_axe_c_fpp_r20 = hacker axe
+wpn_1hs_axe_c_fpp_r21 = hacker axe
+wpn_1hs_axe_c_fpp_r22 = hacker axe
+wpn_1hs_axe_c_fpp_r23 = hacker axe
+wpn_1hs_axe_c_fpp_r24 = hacker axe
+
+wpn_1hs_axe_d_fpp_r1  = lumberjack 
+wpn_1hs_axe_d_fpp_r2  = lumberjack 
+wpn_1hs_axe_d_fpp_r3  = lumberjack 
+wpn_1hs_axe_d_fpp_r4  = lumberjack 
+wpn_1hs_axe_d_fpp_r5  = lumberjack 
+wpn_1hs_axe_d_fpp_r6  = lumberjack 
+wpn_1hs_axe_d_fpp_r7  = lumberjack 
+wpn_1hs_axe_d_fpp_r8  = lumberjack 
+wpn_1hs_axe_d_fpp_r9  = lumberjack 
+wpn_1hs_axe_d_fpp_r10 = lumberjack 
+wpn_1hs_axe_d_fpp_r11 = lumberjack 
+wpn_1hs_axe_d_fpp_r12 = lumberjack 
+wpn_1hs_axe_d_fpp_r13 = lumberjack 
+wpn_1hs_axe_d_fpp_r14 = lumberjack 
+wpn_1hs_axe_d_fpp_r15 = lumberjack 
+wpn_1hs_axe_d_fpp_r16 = lumberjack 
+wpn_1hs_axe_d_fpp_r17 = lumberjack 
+wpn_1hs_axe_d_fpp_r18 = lumberjack 
+wpn_1hs_axe_d_fpp_r19 = lumberjack 
+wpn_1hs_axe_d_fpp_r20 = lumberjack 
+wpn_1hs_axe_d_fpp_r21 = lumberjack 
+wpn_1hs_axe_d_fpp_r22 = lumberjack 
+wpn_1hs_axe_d_fpp_r23 = lumberjack 
+wpn_1hs_axe_d_fpp_r24 = lumberjack 
+
+wpn_1hs_axe_o_fpp_r1  = chopper
+wpn_1hs_axe_o_fpp_r2  = chopper
+wpn_1hs_axe_o_fpp_r3  = chopper
+wpn_1hs_axe_o_fpp_r4  = chopper
+wpn_1hs_axe_o_fpp_r5  = chopper
+wpn_1hs_axe_o_fpp_r6  = chopper
+wpn_1hs_axe_o_fpp_r7  = chopper
+wpn_1hs_axe_o_fpp_r8  = chopper
+wpn_1hs_axe_o_fpp_r9  = chopper
+wpn_1hs_axe_o_fpp_r10 = chopper
+wpn_1hs_axe_o_fpp_r11 = chopper
+wpn_1hs_axe_o_fpp_r12 = chopper
+wpn_1hs_axe_o_fpp_r13 = chopper
+wpn_1hs_axe_o_fpp_r14 = chopper
+wpn_1hs_axe_o_fpp_r15 = chopper
+wpn_1hs_axe_o_fpp_r16 = chopper
+wpn_1hs_axe_o_fpp_r17 = chopper
+wpn_1hs_axe_o_fpp_r18 = chopper
+wpn_1hs_axe_o_fpp_r19 = chopper
+wpn_1hs_axe_o_fpp_r20 = chopper
+wpn_1hs_axe_o_fpp_r21 = chopper
+wpn_1hs_axe_o_fpp_r22 = chopper
+wpn_1hs_axe_o_fpp_r23 = chopper
+wpn_1hs_axe_o_fpp_r24 = chopper
+
+wpn_1hs_axe_g_fpp_r1  = makeshift axe
+wpn_1hs_axe_g_fpp_r2  = makeshift axe
+wpn_1hs_axe_g_fpp_r3  = makeshift axe
+wpn_1hs_axe_g_fpp_r4  = makeshift axe
+wpn_1hs_axe_g_fpp_r5  = makeshift axe
+wpn_1hs_axe_g_fpp_r6  = makeshift axe
+wpn_1hs_axe_g_fpp_r7  = makeshift axe
+wpn_1hs_axe_g_fpp_r8  = makeshift axe
+wpn_1hs_axe_g_fpp_r9  = makeshift axe
+wpn_1hs_axe_g_fpp_r10 = makeshift axe
+wpn_1hs_axe_g_fpp_r11 = makeshift axe
+wpn_1hs_axe_g_fpp_r12 = makeshift axe
+wpn_1hs_axe_g_fpp_r13 = makeshift axe
+wpn_1hs_axe_g_fpp_r14 = makeshift axe
+wpn_1hs_axe_g_fpp_r15 = makeshift axe
+wpn_1hs_axe_g_fpp_r16 = makeshift axe
+wpn_1hs_axe_g_fpp_r17 = makeshift axe
+wpn_1hs_axe_g_fpp_r18 = makeshift axe
+wpn_1hs_axe_g_fpp_r19 = makeshift axe
+wpn_1hs_axe_g_fpp_r20 = makeshift axe
+wpn_1hs_axe_g_fpp_r21 = makeshift axe
+wpn_1hs_axe_g_fpp_r22 = makeshift axe
+wpn_1hs_axe_g_fpp_r23 = makeshift axe
+wpn_1hs_axe_g_fpp_r24 = makeshift axe
+
+wpn_1hs_axe_i_fpp_r1  = signpost axe
+wpn_1hs_axe_i_fpp_r2  = signpost axe
+wpn_1hs_axe_i_fpp_r3  = signpost axe
+wpn_1hs_axe_i_fpp_r4  = signpost axe
+wpn_1hs_axe_i_fpp_r5  = signpost axe
+wpn_1hs_axe_i_fpp_r6  = signpost axe
+wpn_1hs_axe_i_fpp_r7  = signpost axe
+wpn_1hs_axe_i_fpp_r8  = signpost axe
+wpn_1hs_axe_i_fpp_r9  = signpost axe
+wpn_1hs_axe_i_fpp_r10 = signpost axe
+wpn_1hs_axe_i_fpp_r11 = signpost axe
+wpn_1hs_axe_i_fpp_r12 = signpost axe
+wpn_1hs_axe_i_fpp_r13 = signpost axe
+wpn_1hs_axe_i_fpp_r14 = signpost axe
+wpn_1hs_axe_i_fpp_r15 = signpost axe
+wpn_1hs_axe_i_fpp_r16 = signpost axe
+wpn_1hs_axe_i_fpp_r17 = signpost axe
+wpn_1hs_axe_i_fpp_r18 = signpost axe
+wpn_1hs_axe_i_fpp_r19 = signpost axe
+wpn_1hs_axe_i_fpp_r20 = signpost axe
+wpn_1hs_axe_i_fpp_r21 = signpost axe
+wpn_1hs_axe_i_fpp_r22 = signpost axe
+wpn_1hs_axe_i_fpp_r23 = signpost axe
+wpn_1hs_axe_i_fpp_r24 = signpost axe
+
+wpn_1hs_axe_j_fpp_r1  = broken shovel
+wpn_1hs_axe_j_fpp_r2  = broken shovel
+wpn_1hs_axe_j_fpp_r3  = broken shovel
+wpn_1hs_axe_j_fpp_r4  = broken shovel
+wpn_1hs_axe_j_fpp_r5  = broken shovel
+wpn_1hs_axe_j_fpp_r6  = broken shovel
+wpn_1hs_axe_j_fpp_r7  = broken shovel
+wpn_1hs_axe_j_fpp_r8  = broken shovel
+wpn_1hs_axe_j_fpp_r9  = broken shovel
+wpn_1hs_axe_j_fpp_r10 = broken shovel
+wpn_1hs_axe_j_fpp_r11 = broken shovel
+wpn_1hs_axe_j_fpp_r12 = broken shovel
+wpn_1hs_axe_j_fpp_r13 = broken shovel
+wpn_1hs_axe_j_fpp_r14 = broken shovel
+wpn_1hs_axe_j_fpp_r15 = broken shovel
+wpn_1hs_axe_j_fpp_r16 = broken shovel
+wpn_1hs_axe_j_fpp_r17 = broken shovel
+wpn_1hs_axe_j_fpp_r18 = broken shovel
+wpn_1hs_axe_j_fpp_r19 = broken shovel
+wpn_1hs_axe_j_fpp_r20 = broken shovel
+wpn_1hs_axe_j_fpp_r21 = broken shovel
+wpn_1hs_axe_j_fpp_r22 = broken shovel
+wpn_1hs_axe_j_fpp_r23 = broken shovel
+wpn_1hs_axe_j_fpp_r24 = broken shovel
+
+wpn_1hs_axe_k_fpp_r1  = camo axe
+wpn_1hs_axe_k_fpp_r2  = camo axe
+wpn_1hs_axe_k_fpp_r3  = camo axe
+wpn_1hs_axe_k_fpp_r4  = camo axe
+wpn_1hs_axe_k_fpp_r5  = camo axe
+wpn_1hs_axe_k_fpp_r6  = camo axe
+wpn_1hs_axe_k_fpp_r7  = camo axe
+wpn_1hs_axe_k_fpp_r8  = camo axe
+wpn_1hs_axe_k_fpp_r9  = camo axe
+wpn_1hs_axe_k_fpp_r10 = camo axe
+wpn_1hs_axe_k_fpp_r11 = camo axe
+wpn_1hs_axe_k_fpp_r12 = camo axe
+wpn_1hs_axe_k_fpp_r13 = camo axe
+wpn_1hs_axe_k_fpp_r14 = camo axe
+wpn_1hs_axe_k_fpp_r15 = camo axe
+wpn_1hs_axe_k_fpp_r16 = camo axe
+wpn_1hs_axe_k_fpp_r17 = camo axe
+wpn_1hs_axe_k_fpp_r18 = camo axe
+wpn_1hs_axe_k_fpp_r19 = camo axe
+wpn_1hs_axe_k_fpp_r20 = camo axe
+wpn_1hs_axe_k_fpp_r21 = camo axe
+wpn_1hs_axe_k_fpp_r22 = camo axe
+wpn_1hs_axe_k_fpp_r23 = camo axe
+wpn_1hs_axe_k_fpp_r24 = camo axe
+
+wpn_1hs_axe_L_fpp_r1  = blade axe
+wpn_1hs_axe_L_fpp_r2  = blade axe
+wpn_1hs_axe_L_fpp_r3  = blade axe
+wpn_1hs_axe_L_fpp_r4  = blade axe
+wpn_1hs_axe_L_fpp_r5  = blade axe
+wpn_1hs_axe_L_fpp_r6  = blade axe
+wpn_1hs_axe_L_fpp_r7  = blade axe
+wpn_1hs_axe_L_fpp_r8  = blade axe
+wpn_1hs_axe_L_fpp_r9  = blade axe
+wpn_1hs_axe_L_fpp_r10 = blade axe
+wpn_1hs_axe_L_fpp_r11 = blade axe
+wpn_1hs_axe_L_fpp_r12 = blade axe
+wpn_1hs_axe_L_fpp_r13 = blade axe
+wpn_1hs_axe_L_fpp_r14 = blade axe
+wpn_1hs_axe_L_fpp_r15 = blade axe
+wpn_1hs_axe_L_fpp_r16 = blade axe
+wpn_1hs_axe_L_fpp_r17 = blade axe
+wpn_1hs_axe_L_fpp_r18 = blade axe
+wpn_1hs_axe_L_fpp_r19 = blade axe
+wpn_1hs_axe_L_fpp_r20 = blade axe
+wpn_1hs_axe_L_fpp_r21 = blade axe
+wpn_1hs_axe_L_fpp_r22 = blade axe
+wpn_1hs_axe_L_fpp_r23 = blade axe
+wpn_1hs_axe_L_fpp_r24 = blade axe
+
+wpn_1hs_axe_n_fpp_r1  = painful axe
+wpn_1hs_axe_n_fpp_r2  = painful axe
+wpn_1hs_axe_n_fpp_r3  = painful axe
+wpn_1hs_axe_n_fpp_r4  = painful axe
+wpn_1hs_axe_n_fpp_r5  = painful axe
+wpn_1hs_axe_n_fpp_r6  = painful axe
+wpn_1hs_axe_n_fpp_r7  = painful axe
+wpn_1hs_axe_n_fpp_r8  = painful axe
+wpn_1hs_axe_n_fpp_r9  = painful axe
+wpn_1hs_axe_n_fpp_r10 = painful axe
+wpn_1hs_axe_n_fpp_r11 = painful axe
+wpn_1hs_axe_n_fpp_r12 = painful axe
+wpn_1hs_axe_n_fpp_r13 = painful axe
+wpn_1hs_axe_n_fpp_r14 = painful axe
+wpn_1hs_axe_n_fpp_r15 = painful axe
+wpn_1hs_axe_n_fpp_r16 = painful axe
+wpn_1hs_axe_n_fpp_r17 = painful axe
+wpn_1hs_axe_n_fpp_r18 = painful axe
+wpn_1hs_axe_n_fpp_r19 = painful axe
+wpn_1hs_axe_n_fpp_r20 = painful axe
+wpn_1hs_axe_n_fpp_r21 = painful axe
+wpn_1hs_axe_n_fpp_r22 = painful axe
+wpn_1hs_axe_n_fpp_r23 = painful axe
+wpn_1hs_axe_n_fpp_r24 = painful axe
+
+wpn_1hs_axe_p_fpp_r1  =  m-axe
+wpn_1hs_axe_p_fpp_r2  =  m-axe
+wpn_1hs_axe_p_fpp_r3  =  m-axe
+wpn_1hs_axe_p_fpp_r4  =  m-axe
+wpn_1hs_axe_p_fpp_r5  =  m-axe
+wpn_1hs_axe_p_fpp_r6  =  m-axe
+wpn_1hs_axe_p_fpp_r7  =  m-axe
+wpn_1hs_axe_p_fpp_r8  =  m-axe
+wpn_1hs_axe_p_fpp_r9  =  m-axe
+wpn_1hs_axe_p_fpp_r10 =  m-axe
+wpn_1hs_axe_p_fpp_r11 =  m-axe
+wpn_1hs_axe_p_fpp_r12 =  m-axe
+wpn_1hs_axe_p_fpp_r13 =  m-axe
+wpn_1hs_axe_p_fpp_r14 =  m-axe
+wpn_1hs_axe_p_fpp_r15 =  m-axe
+wpn_1hs_axe_p_fpp_r16 =  m-axe
+wpn_1hs_axe_p_fpp_r17 =  m-axe
+wpn_1hs_axe_p_fpp_r18 =  m-axe
+wpn_1hs_axe_p_fpp_r19 =  m-axe
+wpn_1hs_axe_p_fpp_r20 =  m-axe
+wpn_1hs_axe_p_fpp_r21 =  m-axe
+wpn_1hs_axe_p_fpp_r22 =  m-axe
+wpn_1hs_axe_p_fpp_r23 =  m-axe
+wpn_1hs_axe_p_fpp_r24 =  m-axe
+
+wpn_1hs_axe_s_fpp_r1  = cog
+wpn_1hs_axe_s_fpp_r2  = cog
+wpn_1hs_axe_s_fpp_r3  = cog
+wpn_1hs_axe_s_fpp_r4  = cog
+wpn_1hs_axe_s_fpp_r5  = cog
+wpn_1hs_axe_s_fpp_r6  = cog
+wpn_1hs_axe_s_fpp_r7  = cog
+wpn_1hs_axe_s_fpp_r8  = cog
+wpn_1hs_axe_s_fpp_r9  = cog
+wpn_1hs_axe_s_fpp_r10 = cog
+wpn_1hs_axe_s_fpp_r11 = cog
+wpn_1hs_axe_s_fpp_r12 = cog
+wpn_1hs_axe_s_fpp_r13 = cog
+wpn_1hs_axe_s_fpp_r14 = cog
+wpn_1hs_axe_s_fpp_r15 = cog
+wpn_1hs_axe_s_fpp_r16 = cog
+wpn_1hs_axe_s_fpp_r17 = cog
+wpn_1hs_axe_s_fpp_r18 = cog
+wpn_1hs_axe_s_fpp_r19 = cog
+wpn_1hs_axe_s_fpp_r20 = cog
+wpn_1hs_axe_s_fpp_r21 = cog
+wpn_1hs_axe_s_fpp_r22 = cog
+wpn_1hs_axe_s_fpp_r23 = cog
+wpn_1hs_axe_s_fpp_r24 = cog
+
+wpn_15hs_a_fpp_r1  = street cleaver
+wpn_15hs_a_fpp_r2  = street cleaver
+wpn_15hs_a_fpp_r3  = street cleaver
+wpn_15hs_a_fpp_r4  = street cleaver
+wpn_15hs_a_fpp_r5  = street cleaver
+wpn_15hs_a_fpp_r6  = street cleaver
+wpn_15hs_a_fpp_r7  = street cleaver
+wpn_15hs_a_fpp_r8  = street cleaver
+wpn_15hs_a_fpp_r9  = street cleaver
+wpn_15hs_a_fpp_r10 = street cleaver
+wpn_15hs_a_fpp_r11 = street cleaver
+wpn_15hs_a_fpp_r12 = street cleaver
+wpn_15hs_a_fpp_r13 = street cleaver
+wpn_15hs_a_fpp_r14 = street cleaver
+wpn_15hs_a_fpp_r15 = street cleaver
+wpn_15hs_a_fpp_r16 = street cleaver
+wpn_15hs_a_fpp_r17 = street cleaver
+wpn_15hs_a_fpp_r18 = street cleaver
+wpn_15hs_a_fpp_r19 = street cleaver
+wpn_15hs_a_fpp_r20 = street cleaver
+wpn_15hs_a_fpp_r21 = street cleaver
+wpn_15hs_a_fpp_r22 = street cleaver
+wpn_15hs_a_fpp_r23 = street cleaver
+wpn_15hs_a_fpp_r24 = street cleaver
+
+wpn_15hs_b_fpp_r1  = enso katana
+wpn_15hs_b_fpp_r2  = enso katana
+wpn_15hs_b_fpp_r3  = enso katana
+wpn_15hs_b_fpp_r4  = enso katana
+wpn_15hs_b_fpp_r5  = enso katana
+wpn_15hs_b_fpp_r6  = enso katana
+wpn_15hs_b_fpp_r7  = enso katana
+wpn_15hs_b_fpp_r8  = enso katana
+wpn_15hs_b_fpp_r9  = enso katana
+wpn_15hs_b_fpp_r10 = enso katana
+wpn_15hs_b_fpp_r11 = enso katana
+wpn_15hs_b_fpp_r12 = enso katana
+wpn_15hs_b_fpp_r13 = enso katana
+wpn_15hs_b_fpp_r14 = enso katana
+wpn_15hs_b_fpp_r15 = enso katana
+wpn_15hs_b_fpp_r16 = enso katana
+wpn_15hs_b_fpp_r17 = enso katana
+wpn_15hs_b_fpp_r18 = enso katana
+wpn_15hs_b_fpp_r19 = enso katana
+wpn_15hs_b_fpp_r20 = enso katana
+wpn_15hs_b_fpp_r21 = enso katana
+wpn_15hs_b_fpp_r22 = enso katana
+wpn_15hs_b_fpp_r23 = enso katana
+wpn_15hs_b_fpp_r24 = enso katana
+
+wpn_15hs_c_fpp_r1  = sawblade axe
+wpn_15hs_c_fpp_r2  = sawblade axe
+wpn_15hs_c_fpp_r3  = sawblade axe
+wpn_15hs_c_fpp_r4  = sawblade axe
+wpn_15hs_c_fpp_r5  = sawblade axe
+wpn_15hs_c_fpp_r6  = sawblade axe
+wpn_15hs_c_fpp_r7  = sawblade axe
+wpn_15hs_c_fpp_r8  = sawblade axe
+wpn_15hs_c_fpp_r9  = sawblade axe
+wpn_15hs_c_fpp_r10 = sawblade axe
+wpn_15hs_c_fpp_r11 = sawblade axe
+wpn_15hs_c_fpp_r12 = sawblade axe
+wpn_15hs_c_fpp_r13 = sawblade axe
+wpn_15hs_c_fpp_r14 = sawblade axe
+wpn_15hs_c_fpp_r15 = sawblade axe
+wpn_15hs_c_fpp_r16 = sawblade axe
+wpn_15hs_c_fpp_r17 = sawblade axe
+wpn_15hs_c_fpp_r18 = sawblade axe
+wpn_15hs_c_fpp_r19 = sawblade axe
+wpn_15hs_c_fpp_r20 = sawblade axe
+wpn_15hs_c_fpp_r21 = sawblade axe
+wpn_15hs_c_fpp_r22 = sawblade axe
+wpn_15hs_c_fpp_r23 = sawblade axe
+wpn_15hs_c_fpp_r24 = sawblade axe
+
+wpn_15hs_d_fpp_r1  = raggedy chopper
+wpn_15hs_d_fpp_r2  = raggedy chopper
+wpn_15hs_d_fpp_r3  = raggedy chopper
+wpn_15hs_d_fpp_r4  = raggedy chopper
+wpn_15hs_d_fpp_r5  = raggedy chopper
+wpn_15hs_d_fpp_r6  = raggedy chopper
+wpn_15hs_d_fpp_r7  = raggedy chopper
+wpn_15hs_d_fpp_r8  = raggedy chopper
+wpn_15hs_d_fpp_r9  = raggedy chopper
+wpn_15hs_d_fpp_r10 = raggedy chopper
+wpn_15hs_d_fpp_r11 = raggedy chopper
+wpn_15hs_d_fpp_r12 = raggedy chopper
+wpn_15hs_d_fpp_r13 = raggedy chopper
+wpn_15hs_d_fpp_r14 = raggedy chopper
+wpn_15hs_d_fpp_r15 = raggedy chopper
+wpn_15hs_d_fpp_r16 = raggedy chopper
+wpn_15hs_d_fpp_r17 = raggedy chopper
+wpn_15hs_d_fpp_r18 = raggedy chopper
+wpn_15hs_d_fpp_r19 = raggedy chopper
+wpn_15hs_d_fpp_r20 = raggedy chopper
+wpn_15hs_d_fpp_r21 = raggedy chopper
+wpn_15hs_d_fpp_r22 = raggedy chopper
+wpn_15hs_d_fpp_r23 = raggedy chopper
+wpn_15hs_d_fpp_r24 = raggedy chopper
+
+wpn_15hs_e_fpp_r1  = reliable axe
+wpn_15hs_e_fpp_r2  = reliable axe
+wpn_15hs_e_fpp_r3  = reliable axe
+wpn_15hs_e_fpp_r4  = reliable axe
+wpn_15hs_e_fpp_r5  = reliable axe
+wpn_15hs_e_fpp_r6  = reliable axe
+wpn_15hs_e_fpp_r7  = reliable axe
+wpn_15hs_e_fpp_r8  = reliable axe
+wpn_15hs_e_fpp_r9  = reliable axe
+wpn_15hs_e_fpp_r10 = reliable axe
+wpn_15hs_e_fpp_r11 = reliable axe
+wpn_15hs_e_fpp_r12 = reliable axe
+wpn_15hs_e_fpp_r13 = reliable axe
+wpn_15hs_e_fpp_r14 = reliable axe
+wpn_15hs_e_fpp_r15 = reliable axe
+wpn_15hs_e_fpp_r16 = reliable axe
+wpn_15hs_e_fpp_r17 = reliable axe
+wpn_15hs_e_fpp_r18 = reliable axe
+wpn_15hs_e_fpp_r19 = reliable axe
+wpn_15hs_e_fpp_r20 = reliable axe
+wpn_15hs_e_fpp_r21 = reliable axe
+wpn_15hs_e_fpp_r22 = reliable axe
+wpn_15hs_e_fpp_r23 = reliable axe
+wpn_15hs_e_fpp_r24 = reliable axe
+
+wpn_15hs_f_fpp_r1  = thirsty axe
+wpn_15hs_f_fpp_r2  = thirsty axe
+wpn_15hs_f_fpp_r3  = thirsty axe
+wpn_15hs_f_fpp_r4  = thirsty axe
+wpn_15hs_f_fpp_r5  = thirsty axe
+wpn_15hs_f_fpp_r6  = thirsty axe
+wpn_15hs_f_fpp_r7  = thirsty axe
+wpn_15hs_f_fpp_r8  = thirsty axe
+wpn_15hs_f_fpp_r9  = thirsty axe
+wpn_15hs_f_fpp_r10 = thirsty axe
+wpn_15hs_f_fpp_r11 = thirsty axe
+wpn_15hs_f_fpp_r12 = thirsty axe
+wpn_15hs_f_fpp_r13 = thirsty axe
+wpn_15hs_f_fpp_r14 = thirsty axe
+wpn_15hs_f_fpp_r15 = thirsty axe
+wpn_15hs_f_fpp_r16 = thirsty axe
+wpn_15hs_f_fpp_r17 = thirsty axe
+wpn_15hs_f_fpp_r18 = thirsty axe
+wpn_15hs_f_fpp_r19 = thirsty axe
+wpn_15hs_f_fpp_r20 = thirsty axe
+wpn_15hs_f_fpp_r21 = thirsty axe
+wpn_15hs_f_fpp_r22 = thirsty axe
+wpn_15hs_f_fpp_r23 = thirsty axe
+wpn_15hs_f_fpp_r24 = thirsty axe
+
+wpn_15hs_g_fpp_r1  = heavy duty
+wpn_15hs_g_fpp_r2  = heavy duty
+wpn_15hs_g_fpp_r3  = heavy duty
+wpn_15hs_g_fpp_r4  = heavy duty
+wpn_15hs_g_fpp_r5  = heavy duty
+wpn_15hs_g_fpp_r6  = heavy duty
+wpn_15hs_g_fpp_r7  = heavy duty
+wpn_15hs_g_fpp_r8  = heavy duty
+wpn_15hs_g_fpp_r9  = heavy duty
+wpn_15hs_g_fpp_r10 = heavy duty
+wpn_15hs_g_fpp_r11 = heavy duty
+wpn_15hs_g_fpp_r12 = heavy duty
+wpn_15hs_g_fpp_r13 = heavy duty
+wpn_15hs_g_fpp_r14 = heavy duty
+wpn_15hs_g_fpp_r15 = heavy duty
+wpn_15hs_g_fpp_r16 = heavy duty
+wpn_15hs_g_fpp_r17 = heavy duty
+wpn_15hs_g_fpp_r18 = heavy duty
+wpn_15hs_g_fpp_r19 = heavy duty
+wpn_15hs_g_fpp_r20 = heavy duty
+wpn_15hs_g_fpp_r21 = heavy duty
+wpn_15hs_g_fpp_r22 = heavy duty
+wpn_15hs_g_fpp_r23 = heavy duty
+wpn_15hs_g_fpp_r24 = heavy duty
+
+wpn_15hs_h_fpp_r1  = twin axe
+wpn_15hs_h_fpp_r2  = twin axe
+wpn_15hs_h_fpp_r3  = twin axe
+wpn_15hs_h_fpp_r4  = twin axe
+wpn_15hs_h_fpp_r5  = twin axe
+wpn_15hs_h_fpp_r6  = twin axe
+wpn_15hs_h_fpp_r7  = twin axe
+wpn_15hs_h_fpp_r8  = twin axe
+wpn_15hs_h_fpp_r9  = twin axe
+wpn_15hs_h_fpp_r10 = twin axe
+wpn_15hs_h_fpp_r11 = twin axe
+wpn_15hs_h_fpp_r12 = twin axe
+wpn_15hs_h_fpp_r13 = twin axe
+wpn_15hs_h_fpp_r14 = twin axe
+wpn_15hs_h_fpp_r15 = twin axe
+wpn_15hs_h_fpp_r16 = twin axe
+wpn_15hs_h_fpp_r17 = twin axe
+wpn_15hs_h_fpp_r18 = twin axe
+wpn_15hs_h_fpp_r19 = twin axe
+wpn_15hs_h_fpp_r20 = twin axe
+wpn_15hs_h_fpp_r21 = twin axe
+wpn_15hs_h_fpp_r22 = twin axe
+wpn_15hs_h_fpp_r23 = twin axe
+wpn_15hs_h_fpp_r24 = twin axe
+
+wpn_15hs_i_fpp_r1  = simpleton
+wpn_15hs_i_fpp_r2  = simpleton
+wpn_15hs_i_fpp_r3  = simpleton
+wpn_15hs_i_fpp_r4  = simpleton
+wpn_15hs_i_fpp_r5  = simpleton
+wpn_15hs_i_fpp_r6  = simpleton
+wpn_15hs_i_fpp_r7  = simpleton
+wpn_15hs_i_fpp_r8  = simpleton
+wpn_15hs_i_fpp_r9  = simpleton
+wpn_15hs_i_fpp_r10 = simpleton
+wpn_15hs_i_fpp_r11 = simpleton
+wpn_15hs_i_fpp_r12 = simpleton
+wpn_15hs_i_fpp_r13 = simpleton
+wpn_15hs_i_fpp_r14 = simpleton
+wpn_15hs_i_fpp_r15 = simpleton
+wpn_15hs_i_fpp_r16 = simpleton
+wpn_15hs_i_fpp_r17 = simpleton
+wpn_15hs_i_fpp_r18 = simpleton
+wpn_15hs_i_fpp_r19 = simpleton
+wpn_15hs_i_fpp_r20 = simpleton
+wpn_15hs_i_fpp_r21 = simpleton
+wpn_15hs_i_fpp_r22 = simpleton
+wpn_15hs_i_fpp_r23 = simpleton
+wpn_15hs_i_fpp_r24 = simpleton
+
+wpn_15hs_j_fpp_r1  = overkill
+wpn_15hs_j_fpp_r2  = overkill
+wpn_15hs_j_fpp_r3  = overkill
+wpn_15hs_j_fpp_r4  = overkill
+wpn_15hs_j_fpp_r5  = overkill
+wpn_15hs_j_fpp_r6  = overkill
+wpn_15hs_j_fpp_r7  = overkill
+wpn_15hs_j_fpp_r8  = overkill
+wpn_15hs_j_fpp_r9  = overkill
+wpn_15hs_j_fpp_r10 = overkill
+wpn_15hs_j_fpp_r11 = overkill
+wpn_15hs_j_fpp_r12 = overkill
+wpn_15hs_j_fpp_r13 = overkill
+wpn_15hs_j_fpp_r14 = overkill
+wpn_15hs_j_fpp_r15 = overkill
+wpn_15hs_j_fpp_r16 = overkill
+wpn_15hs_j_fpp_r17 = overkill
+wpn_15hs_j_fpp_r18 = overkill
+wpn_15hs_j_fpp_r19 = overkill
+wpn_15hs_j_fpp_r20 = overkill
+wpn_15hs_j_fpp_r21 = overkill
+wpn_15hs_j_fpp_r22 = overkill
+wpn_15hs_j_fpp_r23 = overkill
+wpn_15hs_j_fpp_r24 = overkill
+
+wpn_15hs_k_fpp_r1  = dirty katana
+wpn_15hs_k_fpp_r2  = dirty katana
+wpn_15hs_k_fpp_r3  = dirty katana
+wpn_15hs_k_fpp_r4  = dirty katana
+wpn_15hs_k_fpp_r5  = dirty katana
+wpn_15hs_k_fpp_r6  = dirty katana
+wpn_15hs_k_fpp_r7  = dirty katana
+wpn_15hs_k_fpp_r8  = dirty katana
+wpn_15hs_k_fpp_r9  = dirty katana
+wpn_15hs_k_fpp_r10 = dirty katana
+wpn_15hs_k_fpp_r11 = dirty katana
+wpn_15hs_k_fpp_r12 = dirty katana
+wpn_15hs_k_fpp_r13 = dirty katana
+wpn_15hs_k_fpp_r14 = dirty katana
+wpn_15hs_k_fpp_r15 = dirty katana
+wpn_15hs_k_fpp_r16 = dirty katana
+wpn_15hs_k_fpp_r17 = dirty katana
+wpn_15hs_k_fpp_r18 = dirty katana
+wpn_15hs_k_fpp_r19 = dirty katana
+wpn_15hs_k_fpp_r20 = dirty katana
+wpn_15hs_k_fpp_r21 = dirty katana
+wpn_15hs_k_fpp_r22 = dirty katana
+wpn_15hs_k_fpp_r23 = dirty katana
+wpn_15hs_k_fpp_r24 = dirty katana
+
+wpn_15hs_l_fpp_r1  = barbarian
+wpn_15hs_l_fpp_r2  = barbarian
+wpn_15hs_l_fpp_r3  = barbarian
+wpn_15hs_l_fpp_r4  = barbarian
+wpn_15hs_l_fpp_r5  = barbarian
+wpn_15hs_l_fpp_r6  = barbarian
+wpn_15hs_l_fpp_r7  = barbarian
+wpn_15hs_l_fpp_r8  = barbarian
+wpn_15hs_l_fpp_r9  = barbarian
+wpn_15hs_l_fpp_r10 = barbarian
+wpn_15hs_l_fpp_r11 = barbarian
+wpn_15hs_l_fpp_r12 = barbarian
+wpn_15hs_l_fpp_r13 = barbarian
+wpn_15hs_l_fpp_r14 = barbarian
+wpn_15hs_l_fpp_r15 = barbarian
+wpn_15hs_l_fpp_r16 = barbarian
+wpn_15hs_l_fpp_r17 = barbarian
+wpn_15hs_l_fpp_r18 = barbarian
+wpn_15hs_l_fpp_r19 = barbarian
+wpn_15hs_l_fpp_r20 = barbarian
+wpn_15hs_l_fpp_r21 = barbarian
+wpn_15hs_l_fpp_r22 = barbarian
+wpn_15hs_l_fpp_r23 = barbarian
+wpn_15hs_l_fpp_r24 = barbarian
+
+wpn_1hb_ham_a_fpp_r1  = mechanics hammer
+wpn_1hb_ham_a_fpp_r2  = mechanics hammer
+wpn_1hb_ham_a_fpp_r3  = mechanics hammer
+wpn_1hb_ham_a_fpp_r4  = mechanics hammer
+wpn_1hb_ham_a_fpp_r5  = mechanics hammer
+wpn_1hb_ham_a_fpp_r6  = mechanics hammer
+wpn_1hb_ham_a_fpp_r7  = mechanics hammer
+wpn_1hb_ham_a_fpp_r8  = mechanics hammer
+wpn_1hb_ham_a_fpp_r9  = mechanics hammer
+wpn_1hb_ham_a_fpp_r10 = mechanics hammer
+wpn_1hb_ham_a_fpp_r11 = mechanics hammer
+wpn_1hb_ham_a_fpp_r12 = mechanics hammer
+wpn_1hb_ham_a_fpp_r13 = mechanics hammer
+wpn_1hb_ham_a_fpp_r14 = mechanics hammer
+wpn_1hb_ham_a_fpp_r15 = mechanics hammer
+wpn_1hb_ham_a_fpp_r16 = mechanics hammer
+wpn_1hb_ham_a_fpp_r17 = mechanics hammer
+wpn_1hb_ham_a_fpp_r18 = mechanics hammer
+wpn_1hb_ham_a_fpp_r19 = mechanics hammer
+wpn_1hb_ham_a_fpp_r20 = mechanics hammer
+wpn_1hb_ham_a_fpp_r21 = mechanics hammer
+wpn_1hb_ham_a_fpp_r22 = mechanics hammer
+wpn_1hb_ham_a_fpp_r23 = mechanics hammer
+wpn_1hb_ham_a_fpp_r24 = mechanics hammer
+
+wpn_1hb_ham_b_fpp_r1  = scrapper hammer
+wpn_1hb_ham_b_fpp_r2  = scrapper hammer
+wpn_1hb_ham_b_fpp_r3  = scrapper hammer
+wpn_1hb_ham_b_fpp_r4  = scrapper hammer
+wpn_1hb_ham_b_fpp_r5  = scrapper hammer
+wpn_1hb_ham_b_fpp_r6  = scrapper hammer
+wpn_1hb_ham_b_fpp_r7  = scrapper hammer
+wpn_1hb_ham_b_fpp_r8  = scrapper hammer
+wpn_1hb_ham_b_fpp_r9  = scrapper hammer
+wpn_1hb_ham_b_fpp_r10 = scrapper hammer
+wpn_1hb_ham_b_fpp_r11 = scrapper hammer
+wpn_1hb_ham_b_fpp_r12 = scrapper hammer
+wpn_1hb_ham_b_fpp_r13 = scrapper hammer
+wpn_1hb_ham_b_fpp_r14 = scrapper hammer
+wpn_1hb_ham_b_fpp_r15 = scrapper hammer
+wpn_1hb_ham_b_fpp_r16 = scrapper hammer
+wpn_1hb_ham_b_fpp_r17 = scrapper hammer
+wpn_1hb_ham_b_fpp_r18 = scrapper hammer
+wpn_1hb_ham_b_fpp_r19 = scrapper hammer
+wpn_1hb_ham_b_fpp_r20 = scrapper hammer
+wpn_1hb_ham_b_fpp_r21 = scrapper hammer
+wpn_1hb_ham_b_fpp_r22 = scrapper hammer
+wpn_1hb_ham_b_fpp_r23 = scrapper hammer
+wpn_1hb_ham_b_fpp_r24 = scrapper hammer
+
+wpn_1hb_ham_c_fpp_r1  = cooler pipe
+wpn_1hb_ham_c_fpp_r2  = cooler pipe
+wpn_1hb_ham_c_fpp_r3  = cooler pipe
+wpn_1hb_ham_c_fpp_r4  = cooler pipe
+wpn_1hb_ham_c_fpp_r5  = cooler pipe
+wpn_1hb_ham_c_fpp_r6  = cooler pipe
+wpn_1hb_ham_c_fpp_r7  = cooler pipe
+wpn_1hb_ham_c_fpp_r8  = cooler pipe
+wpn_1hb_ham_c_fpp_r9  = cooler pipe
+wpn_1hb_ham_c_fpp_r10 = cooler pipe
+wpn_1hb_ham_c_fpp_r11 = cooler pipe
+wpn_1hb_ham_c_fpp_r12 = cooler pipe
+wpn_1hb_ham_c_fpp_r13 = cooler pipe
+wpn_1hb_ham_c_fpp_r14 = cooler pipe
+wpn_1hb_ham_c_fpp_r15 = cooler pipe
+wpn_1hb_ham_c_fpp_r16 = cooler pipe
+wpn_1hb_ham_c_fpp_r17 = cooler pipe
+wpn_1hb_ham_c_fpp_r18 = cooler pipe
+wpn_1hb_ham_c_fpp_r19 = cooler pipe
+wpn_1hb_ham_c_fpp_r20 = cooler pipe
+wpn_1hb_ham_c_fpp_r21 = cooler pipe
+wpn_1hb_ham_c_fpp_r22 = cooler pipe
+wpn_1hb_ham_c_fpp_r23 = cooler pipe
+wpn_1hb_ham_c_fpp_r24 = cooler pipe
+
+wpn_1hb_ham_d_fpp_r1  = radiator hammer
+wpn_1hb_ham_d_fpp_r2  = radiator hammer
+wpn_1hb_ham_d_fpp_r3  = radiator hammer
+wpn_1hb_ham_d_fpp_r4  = radiator hammer
+wpn_1hb_ham_d_fpp_r5  = radiator hammer
+wpn_1hb_ham_d_fpp_r6  = radiator hammer
+wpn_1hb_ham_d_fpp_r7  = radiator hammer
+wpn_1hb_ham_d_fpp_r8  = radiator hammer
+wpn_1hb_ham_d_fpp_r9  = radiator hammer
+wpn_1hb_ham_d_fpp_r10 = radiator hammer
+wpn_1hb_ham_d_fpp_r11 = radiator hammer
+wpn_1hb_ham_d_fpp_r12 = radiator hammer
+wpn_1hb_ham_d_fpp_r13 = radiator hammer
+wpn_1hb_ham_d_fpp_r14 = radiator hammer
+wpn_1hb_ham_d_fpp_r15 = radiator hammer
+wpn_1hb_ham_d_fpp_r16 = radiator hammer
+wpn_1hb_ham_d_fpp_r17 = radiator hammer
+wpn_1hb_ham_d_fpp_r18 = radiator hammer
+wpn_1hb_ham_d_fpp_r19 = radiator hammer
+wpn_1hb_ham_d_fpp_r20 = radiator hammer
+wpn_1hb_ham_d_fpp_r21 = radiator hammer
+wpn_1hb_ham_d_fpp_r22 = radiator hammer
+wpn_1hb_ham_d_fpp_r23 = radiator hammer
+wpn_1hb_ham_d_fpp_r24 = radiator hammer
+
+wpn_1hb_ham_e_fpp_r1  = jointful pipe
+wpn_1hb_ham_e_fpp_r2  = jointful pipe
+wpn_1hb_ham_e_fpp_r3  = jointful pipe
+wpn_1hb_ham_e_fpp_r4  = jointful pipe
+wpn_1hb_ham_e_fpp_r5  = jointful pipe
+wpn_1hb_ham_e_fpp_r6  = jointful pipe
+wpn_1hb_ham_e_fpp_r7  = jointful pipe
+wpn_1hb_ham_e_fpp_r8  = jointful pipe
+wpn_1hb_ham_e_fpp_r9  = jointful pipe
+wpn_1hb_ham_e_fpp_r10 = jointful pipe
+wpn_1hb_ham_e_fpp_r11 = jointful pipe
+wpn_1hb_ham_e_fpp_r12 = jointful pipe
+wpn_1hb_ham_e_fpp_r13 = jointful pipe
+wpn_1hb_ham_e_fpp_r14 = jointful pipe
+wpn_1hb_ham_e_fpp_r15 = jointful pipe
+wpn_1hb_ham_e_fpp_r16 = jointful pipe
+wpn_1hb_ham_e_fpp_r17 = jointful pipe
+wpn_1hb_ham_e_fpp_r18 = jointful pipe
+wpn_1hb_ham_e_fpp_r19 = jointful pipe
+wpn_1hb_ham_e_fpp_r20 = jointful pipe
+wpn_1hb_ham_e_fpp_r21 = jointful pipe
+wpn_1hb_ham_e_fpp_r22 = jointful pipe
+wpn_1hb_ham_e_fpp_r23 = jointful pipe
+wpn_1hb_ham_e_fpp_r24 = jointful pipe
+
+wpn_1hb_ham_f_fpp_r1  = homemade hammer
+wpn_1hb_ham_f_fpp_r2  = homemade hammer
+wpn_1hb_ham_f_fpp_r3  = homemade hammer
+wpn_1hb_ham_f_fpp_r4  = homemade hammer
+wpn_1hb_ham_f_fpp_r5  = homemade hammer
+wpn_1hb_ham_f_fpp_r6  = homemade hammer
+wpn_1hb_ham_f_fpp_r7  = homemade hammer
+wpn_1hb_ham_f_fpp_r8  = homemade hammer
+wpn_1hb_ham_f_fpp_r9  = homemade hammer
+wpn_1hb_ham_f_fpp_r10 = homemade hammer
+wpn_1hb_ham_f_fpp_r11 = homemade hammer
+wpn_1hb_ham_f_fpp_r12 = homemade hammer
+wpn_1hb_ham_f_fpp_r13 = homemade hammer
+wpn_1hb_ham_f_fpp_r14 = homemade hammer
+wpn_1hb_ham_f_fpp_r15 = homemade hammer
+wpn_1hb_ham_f_fpp_r16 = homemade hammer
+wpn_1hb_ham_f_fpp_r17 = homemade hammer
+wpn_1hb_ham_f_fpp_r18 = homemade hammer
+wpn_1hb_ham_f_fpp_r19 = homemade hammer
+wpn_1hb_ham_f_fpp_r20 = homemade hammer
+wpn_1hb_ham_f_fpp_r21 = homemade hammer
+wpn_1hb_ham_f_fpp_r22 = homemade hammer
+wpn_1hb_ham_f_fpp_r23 = homemade hammer
+wpn_1hb_ham_f_fpp_r24 = homemade hammer
+
+wpn_1hb_ham_g_fpp_r1  = mohawk hammer
+wpn_1hb_ham_g_fpp_r2  = mohawk hammer
+wpn_1hb_ham_g_fpp_r3  = mohawk hammer
+wpn_1hb_ham_g_fpp_r4  = mohawk hammer
+wpn_1hb_ham_g_fpp_r5  = mohawk hammer
+wpn_1hb_ham_g_fpp_r6  = mohawk hammer
+wpn_1hb_ham_g_fpp_r7  = mohawk hammer
+wpn_1hb_ham_g_fpp_r8  = mohawk hammer
+wpn_1hb_ham_g_fpp_r9  = mohawk hammer
+wpn_1hb_ham_g_fpp_r10 = mohawk hammer
+wpn_1hb_ham_g_fpp_r11 = mohawk hammer
+wpn_1hb_ham_g_fpp_r12 = mohawk hammer
+wpn_1hb_ham_g_fpp_r13 = mohawk hammer
+wpn_1hb_ham_g_fpp_r14 = mohawk hammer
+wpn_1hb_ham_g_fpp_r15 = mohawk hammer
+wpn_1hb_ham_g_fpp_r16 = mohawk hammer
+wpn_1hb_ham_g_fpp_r17 = mohawk hammer
+wpn_1hb_ham_g_fpp_r18 = mohawk hammer
+wpn_1hb_ham_g_fpp_r19 = mohawk hammer
+wpn_1hb_ham_g_fpp_r20 = mohawk hammer
+wpn_1hb_ham_g_fpp_r21 = mohawk hammer
+wpn_1hb_ham_g_fpp_r22 = mohawk hammer
+wpn_1hb_ham_g_fpp_r23 = mohawk hammer
+wpn_1hb_ham_g_fpp_r24 = mohawk hammer
+
+wpn_1hb_ham_h_fpp_r1  = antique hammer
+wpn_1hb_ham_h_fpp_r2  = antique hammer
+wpn_1hb_ham_h_fpp_r3  = antique hammer
+wpn_1hb_ham_h_fpp_r4  = antique hammer
+wpn_1hb_ham_h_fpp_r5  = antique hammer
+wpn_1hb_ham_h_fpp_r6  = antique hammer
+wpn_1hb_ham_h_fpp_r7  = antique hammer
+wpn_1hb_ham_h_fpp_r8  = antique hammer
+wpn_1hb_ham_h_fpp_r9  = antique hammer
+wpn_1hb_ham_h_fpp_r10 = antique hammer
+wpn_1hb_ham_h_fpp_r11 = antique hammer
+wpn_1hb_ham_h_fpp_r12 = antique hammer
+wpn_1hb_ham_h_fpp_r13 = antique hammer
+wpn_1hb_ham_h_fpp_r14 = antique hammer
+wpn_1hb_ham_h_fpp_r15 = antique hammer
+wpn_1hb_ham_h_fpp_r16 = antique hammer
+wpn_1hb_ham_h_fpp_r17 = antique hammer
+wpn_1hb_ham_h_fpp_r18 = antique hammer
+wpn_1hb_ham_h_fpp_r19 = antique hammer
+wpn_1hb_ham_h_fpp_r20 = antique hammer
+wpn_1hb_ham_h_fpp_r21 = antique hammer
+wpn_1hb_ham_h_fpp_r22 = antique hammer
+wpn_1hb_ham_h_fpp_r23 = antique hammer
+wpn_1hb_ham_h_fpp_r24 = antique hammer
+
+wpn_1hb_ham_i_fpp_r1  = brilliant hammer
+wpn_1hb_ham_i_fpp_r2  = brilliant hammer
+wpn_1hb_ham_i_fpp_r3  = brilliant hammer
+wpn_1hb_ham_i_fpp_r4  = brilliant hammer
+wpn_1hb_ham_i_fpp_r5  = brilliant hammer
+wpn_1hb_ham_i_fpp_r6  = brilliant hammer
+wpn_1hb_ham_i_fpp_r7  = brilliant hammer
+wpn_1hb_ham_i_fpp_r8  = brilliant hammer
+wpn_1hb_ham_i_fpp_r9  = brilliant hammer
+wpn_1hb_ham_i_fpp_r10 = brilliant hammer
+wpn_1hb_ham_i_fpp_r11 = brilliant hammer
+wpn_1hb_ham_i_fpp_r12 = brilliant hammer
+wpn_1hb_ham_i_fpp_r13 = brilliant hammer
+wpn_1hb_ham_i_fpp_r14 = brilliant hammer
+wpn_1hb_ham_i_fpp_r15 = brilliant hammer
+wpn_1hb_ham_i_fpp_r16 = brilliant hammer
+wpn_1hb_ham_i_fpp_r17 = brilliant hammer
+wpn_1hb_ham_i_fpp_r18 = brilliant hammer
+wpn_1hb_ham_i_fpp_r19 = brilliant hammer
+wpn_1hb_ham_i_fpp_r20 = brilliant hammer
+wpn_1hb_ham_i_fpp_r21 = brilliant hammer
+wpn_1hb_ham_i_fpp_r22 = brilliant hammer
+wpn_1hb_ham_i_fpp_r23 = brilliant hammer
+wpn_1hb_ham_i_fpp_r24 = brilliant hammer
+
+wpn_1hb_ham_k_fpp_r1  = gunhammer
+wpn_1hb_ham_k_fpp_r2  = gunhammer
+wpn_1hb_ham_k_fpp_r3  = gunhammer
+wpn_1hb_ham_k_fpp_r4  = gunhammer
+wpn_1hb_ham_k_fpp_r5  = gunhammer
+wpn_1hb_ham_k_fpp_r6  = gunhammer
+wpn_1hb_ham_k_fpp_r7  = gunhammer
+wpn_1hb_ham_k_fpp_r8  = gunhammer
+wpn_1hb_ham_k_fpp_r9  = gunhammer
+wpn_1hb_ham_k_fpp_r10 = gunhammer
+wpn_1hb_ham_k_fpp_r11 = gunhammer
+wpn_1hb_ham_k_fpp_r12 = gunhammer
+wpn_1hb_ham_k_fpp_r13 = gunhammer
+wpn_1hb_ham_k_fpp_r14 = gunhammer
+wpn_1hb_ham_k_fpp_r15 = gunhammer
+wpn_1hb_ham_k_fpp_r16 = gunhammer
+wpn_1hb_ham_k_fpp_r17 = gunhammer
+wpn_1hb_ham_k_fpp_r18 = gunhammer
+wpn_1hb_ham_k_fpp_r19 = gunhammer
+wpn_1hb_ham_k_fpp_r20 = gunhammer
+wpn_1hb_ham_k_fpp_r21 = gunhammer
+wpn_1hb_ham_k_fpp_r22 = gunhammer
+wpn_1hb_ham_k_fpp_r23 = gunhammer
+wpn_1hb_ham_k_fpp_r24 = gunhammer
+
+wpn_1hb_ham_l_fpp_r1  = meat squasher
+wpn_1hb_ham_l_fpp_r2  = meat squasher
+wpn_1hb_ham_l_fpp_r3  = meat squasher
+wpn_1hb_ham_l_fpp_r4  = meat squasher
+wpn_1hb_ham_l_fpp_r5  = meat squasher
+wpn_1hb_ham_l_fpp_r6  = meat squasher
+wpn_1hb_ham_l_fpp_r7  = meat squasher
+wpn_1hb_ham_l_fpp_r8  = meat squasher
+wpn_1hb_ham_l_fpp_r9  = meat squasher
+wpn_1hb_ham_l_fpp_r10 = meat squasher
+wpn_1hb_ham_l_fpp_r11 = meat squasher
+wpn_1hb_ham_l_fpp_r12 = meat squasher
+wpn_1hb_ham_l_fpp_r13 = meat squasher
+wpn_1hb_ham_l_fpp_r14 = meat squasher
+wpn_1hb_ham_l_fpp_r15 = meat squasher
+wpn_1hb_ham_l_fpp_r16 = meat squasher
+wpn_1hb_ham_l_fpp_r17 = meat squasher
+wpn_1hb_ham_l_fpp_r18 = meat squasher
+wpn_1hb_ham_l_fpp_r19 = meat squasher
+wpn_1hb_ham_l_fpp_r20 = meat squasher
+wpn_1hb_ham_l_fpp_r21 = meat squasher
+wpn_1hb_ham_l_fpp_r22 = meat squasher
+wpn_1hb_ham_l_fpp_r23 = meat squasher
+wpn_1hb_ham_l_fpp_r24 = meat squasher
+
+wpn_1hb_ham_m_fpp_r1  = plumbers hammer
+wpn_1hb_ham_m_fpp_r2  = plumbers hammer
+wpn_1hb_ham_m_fpp_r3  = plumbers hammer
+wpn_1hb_ham_m_fpp_r4  = plumbers hammer
+wpn_1hb_ham_m_fpp_r5  = plumbers hammer
+wpn_1hb_ham_m_fpp_r6  = plumbers hammer
+wpn_1hb_ham_m_fpp_r7  = plumbers hammer
+wpn_1hb_ham_m_fpp_r8  = plumbers hammer
+wpn_1hb_ham_m_fpp_r9  = plumbers hammer
+wpn_1hb_ham_m_fpp_r10 = plumbers hammer
+wpn_1hb_ham_m_fpp_r11 = plumbers hammer
+wpn_1hb_ham_m_fpp_r12 = plumbers hammer
+wpn_1hb_ham_m_fpp_r13 = plumbers hammer
+wpn_1hb_ham_m_fpp_r14 = plumbers hammer
+wpn_1hb_ham_m_fpp_r15 = plumbers hammer
+wpn_1hb_ham_m_fpp_r16 = plumbers hammer
+wpn_1hb_ham_m_fpp_r17 = plumbers hammer
+wpn_1hb_ham_m_fpp_r18 = plumbers hammer
+wpn_1hb_ham_m_fpp_r19 = plumbers hammer
+wpn_1hb_ham_m_fpp_r20 = plumbers hammer
+wpn_1hb_ham_m_fpp_r21 = plumbers hammer
+wpn_1hb_ham_m_fpp_r22 = plumbers hammer
+wpn_1hb_ham_m_fpp_r23 = plumbers hammer
+wpn_1hb_ham_m_fpp_r24 = plumbers hammer
+
+wpn_1hb_ham_n_fpp_r1  = clamp hammer
+wpn_1hb_ham_n_fpp_r2  = clamp hammer
+wpn_1hb_ham_n_fpp_r3  = clamp hammer
+wpn_1hb_ham_n_fpp_r4  = clamp hammer
+wpn_1hb_ham_n_fpp_r5  = clamp hammer
+wpn_1hb_ham_n_fpp_r6  = clamp hammer
+wpn_1hb_ham_n_fpp_r7  = clamp hammer
+wpn_1hb_ham_n_fpp_r8  = clamp hammer
+wpn_1hb_ham_n_fpp_r9  = clamp hammer
+wpn_1hb_ham_n_fpp_r10 = clamp hammer
+wpn_1hb_ham_n_fpp_r11 = clamp hammer
+wpn_1hb_ham_n_fpp_r12 = clamp hammer
+wpn_1hb_ham_n_fpp_r13 = clamp hammer
+wpn_1hb_ham_n_fpp_r14 = clamp hammer
+wpn_1hb_ham_n_fpp_r15 = clamp hammer
+wpn_1hb_ham_n_fpp_r16 = clamp hammer
+wpn_1hb_ham_n_fpp_r17 = clamp hammer
+wpn_1hb_ham_n_fpp_r18 = clamp hammer
+wpn_1hb_ham_n_fpp_r19 = clamp hammer
+wpn_1hb_ham_n_fpp_r20 = clamp hammer
+wpn_1hb_ham_n_fpp_r21 = clamp hammer
+wpn_1hb_ham_n_fpp_r22 = clamp hammer
+wpn_1hb_ham_n_fpp_r23 = clamp hammer
+wpn_1hb_ham_n_fpp_r24 = clamp hammer
+
+wpn_1hb_ham_o_fpp_r1  = holemaker
+wpn_1hb_ham_o_fpp_r2  = holemaker
+wpn_1hb_ham_o_fpp_r3  = holemaker
+wpn_1hb_ham_o_fpp_r4  = holemaker
+wpn_1hb_ham_o_fpp_r5  = holemaker
+wpn_1hb_ham_o_fpp_r6  = holemaker
+wpn_1hb_ham_o_fpp_r7  = holemaker
+wpn_1hb_ham_o_fpp_r8  = holemaker
+wpn_1hb_ham_o_fpp_r9  = holemaker
+wpn_1hb_ham_o_fpp_r10 = holemaker
+wpn_1hb_ham_o_fpp_r11 = holemaker
+wpn_1hb_ham_o_fpp_r12 = holemaker
+wpn_1hb_ham_o_fpp_r13 = holemaker
+wpn_1hb_ham_o_fpp_r14 = holemaker
+wpn_1hb_ham_o_fpp_r15 = holemaker
+wpn_1hb_ham_o_fpp_r16 = holemaker
+wpn_1hb_ham_o_fpp_r17 = holemaker
+wpn_1hb_ham_o_fpp_r18 = holemaker
+wpn_1hb_ham_o_fpp_r19 = holemaker
+wpn_1hb_ham_o_fpp_r20 = holemaker
+wpn_1hb_ham_o_fpp_r21 = holemaker
+wpn_1hb_ham_o_fpp_r22 = holemaker
+wpn_1hb_ham_o_fpp_r23 = holemaker
+wpn_1hb_ham_o_fpp_r24 = holemaker
+
+wpn_1hb_ham_p_fpp_r1  = smasher
+wpn_1hb_ham_p_fpp_r2  = smasher
+wpn_1hb_ham_p_fpp_r3  = smasher
+wpn_1hb_ham_p_fpp_r4  = smasher
+wpn_1hb_ham_p_fpp_r5  = smasher
+wpn_1hb_ham_p_fpp_r6  = smasher
+wpn_1hb_ham_p_fpp_r7  = smasher
+wpn_1hb_ham_p_fpp_r8  = smasher
+wpn_1hb_ham_p_fpp_r9  = smasher
+wpn_1hb_ham_p_fpp_r10 = smasher
+wpn_1hb_ham_p_fpp_r11 = smasher
+wpn_1hb_ham_p_fpp_r12 = smasher
+wpn_1hb_ham_p_fpp_r13 = smasher
+wpn_1hb_ham_p_fpp_r14 = smasher
+wpn_1hb_ham_p_fpp_r15 = smasher
+wpn_1hb_ham_p_fpp_r16 = smasher
+wpn_1hb_ham_p_fpp_r17 = smasher
+wpn_1hb_ham_p_fpp_r18 = smasher
+wpn_1hb_ham_p_fpp_r19 = smasher
+wpn_1hb_ham_p_fpp_r20 = smasher
+wpn_1hb_ham_p_fpp_r21 = smasher
+wpn_1hb_ham_p_fpp_r22 = smasher
+wpn_1hb_ham_p_fpp_r23 = smasher
+wpn_1hb_ham_p_fpp_r24 = smasher
+
+wpn_1hb_stk_a_fpp_r1  = reinforced stick
+wpn_1hb_stk_a_fpp_r2  = reinforced stick
+wpn_1hb_stk_a_fpp_r3  = reinforced stick
+wpn_1hb_stk_a_fpp_r4  = reinforced stick
+wpn_1hb_stk_a_fpp_r5  = reinforced stick
+wpn_1hb_stk_a_fpp_r6  = reinforced stick
+wpn_1hb_stk_a_fpp_r7  = reinforced stick
+wpn_1hb_stk_a_fpp_r8  = reinforced stick
+wpn_1hb_stk_a_fpp_r9  = reinforced stick
+wpn_1hb_stk_a_fpp_r10 = reinforced stick
+wpn_1hb_stk_a_fpp_r11 = reinforced stick
+wpn_1hb_stk_a_fpp_r12 = reinforced stick
+wpn_1hb_stk_a_fpp_r13 = reinforced stick
+wpn_1hb_stk_a_fpp_r14 = reinforced stick
+wpn_1hb_stk_a_fpp_r15 = reinforced stick
+wpn_1hb_stk_a_fpp_r16 = reinforced stick
+wpn_1hb_stk_a_fpp_r17 = reinforced stick
+wpn_1hb_stk_a_fpp_r18 = reinforced stick
+wpn_1hb_stk_a_fpp_r19 = reinforced stick
+wpn_1hb_stk_a_fpp_r20 = reinforced stick
+wpn_1hb_stk_a_fpp_r21 = reinforced stick
+wpn_1hb_stk_a_fpp_r22 = reinforced stick
+wpn_1hb_stk_a_fpp_r23 = reinforced stick
+wpn_1hb_stk_a_fpp_r24 = reinforced stick
+
+wpn_1hb_stk_d_fpp_r1  = the bomber
+wpn_1hb_stk_d_fpp_r2  = the bomber
+wpn_1hb_stk_d_fpp_r3  = the bomber
+wpn_1hb_stk_d_fpp_r4  = the bomber
+wpn_1hb_stk_d_fpp_r5  = the bomber
+wpn_1hb_stk_d_fpp_r6  = the bomber
+wpn_1hb_stk_d_fpp_r7  = the bomber
+wpn_1hb_stk_d_fpp_r8  = the bomber
+wpn_1hb_stk_d_fpp_r9  = the bomber
+wpn_1hb_stk_d_fpp_r10 = the bomber
+wpn_1hb_stk_d_fpp_r11 = the bomber
+wpn_1hb_stk_d_fpp_r12 = the bomber
+wpn_1hb_stk_d_fpp_r13 = the bomber
+wpn_1hb_stk_d_fpp_r14 = the bomber
+wpn_1hb_stk_d_fpp_r15 = the bomber
+wpn_1hb_stk_d_fpp_r16 = the bomber
+wpn_1hb_stk_d_fpp_r17 = the bomber
+wpn_1hb_stk_d_fpp_r18 = the bomber
+wpn_1hb_stk_d_fpp_r19 = the bomber
+wpn_1hb_stk_d_fpp_r20 = the bomber
+wpn_1hb_stk_d_fpp_r21 = the bomber
+wpn_1hb_stk_d_fpp_r22 = the bomber
+wpn_1hb_stk_d_fpp_r23 = the bomber
+wpn_1hb_stk_d_fpp_r24 = the bomber
+
+wpn_1hb_stk_e_fpp_r1  = police stick
+wpn_1hb_stk_e_fpp_r2  = police stick
+wpn_1hb_stk_e_fpp_r3  = police stick
+wpn_1hb_stk_e_fpp_r4  = police stick
+wpn_1hb_stk_e_fpp_r5  = police stick
+wpn_1hb_stk_e_fpp_r6  = police stick
+wpn_1hb_stk_e_fpp_r7  = police stick
+wpn_1hb_stk_e_fpp_r8  = police stick
+wpn_1hb_stk_e_fpp_r9  = police stick
+wpn_1hb_stk_e_fpp_r10 = police stick
+wpn_1hb_stk_e_fpp_r11 = police stick
+wpn_1hb_stk_e_fpp_r12 = police stick
+wpn_1hb_stk_e_fpp_r13 = police stick
+wpn_1hb_stk_e_fpp_r14 = police stick
+wpn_1hb_stk_e_fpp_r15 = police stick
+wpn_1hb_stk_e_fpp_r16 = police stick
+wpn_1hb_stk_e_fpp_r17 = police stick
+wpn_1hb_stk_e_fpp_r18 = police stick
+wpn_1hb_stk_e_fpp_r19 = police stick
+wpn_1hb_stk_e_fpp_r20 = police stick
+wpn_1hb_stk_e_fpp_r21 = police stick
+wpn_1hb_stk_e_fpp_r22 = police stick
+wpn_1hb_stk_e_fpp_r23 = police stick
+wpn_1hb_stk_e_fpp_r24 = police stick
+
+wpn_1hb_stk_g_fpp_r1  = board stick
+wpn_1hb_stk_g_fpp_r2  = board stick
+wpn_1hb_stk_g_fpp_r3  = board stick
+wpn_1hb_stk_g_fpp_r4  = board stick
+wpn_1hb_stk_g_fpp_r5  = board stick
+wpn_1hb_stk_g_fpp_r6  = board stick
+wpn_1hb_stk_g_fpp_r7  = board stick
+wpn_1hb_stk_g_fpp_r8  = board stick
+wpn_1hb_stk_g_fpp_r9  = board stick
+wpn_1hb_stk_g_fpp_r10 = board stick
+wpn_1hb_stk_g_fpp_r11 = board stick
+wpn_1hb_stk_g_fpp_r12 = board stick
+wpn_1hb_stk_g_fpp_r13 = board stick
+wpn_1hb_stk_g_fpp_r14 = board stick
+wpn_1hb_stk_g_fpp_r15 = board stick
+wpn_1hb_stk_g_fpp_r16 = board stick
+wpn_1hb_stk_g_fpp_r17 = board stick
+wpn_1hb_stk_g_fpp_r18 = board stick
+wpn_1hb_stk_g_fpp_r19 = board stick
+wpn_1hb_stk_g_fpp_r20 = board stick
+wpn_1hb_stk_g_fpp_r21 = board stick
+wpn_1hb_stk_g_fpp_r22 = board stick
+wpn_1hb_stk_g_fpp_r23 = board stick
+wpn_1hb_stk_g_fpp_r24 = board stick
+
+wpn_1hb_stk_h_fpp_r1  = rude stick
+wpn_1hb_stk_h_fpp_r2  = rude stick
+wpn_1hb_stk_h_fpp_r3  = rude stick
+wpn_1hb_stk_h_fpp_r4  = rude stick
+wpn_1hb_stk_h_fpp_r5  = rude stick
+wpn_1hb_stk_h_fpp_r6  = rude stick
+wpn_1hb_stk_h_fpp_r7  = rude stick
+wpn_1hb_stk_h_fpp_r8  = rude stick
+wpn_1hb_stk_h_fpp_r9  = rude stick
+wpn_1hb_stk_h_fpp_r10 = rude stick
+wpn_1hb_stk_h_fpp_r11 = rude stick
+wpn_1hb_stk_h_fpp_r12 = rude stick
+wpn_1hb_stk_h_fpp_r13 = rude stick
+wpn_1hb_stk_h_fpp_r14 = rude stick
+wpn_1hb_stk_h_fpp_r15 = rude stick
+wpn_1hb_stk_h_fpp_r16 = rude stick
+wpn_1hb_stk_h_fpp_r17 = rude stick
+wpn_1hb_stk_h_fpp_r18 = rude stick
+wpn_1hb_stk_h_fpp_r19 = rude stick
+wpn_1hb_stk_h_fpp_r20 = rude stick
+wpn_1hb_stk_h_fpp_r21 = rude stick
+wpn_1hb_stk_h_fpp_r22 = rude stick
+wpn_1hb_stk_h_fpp_r23 = rude stick
+wpn_1hb_stk_h_fpp_r24 = rude stick
+
+wpn_1hb_stk_i_fpp_r1  = table leg
+wpn_1hb_stk_i_fpp_r2  = table leg
+wpn_1hb_stk_i_fpp_r3  = table leg
+wpn_1hb_stk_i_fpp_r4  = table leg
+wpn_1hb_stk_i_fpp_r5  = table leg
+wpn_1hb_stk_i_fpp_r6  = table leg
+wpn_1hb_stk_i_fpp_r7  = table leg
+wpn_1hb_stk_i_fpp_r8  = table leg
+wpn_1hb_stk_i_fpp_r9  = table leg
+wpn_1hb_stk_i_fpp_r10 = table leg
+wpn_1hb_stk_i_fpp_r11 = table leg
+wpn_1hb_stk_i_fpp_r12 = table leg
+wpn_1hb_stk_i_fpp_r13 = table leg
+wpn_1hb_stk_i_fpp_r14 = table leg
+wpn_1hb_stk_i_fpp_r15 = table leg
+wpn_1hb_stk_i_fpp_r16 = table leg
+wpn_1hb_stk_i_fpp_r17 = table leg
+wpn_1hb_stk_i_fpp_r18 = table leg
+wpn_1hb_stk_i_fpp_r19 = table leg
+wpn_1hb_stk_i_fpp_r20 = table leg
+wpn_1hb_stk_i_fpp_r21 = table leg
+wpn_1hb_stk_i_fpp_r22 = table leg
+wpn_1hb_stk_i_fpp_r23 = table leg
+wpn_1hb_stk_i_fpp_r24 = table leg
+
+wpn_1hb_mace_a_fpp_r1  = rusty mace
+wpn_1hb_mace_a_fpp_r2  = rusty mace
+wpn_1hb_mace_a_fpp_r3  = rusty mace
+wpn_1hb_mace_a_fpp_r4  = rusty mace
+wpn_1hb_mace_a_fpp_r5  = rusty mace
+wpn_1hb_mace_a_fpp_r6  = rusty mace
+wpn_1hb_mace_a_fpp_r7  = rusty mace
+wpn_1hb_mace_a_fpp_r8  = rusty mace
+wpn_1hb_mace_a_fpp_r9  = rusty mace
+wpn_1hb_mace_a_fpp_r10 = rusty mace
+wpn_1hb_mace_a_fpp_r11 = rusty mace
+wpn_1hb_mace_a_fpp_r12 = rusty mace
+wpn_1hb_mace_a_fpp_r13 = rusty mace
+wpn_1hb_mace_a_fpp_r14 = rusty mace
+wpn_1hb_mace_a_fpp_r15 = rusty mace
+wpn_1hb_mace_a_fpp_r16 = rusty mace
+wpn_1hb_mace_a_fpp_r17 = rusty mace
+wpn_1hb_mace_a_fpp_r18 = rusty mace
+wpn_1hb_mace_a_fpp_r19 = rusty mace
+wpn_1hb_mace_a_fpp_r20 = rusty mace
+wpn_1hb_mace_a_fpp_r21 = rusty mace
+wpn_1hb_mace_a_fpp_r22 = rusty mace
+wpn_1hb_mace_a_fpp_r23 = rusty mace
+wpn_1hb_mace_a_fpp_r24 = rusty mace
+
+wpn_1hb_mace_b_fpp_r1  = bolted mace
+wpn_1hb_mace_b_fpp_r2  = bolted mace
+wpn_1hb_mace_b_fpp_r3  = bolted mace
+wpn_1hb_mace_b_fpp_r4  = bolted mace
+wpn_1hb_mace_b_fpp_r5  = bolted mace
+wpn_1hb_mace_b_fpp_r6  = bolted mace
+wpn_1hb_mace_b_fpp_r7  = bolted mace
+wpn_1hb_mace_b_fpp_r8  = bolted mace
+wpn_1hb_mace_b_fpp_r9  = bolted mace
+wpn_1hb_mace_b_fpp_r10 = bolted mace
+wpn_1hb_mace_b_fpp_r11 = bolted mace
+wpn_1hb_mace_b_fpp_r12 = bolted mace
+wpn_1hb_mace_b_fpp_r13 = bolted mace
+wpn_1hb_mace_b_fpp_r14 = bolted mace
+wpn_1hb_mace_b_fpp_r15 = bolted mace
+wpn_1hb_mace_b_fpp_r16 = bolted mace
+wpn_1hb_mace_b_fpp_r17 = bolted mace
+wpn_1hb_mace_b_fpp_r18 = bolted mace
+wpn_1hb_mace_b_fpp_r19 = bolted mace
+wpn_1hb_mace_b_fpp_r20 = bolted mace
+wpn_1hb_mace_b_fpp_r21 = bolted mace
+wpn_1hb_mace_b_fpp_r22 = bolted mace
+wpn_1hb_mace_b_fpp_r23 = bolted mace
+wpn_1hb_mace_b_fpp_r24 = bolted mace
+
+wpn_1hb_mace_c_fpp_r1  = the grinder
+wpn_1hb_mace_c_fpp_r2  = the grinder
+wpn_1hb_mace_c_fpp_r3  = the grinder
+wpn_1hb_mace_c_fpp_r4  = the grinder
+wpn_1hb_mace_c_fpp_r5  = the grinder
+wpn_1hb_mace_c_fpp_r6  = the grinder
+wpn_1hb_mace_c_fpp_r7  = the grinder
+wpn_1hb_mace_c_fpp_r8  = the grinder
+wpn_1hb_mace_c_fpp_r9  = the grinder
+wpn_1hb_mace_c_fpp_r10 = the grinder
+wpn_1hb_mace_c_fpp_r11 = the grinder
+wpn_1hb_mace_c_fpp_r12 = the grinder
+wpn_1hb_mace_c_fpp_r13 = the grinder
+wpn_1hb_mace_c_fpp_r14 = the grinder
+wpn_1hb_mace_c_fpp_r15 = the grinder
+wpn_1hb_mace_c_fpp_r16 = the grinder
+wpn_1hb_mace_c_fpp_r17 = the grinder
+wpn_1hb_mace_c_fpp_r18 = the grinder
+wpn_1hb_mace_c_fpp_r19 = the grinder
+wpn_1hb_mace_c_fpp_r20 = the grinder
+wpn_1hb_mace_c_fpp_r21 = the grinder
+wpn_1hb_mace_c_fpp_r22 = the grinder
+wpn_1hb_mace_c_fpp_r23 = the grinder
+wpn_1hb_mace_c_fpp_r24 = the grinder
+
+wpn_1hb_mace_d_fpp_r1  = medival mace
+wpn_1hb_mace_d_fpp_r2  = medival mace
+wpn_1hb_mace_d_fpp_r3  = medival mace
+wpn_1hb_mace_d_fpp_r4  = medival mace
+wpn_1hb_mace_d_fpp_r5  = medival mace
+wpn_1hb_mace_d_fpp_r6  = medival mace
+wpn_1hb_mace_d_fpp_r7  = medival mace
+wpn_1hb_mace_d_fpp_r8  = medival mace
+wpn_1hb_mace_d_fpp_r9  = medival mace
+wpn_1hb_mace_d_fpp_r10 = medival mace
+wpn_1hb_mace_d_fpp_r11 = medival mace
+wpn_1hb_mace_d_fpp_r12 = medival mace
+wpn_1hb_mace_d_fpp_r13 = medival mace
+wpn_1hb_mace_d_fpp_r14 = medival mace
+wpn_1hb_mace_d_fpp_r15 = medival mace
+wpn_1hb_mace_d_fpp_r16 = medival mace
+wpn_1hb_mace_d_fpp_r17 = medival mace
+wpn_1hb_mace_d_fpp_r18 = medival mace
+wpn_1hb_mace_d_fpp_r19 = medival mace
+wpn_1hb_mace_d_fpp_r20 = medival mace
+wpn_1hb_mace_d_fpp_r21 = medival mace
+wpn_1hb_mace_d_fpp_r22 = medival mace
+wpn_1hb_mace_d_fpp_r23 = medival mace
+wpn_1hb_mace_d_fpp_r24 = medival mace
+
+wpn_1hb_mace_e_fpp_r1  = hephaestus
+wpn_1hb_mace_e_fpp_r2  = hephaestus
+wpn_1hb_mace_e_fpp_r3  = hephaestus
+wpn_1hb_mace_e_fpp_r4  = hephaestus
+wpn_1hb_mace_e_fpp_r5  = hephaestus
+wpn_1hb_mace_e_fpp_r6  = hephaestus
+wpn_1hb_mace_e_fpp_r7  = hephaestus
+wpn_1hb_mace_e_fpp_r8  = hephaestus
+wpn_1hb_mace_e_fpp_r9  = hephaestus
+wpn_1hb_mace_e_fpp_r10 = hephaestus
+wpn_1hb_mace_e_fpp_r11 = hephaestus
+wpn_1hb_mace_e_fpp_r12 = hephaestus
+wpn_1hb_mace_e_fpp_r13 = hephaestus
+wpn_1hb_mace_e_fpp_r14 = hephaestus
+wpn_1hb_mace_e_fpp_r15 = hephaestus
+wpn_1hb_mace_e_fpp_r16 = hephaestus
+wpn_1hb_mace_e_fpp_r17 = hephaestus
+wpn_1hb_mace_e_fpp_r18 = hephaestus
+wpn_1hb_mace_e_fpp_r19 = hephaestus
+wpn_1hb_mace_e_fpp_r20 = hephaestus
+wpn_1hb_mace_e_fpp_r21 = hephaestus
+wpn_1hb_mace_e_fpp_r22 = hephaestus
+wpn_1hb_mace_e_fpp_r23 = hephaestus
+wpn_1hb_mace_e_fpp_r24 = hephaestus
+
+wpn_1hb_mace_f_fpp_r1  = turbine
+wpn_1hb_mace_f_fpp_r2  = turbine
+wpn_1hb_mace_f_fpp_r3  = turbine
+wpn_1hb_mace_f_fpp_r4  = turbine
+wpn_1hb_mace_f_fpp_r5  = turbine
+wpn_1hb_mace_f_fpp_r6  = turbine
+wpn_1hb_mace_f_fpp_r7  = turbine
+wpn_1hb_mace_f_fpp_r8  = turbine
+wpn_1hb_mace_f_fpp_r9  = turbine
+wpn_1hb_mace_f_fpp_r10 = turbine
+wpn_1hb_mace_f_fpp_r11 = turbine
+wpn_1hb_mace_f_fpp_r12 = turbine
+wpn_1hb_mace_f_fpp_r13 = turbine
+wpn_1hb_mace_f_fpp_r14 = turbine
+wpn_1hb_mace_f_fpp_r15 = turbine
+wpn_1hb_mace_f_fpp_r16 = turbine
+wpn_1hb_mace_f_fpp_r17 = turbine
+wpn_1hb_mace_f_fpp_r18 = turbine
+wpn_1hb_mace_f_fpp_r19 = turbine
+wpn_1hb_mace_f_fpp_r20 = turbine
+wpn_1hb_mace_f_fpp_r21 = turbine
+wpn_1hb_mace_f_fpp_r22 = turbine
+wpn_1hb_mace_f_fpp_r23 = turbine
+wpn_1hb_mace_f_fpp_r24 = turbine
+
+wpn_1hb_mace_g_fpp_r1  = tin can
+wpn_1hb_mace_g_fpp_r2  = tin can
+wpn_1hb_mace_g_fpp_r3  = tin can
+wpn_1hb_mace_g_fpp_r4  = tin can
+wpn_1hb_mace_g_fpp_r5  = tin can
+wpn_1hb_mace_g_fpp_r6  = tin can
+wpn_1hb_mace_g_fpp_r7  = tin can
+wpn_1hb_mace_g_fpp_r8  = tin can
+wpn_1hb_mace_g_fpp_r9  = tin can
+wpn_1hb_mace_g_fpp_r10 = tin can
+wpn_1hb_mace_g_fpp_r11 = tin can
+wpn_1hb_mace_g_fpp_r12 = tin can
+wpn_1hb_mace_g_fpp_r13 = tin can
+wpn_1hb_mace_g_fpp_r14 = tin can
+wpn_1hb_mace_g_fpp_r15 = tin can
+wpn_1hb_mace_g_fpp_r16 = tin can
+wpn_1hb_mace_g_fpp_r17 = tin can
+wpn_1hb_mace_g_fpp_r18 = tin can
+wpn_1hb_mace_g_fpp_r19 = tin can
+wpn_1hb_mace_g_fpp_r20 = tin can
+wpn_1hb_mace_g_fpp_r21 = tin can
+wpn_1hb_mace_g_fpp_r22 = tin can
+wpn_1hb_mace_g_fpp_r23 = tin can
+wpn_1hb_mace_g_fpp_r24 = tin can
+
+wpn_1hb_mace_h_fpp_r1  = extinguisher
+wpn_1hb_mace_h_fpp_r2  = extinguisher
+wpn_1hb_mace_h_fpp_r3  = extinguisher
+wpn_1hb_mace_h_fpp_r4  = extinguisher
+wpn_1hb_mace_h_fpp_r5  = extinguisher
+wpn_1hb_mace_h_fpp_r6  = extinguisher
+wpn_1hb_mace_h_fpp_r7  = extinguisher
+wpn_1hb_mace_h_fpp_r8  = extinguisher
+wpn_1hb_mace_h_fpp_r9  = extinguisher
+wpn_1hb_mace_h_fpp_r10 = extinguisher
+wpn_1hb_mace_h_fpp_r11 = extinguisher
+wpn_1hb_mace_h_fpp_r12 = extinguisher
+wpn_1hb_mace_h_fpp_r13 = extinguisher
+wpn_1hb_mace_h_fpp_r14 = extinguisher
+wpn_1hb_mace_h_fpp_r15 = extinguisher
+wpn_1hb_mace_h_fpp_r16 = extinguisher
+wpn_1hb_mace_h_fpp_r17 = extinguisher
+wpn_1hb_mace_h_fpp_r18 = extinguisher
+wpn_1hb_mace_h_fpp_r19 = extinguisher
+wpn_1hb_mace_h_fpp_r20 = extinguisher
+wpn_1hb_mace_h_fpp_r21 = extinguisher
+wpn_1hb_mace_h_fpp_r22 = extinguisher
+wpn_1hb_mace_h_fpp_r23 = extinguisher
+wpn_1hb_mace_h_fpp_r24 = extinguisher
+
+wpn_1hb_mace_i_fpp_r1  = walking stcik
+wpn_1hb_mace_i_fpp_r2  = walking stcik
+wpn_1hb_mace_i_fpp_r3  = walking stcik
+wpn_1hb_mace_i_fpp_r4  = walking stcik
+wpn_1hb_mace_i_fpp_r5  = walking stcik
+wpn_1hb_mace_i_fpp_r6  = walking stcik
+wpn_1hb_mace_i_fpp_r7  = walking stcik
+wpn_1hb_mace_i_fpp_r8  = walking stcik
+wpn_1hb_mace_i_fpp_r9  = walking stcik
+wpn_1hb_mace_i_fpp_r10 = walking stcik
+wpn_1hb_mace_i_fpp_r11 = walking stcik
+wpn_1hb_mace_i_fpp_r12 = walking stcik
+wpn_1hb_mace_i_fpp_r13 = walking stcik
+wpn_1hb_mace_i_fpp_r14 = walking stcik
+wpn_1hb_mace_i_fpp_r15 = walking stcik
+wpn_1hb_mace_i_fpp_r16 = walking stcik
+wpn_1hb_mace_i_fpp_r17 = walking stcik
+wpn_1hb_mace_i_fpp_r18 = walking stcik
+wpn_1hb_mace_i_fpp_r19 = walking stcik
+wpn_1hb_mace_i_fpp_r20 = walking stcik
+wpn_1hb_mace_i_fpp_r21 = walking stcik
+wpn_1hb_mace_i_fpp_r22 = walking stcik
+wpn_1hb_mace_i_fpp_r23 = walking stcik
+wpn_1hb_mace_i_fpp_r24 = walking stcik
+
+wpn_1hb_mace_j_fpp_r1  = double mace
+wpn_1hb_mace_j_fpp_r2  = double mace
+wpn_1hb_mace_j_fpp_r3  = double mace
+wpn_1hb_mace_j_fpp_r4  = double mace
+wpn_1hb_mace_j_fpp_r5  = double mace
+wpn_1hb_mace_j_fpp_r6  = double mace
+wpn_1hb_mace_j_fpp_r7  = double mace
+wpn_1hb_mace_j_fpp_r8  = double mace
+wpn_1hb_mace_j_fpp_r9  = double mace
+wpn_1hb_mace_j_fpp_r10 = double mace
+wpn_1hb_mace_j_fpp_r11 = double mace
+wpn_1hb_mace_j_fpp_r12 = double mace
+wpn_1hb_mace_j_fpp_r13 = double mace
+wpn_1hb_mace_j_fpp_r14 = double mace
+wpn_1hb_mace_j_fpp_r15 = double mace
+wpn_1hb_mace_j_fpp_r16 = double mace
+wpn_1hb_mace_j_fpp_r17 = double mace
+wpn_1hb_mace_j_fpp_r18 = double mace
+wpn_1hb_mace_j_fpp_r19 = double mace
+wpn_1hb_mace_j_fpp_r20 = double mace
+wpn_1hb_mace_j_fpp_r21 = double mace
+wpn_1hb_mace_j_fpp_r22 = double mace
+wpn_1hb_mace_j_fpp_r23 = double mace
+wpn_1hb_mace_j_fpp_r24 = double mace
+
+wpn_15hb_a_fpp_r1  = the crosier
+wpn_15hb_a_fpp_r2  = the crosier
+wpn_15hb_a_fpp_r3  = the crosier
+wpn_15hb_a_fpp_r4  = the crosier
+wpn_15hb_a_fpp_r5  = the crosier
+wpn_15hb_a_fpp_r6  = the crosier
+wpn_15hb_a_fpp_r7  = the crosier
+wpn_15hb_a_fpp_r8  = the crosier
+wpn_15hb_a_fpp_r9  = the crosier
+wpn_15hb_a_fpp_r10 = the crosier
+wpn_15hb_a_fpp_r11 = the crosier
+wpn_15hb_a_fpp_r12 = the crosier
+wpn_15hb_a_fpp_r13 = the crosier
+wpn_15hb_a_fpp_r14 = the crosier
+wpn_15hb_a_fpp_r15 = the crosier
+wpn_15hb_a_fpp_r16 = the crosier
+wpn_15hb_a_fpp_r17 = the crosier
+wpn_15hb_a_fpp_r18 = the crosier
+wpn_15hb_a_fpp_r19 = the crosier
+wpn_15hb_a_fpp_r20 = the crosier
+wpn_15hb_a_fpp_r21 = the crosier
+wpn_15hb_a_fpp_r22 = the crosier
+wpn_15hb_a_fpp_r23 = the crosier
+wpn_15hb_a_fpp_r24 = the crosier
+
+wpn_15hb_b_fpp_r1  = the stud
+wpn_15hb_b_fpp_r2  = the stud
+wpn_15hb_b_fpp_r3  = the stud
+wpn_15hb_b_fpp_r4  = the stud
+wpn_15hb_b_fpp_r5  = the stud
+wpn_15hb_b_fpp_r6  = the stud
+wpn_15hb_b_fpp_r7  = the stud
+wpn_15hb_b_fpp_r8  = the stud
+wpn_15hb_b_fpp_r9  = the stud
+wpn_15hb_b_fpp_r10 = the stud
+wpn_15hb_b_fpp_r11 = the stud
+wpn_15hb_b_fpp_r12 = the stud
+wpn_15hb_b_fpp_r13 = the stud
+wpn_15hb_b_fpp_r14 = the stud
+wpn_15hb_b_fpp_r15 = the stud
+wpn_15hb_b_fpp_r16 = the stud
+wpn_15hb_b_fpp_r17 = the stud
+wpn_15hb_b_fpp_r18 = the stud
+wpn_15hb_b_fpp_r19 = the stud
+wpn_15hb_b_fpp_r20 = the stud
+wpn_15hb_b_fpp_r21 = the stud
+wpn_15hb_b_fpp_r22 = the stud
+wpn_15hb_b_fpp_r23 = the stud
+wpn_15hb_b_fpp_r24 = the stud
+
+wpn_15hb_c_fpp_r1  = hook stick
+wpn_15hb_c_fpp_r2  = hook stick
+wpn_15hb_c_fpp_r3  = hook stick
+wpn_15hb_c_fpp_r4  = hook stick
+wpn_15hb_c_fpp_r5  = hook stick
+wpn_15hb_c_fpp_r6  = hook stick
+wpn_15hb_c_fpp_r7  = hook stick
+wpn_15hb_c_fpp_r8  = hook stick
+wpn_15hb_c_fpp_r9  = hook stick
+wpn_15hb_c_fpp_r10 = hook stick
+wpn_15hb_c_fpp_r11 = hook stick
+wpn_15hb_c_fpp_r12 = hook stick
+wpn_15hb_c_fpp_r13 = hook stick
+wpn_15hb_c_fpp_r14 = hook stick
+wpn_15hb_c_fpp_r15 = hook stick
+wpn_15hb_c_fpp_r16 = hook stick
+wpn_15hb_c_fpp_r17 = hook stick
+wpn_15hb_c_fpp_r18 = hook stick
+wpn_15hb_c_fpp_r19 = hook stick
+wpn_15hb_c_fpp_r20 = hook stick
+wpn_15hb_c_fpp_r21 = hook stick
+wpn_15hb_c_fpp_r22 = hook stick
+wpn_15hb_c_fpp_r23 = hook stick
+wpn_15hb_c_fpp_r24 = hook stick
+
+wpn_15hb_d_fpp_r1  = nailed stick
+wpn_15hb_d_fpp_r2  = nailed stick
+wpn_15hb_d_fpp_r3  = nailed stick
+wpn_15hb_d_fpp_r4  = nailed stick
+wpn_15hb_d_fpp_r5  = nailed stick
+wpn_15hb_d_fpp_r6  = nailed stick
+wpn_15hb_d_fpp_r7  = nailed stick
+wpn_15hb_d_fpp_r8  = nailed stick
+wpn_15hb_d_fpp_r9  = nailed stick
+wpn_15hb_d_fpp_r10 = nailed stick
+wpn_15hb_d_fpp_r11 = nailed stick
+wpn_15hb_d_fpp_r12 = nailed stick
+wpn_15hb_d_fpp_r13 = nailed stick
+wpn_15hb_d_fpp_r14 = nailed stick
+wpn_15hb_d_fpp_r15 = nailed stick
+wpn_15hb_d_fpp_r16 = nailed stick
+wpn_15hb_d_fpp_r17 = nailed stick
+wpn_15hb_d_fpp_r18 = nailed stick
+wpn_15hb_d_fpp_r19 = nailed stick
+wpn_15hb_d_fpp_r20 = nailed stick
+wpn_15hb_d_fpp_r21 = nailed stick
+wpn_15hb_d_fpp_r22 = nailed stick
+wpn_15hb_d_fpp_r23 = nailed stick
+wpn_15hb_d_fpp_r24 = nailed stick
+
+wpn_15hb_e_fpp_r1  = guitar neck
+wpn_15hb_e_fpp_r2  = guitar neck
+wpn_15hb_e_fpp_r3  = guitar neck
+wpn_15hb_e_fpp_r4  = guitar neck
+wpn_15hb_e_fpp_r5  = guitar neck
+wpn_15hb_e_fpp_r6  = guitar neck
+wpn_15hb_e_fpp_r7  = guitar neck
+wpn_15hb_e_fpp_r8  = guitar neck
+wpn_15hb_e_fpp_r9  = guitar neck
+wpn_15hb_e_fpp_r10 = guitar neck
+wpn_15hb_e_fpp_r11 = guitar neck
+wpn_15hb_e_fpp_r12 = guitar neck
+wpn_15hb_e_fpp_r13 = guitar neck
+wpn_15hb_e_fpp_r14 = guitar neck
+wpn_15hb_e_fpp_r15 = guitar neck
+wpn_15hb_e_fpp_r16 = guitar neck
+wpn_15hb_e_fpp_r17 = guitar neck
+wpn_15hb_e_fpp_r18 = guitar neck
+wpn_15hb_e_fpp_r19 = guitar neck
+wpn_15hb_e_fpp_r20 = guitar neck
+wpn_15hb_e_fpp_r21 = guitar neck
+wpn_15hb_e_fpp_r22 = guitar neck
+wpn_15hb_e_fpp_r23 = guitar neck
+wpn_15hb_e_fpp_r24 = guitar neck
+
+wpn_15hb_f_fpp_r1  = construction hammer
+wpn_15hb_f_fpp_r2  = construction hammer
+wpn_15hb_f_fpp_r3  = construction hammer
+wpn_15hb_f_fpp_r4  = construction hammer
+wpn_15hb_f_fpp_r5  = construction hammer
+wpn_15hb_f_fpp_r6  = construction hammer
+wpn_15hb_f_fpp_r7  = construction hammer
+wpn_15hb_f_fpp_r8  = construction hammer
+wpn_15hb_f_fpp_r9  = construction hammer
+wpn_15hb_f_fpp_r10 = construction hammer
+wpn_15hb_f_fpp_r11 = construction hammer
+wpn_15hb_f_fpp_r12 = construction hammer
+wpn_15hb_f_fpp_r13 = construction hammer
+wpn_15hb_f_fpp_r14 = construction hammer
+wpn_15hb_f_fpp_r15 = construction hammer
+wpn_15hb_f_fpp_r16 = construction hammer
+wpn_15hb_f_fpp_r17 = construction hammer
+wpn_15hb_f_fpp_r18 = construction hammer
+wpn_15hb_f_fpp_r19 = construction hammer
+wpn_15hb_f_fpp_r20 = construction hammer
+wpn_15hb_f_fpp_r21 = construction hammer
+wpn_15hb_f_fpp_r22 = construction hammer
+wpn_15hb_f_fpp_r23 = construction hammer
+wpn_15hb_f_fpp_r24 = construction hammer
+
+wpn_15hb_g_fpp_r1  = crusaders head
+wpn_15hb_g_fpp_r2  = crusaders head
+wpn_15hb_g_fpp_r3  = crusaders head
+wpn_15hb_g_fpp_r4  = crusaders head
+wpn_15hb_g_fpp_r5  = crusaders head
+wpn_15hb_g_fpp_r6  = crusaders head
+wpn_15hb_g_fpp_r7  = crusaders head
+wpn_15hb_g_fpp_r8  = crusaders head
+wpn_15hb_g_fpp_r9  = crusaders head
+wpn_15hb_g_fpp_r10 = crusaders head
+wpn_15hb_g_fpp_r11 = crusaders head
+wpn_15hb_g_fpp_r12 = crusaders head
+wpn_15hb_g_fpp_r13 = crusaders head
+wpn_15hb_g_fpp_r14 = crusaders head
+wpn_15hb_g_fpp_r15 = crusaders head
+wpn_15hb_g_fpp_r16 = crusaders head
+wpn_15hb_g_fpp_r17 = crusaders head
+wpn_15hb_g_fpp_r18 = crusaders head
+wpn_15hb_g_fpp_r19 = crusaders head
+wpn_15hb_g_fpp_r20 = crusaders head
+wpn_15hb_g_fpp_r21 = crusaders head
+wpn_15hb_g_fpp_r22 = crusaders head
+wpn_15hb_g_fpp_r23 = crusaders head
+wpn_15hb_g_fpp_r24 = crusaders head
+
+wpn_15hb_h_fpp_r1  = plumbers choice
+wpn_15hb_h_fpp_r2  = plumbers choice
+wpn_15hb_h_fpp_r3  = plumbers choice
+wpn_15hb_h_fpp_r4  = plumbers choice
+wpn_15hb_h_fpp_r5  = plumbers choice
+wpn_15hb_h_fpp_r6  = plumbers choice
+wpn_15hb_h_fpp_r7  = plumbers choice
+wpn_15hb_h_fpp_r8  = plumbers choice
+wpn_15hb_h_fpp_r9  = plumbers choice
+wpn_15hb_h_fpp_r10 = plumbers choice
+wpn_15hb_h_fpp_r11 = plumbers choice
+wpn_15hb_h_fpp_r12 = plumbers choice
+wpn_15hb_h_fpp_r13 = plumbers choice
+wpn_15hb_h_fpp_r14 = plumbers choice
+wpn_15hb_h_fpp_r15 = plumbers choice
+wpn_15hb_h_fpp_r16 = plumbers choice
+wpn_15hb_h_fpp_r17 = plumbers choice
+wpn_15hb_h_fpp_r18 = plumbers choice
+wpn_15hb_h_fpp_r19 = plumbers choice
+wpn_15hb_h_fpp_r20 = plumbers choice
+wpn_15hb_h_fpp_r21 = plumbers choice
+wpn_15hb_h_fpp_r22 = plumbers choice
+wpn_15hb_h_fpp_r23 = plumbers choice
+wpn_15hb_h_fpp_r24 = plumbers choice
+
+wpn_15hb_i_fpp_r1  = angry trish
+wpn_15hb_i_fpp_r2  = angry trish
+wpn_15hb_i_fpp_r3  = angry trish
+wpn_15hb_i_fpp_r4  = angry trish
+wpn_15hb_i_fpp_r5  = angry trish
+wpn_15hb_i_fpp_r6  = angry trish
+wpn_15hb_i_fpp_r7  = angry trish
+wpn_15hb_i_fpp_r8  = angry trish
+wpn_15hb_i_fpp_r9  = angry trish
+wpn_15hb_i_fpp_r10 = angry trish
+wpn_15hb_i_fpp_r11 = angry trish
+wpn_15hb_i_fpp_r12 = angry trish
+wpn_15hb_i_fpp_r13 = angry trish
+wpn_15hb_i_fpp_r14 = angry trish
+wpn_15hb_i_fpp_r15 = angry trish
+wpn_15hb_i_fpp_r16 = angry trish
+wpn_15hb_i_fpp_r17 = angry trish
+wpn_15hb_i_fpp_r18 = angry trish
+wpn_15hb_i_fpp_r19 = angry trish
+wpn_15hb_i_fpp_r20 = angry trish
+wpn_15hb_i_fpp_r21 = angry trish
+wpn_15hb_i_fpp_r22 = angry trish
+wpn_15hb_i_fpp_r23 = angry trish
+wpn_15hb_i_fpp_r24 = angry trish
+
+wpn_15hb_k_fpp_r1  = protetarian
+wpn_15hb_k_fpp_r2  = protetarian
+wpn_15hb_k_fpp_r3  = protetarian
+wpn_15hb_k_fpp_r4  = protetarian
+wpn_15hb_k_fpp_r5  = protetarian
+wpn_15hb_k_fpp_r6  = protetarian
+wpn_15hb_k_fpp_r7  = protetarian
+wpn_15hb_k_fpp_r8  = protetarian
+wpn_15hb_k_fpp_r9  = protetarian
+wpn_15hb_k_fpp_r10 = protetarian
+wpn_15hb_k_fpp_r11 = protetarian
+wpn_15hb_k_fpp_r12 = protetarian
+wpn_15hb_k_fpp_r13 = protetarian
+wpn_15hb_k_fpp_r14 = protetarian
+wpn_15hb_k_fpp_r15 = protetarian
+wpn_15hb_k_fpp_r16 = protetarian
+wpn_15hb_k_fpp_r17 = protetarian
+wpn_15hb_k_fpp_r18 = protetarian
+wpn_15hb_k_fpp_r19 = protetarian
+wpn_15hb_k_fpp_r20 = protetarian
+wpn_15hb_k_fpp_r21 = protetarian
+wpn_15hb_k_fpp_r22 = protetarian
+wpn_15hb_k_fpp_r23 = protetarian
+wpn_15hb_k_fpp_r24 = protetarian
+
+wpn_15hb_t_fpp_r1  = cricket bat 
+wpn_15hb_t_fpp_r2  = cricket bat 
+wpn_15hb_t_fpp_r3  = cricket bat 
+wpn_15hb_t_fpp_r4  = cricket bat 
+wpn_15hb_t_fpp_r5  = cricket bat 
+wpn_15hb_t_fpp_r6  = cricket bat 
+wpn_15hb_t_fpp_r7  = cricket bat 
+wpn_15hb_t_fpp_r8  = cricket bat 
+wpn_15hb_t_fpp_r9  = cricket bat 
+wpn_15hb_t_fpp_r10 = cricket bat 
+wpn_15hb_t_fpp_r11 = cricket bat 
+wpn_15hb_t_fpp_r12 = cricket bat 
+wpn_15hb_t_fpp_r13 = cricket bat 
+wpn_15hb_t_fpp_r14 = cricket bat 
+wpn_15hb_t_fpp_r15 = cricket bat 
+wpn_15hb_t_fpp_r16 = cricket bat 
+wpn_15hb_t_fpp_r17 = cricket bat 
+wpn_15hb_t_fpp_r18 = cricket bat 
+wpn_15hb_t_fpp_r19 = cricket bat 
+wpn_15hb_t_fpp_r20 = cricket bat 
+wpn_15hb_t_fpp_r21 = cricket bat 
+wpn_15hb_t_fpp_r22 = cricket bat 
+wpn_15hb_t_fpp_r23 = cricket bat 
+wpn_15hb_t_fpp_r24 = cricket bat 
+
+wpn_15hb_m_fpp_r1  = smash
+wpn_15hb_m_fpp_r2  = smash
+wpn_15hb_m_fpp_r3  = smash
+wpn_15hb_m_fpp_r4  = smash
+wpn_15hb_m_fpp_r5  = smash
+wpn_15hb_m_fpp_r6  = smash
+wpn_15hb_m_fpp_r7  = smash
+wpn_15hb_m_fpp_r8  = smash
+wpn_15hb_m_fpp_r9  = smash
+wpn_15hb_m_fpp_r10 = smash
+wpn_15hb_m_fpp_r11 = smash
+wpn_15hb_m_fpp_r12 = smash
+wpn_15hb_m_fpp_r13 = smash
+wpn_15hb_m_fpp_r14 = smash
+wpn_15hb_m_fpp_r15 = smash
+wpn_15hb_m_fpp_r16 = smash
+wpn_15hb_m_fpp_r17 = smash
+wpn_15hb_m_fpp_r18 = smash
+wpn_15hb_m_fpp_r19 = smash
+wpn_15hb_m_fpp_r20 = smash
+wpn_15hb_m_fpp_r21 = smash
+wpn_15hb_m_fpp_r22 = smash
+wpn_15hb_m_fpp_r23 = smash
+wpn_15hb_m_fpp_r24 = smash
+
+wpn_15hb_n_fpp_r1  =  torch
+wpn_15hb_n_fpp_r2  =  torch
+wpn_15hb_n_fpp_r3  =  torch
+wpn_15hb_n_fpp_r4  =  torch
+wpn_15hb_n_fpp_r5  =  torch
+wpn_15hb_n_fpp_r6  =  torch
+wpn_15hb_n_fpp_r7  =  torch
+wpn_15hb_n_fpp_r8  =  torch
+wpn_15hb_n_fpp_r9  =  torch
+wpn_15hb_n_fpp_r10 =  torch
+wpn_15hb_n_fpp_r11 =  torch
+wpn_15hb_n_fpp_r12 =  torch
+wpn_15hb_n_fpp_r13 =  torch
+wpn_15hb_n_fpp_r14 =  torch
+wpn_15hb_n_fpp_r15 =  torch
+wpn_15hb_n_fpp_r16 =  torch
+wpn_15hb_n_fpp_r17 =  torch
+wpn_15hb_n_fpp_r18 =  torch
+wpn_15hb_n_fpp_r19 =  torch
+wpn_15hb_n_fpp_r20 =  torch
+wpn_15hb_n_fpp_r21 =  torch
+wpn_15hb_n_fpp_r22 =  torch
+wpn_15hb_n_fpp_r23 =  torch
+wpn_15hb_n_fpp_r24 =  torch
+
+wpn_2hs_a_fpp_r1  = harpy
+wpn_2hs_a_fpp_r2  = harpy
+wpn_2hs_a_fpp_r3  = harpy
+wpn_2hs_a_fpp_r4  = harpy
+wpn_2hs_a_fpp_r5  = harpy
+wpn_2hs_a_fpp_r6  = harpy
+wpn_2hs_a_fpp_r7  = harpy
+wpn_2hs_a_fpp_r8  = harpy
+wpn_2hs_a_fpp_r9  = harpy
+wpn_2hs_a_fpp_r10 = harpy
+wpn_2hs_a_fpp_r11 = harpy
+wpn_2hs_a_fpp_r12 = harpy
+wpn_2hs_a_fpp_r13 = harpy
+wpn_2hs_a_fpp_r14 = harpy
+wpn_2hs_a_fpp_r15 = harpy
+wpn_2hs_a_fpp_r16 = harpy
+wpn_2hs_a_fpp_r17 = harpy
+wpn_2hs_a_fpp_r18 = harpy
+wpn_2hs_a_fpp_r19 = harpy
+wpn_2hs_a_fpp_r20 = harpy
+wpn_2hs_a_fpp_r21 = harpy
+wpn_2hs_a_fpp_r22 = harpy
+wpn_2hs_a_fpp_r23 = harpy
+wpn_2hs_a_fpp_r24 = harpy
+
+wpn_2hs_b_fpp_r1  = scrapper greataxe
+wpn_2hs_b_fpp_r2  = scrapper greataxe
+wpn_2hs_b_fpp_r3  = scrapper greataxe
+wpn_2hs_b_fpp_r4  = scrapper greataxe
+wpn_2hs_b_fpp_r5  = scrapper greataxe
+wpn_2hs_b_fpp_r6  = scrapper greataxe
+wpn_2hs_b_fpp_r7  = scrapper greataxe
+wpn_2hs_b_fpp_r8  = scrapper greataxe
+wpn_2hs_b_fpp_r9  = scrapper greataxe
+wpn_2hs_b_fpp_r10 = scrapper greataxe
+wpn_2hs_b_fpp_r11 = scrapper greataxe
+wpn_2hs_b_fpp_r12 = scrapper greataxe
+wpn_2hs_b_fpp_r13 = scrapper greataxe
+wpn_2hs_b_fpp_r14 = scrapper greataxe
+wpn_2hs_b_fpp_r15 = scrapper greataxe
+wpn_2hs_b_fpp_r16 = scrapper greataxe
+wpn_2hs_b_fpp_r17 = scrapper greataxe
+wpn_2hs_b_fpp_r18 = scrapper greataxe
+wpn_2hs_b_fpp_r19 = scrapper greataxe
+wpn_2hs_b_fpp_r20 = scrapper greataxe
+wpn_2hs_b_fpp_r21 = scrapper greataxe
+wpn_2hs_b_fpp_r22 = scrapper greataxe
+wpn_2hs_b_fpp_r23 = scrapper greataxe
+wpn_2hs_b_fpp_r24 = scrapper greataxe
+
+wpn_2hs_c_fpp_r1  = glaive
+wpn_2hs_c_fpp_r2  = glaive
+wpn_2hs_c_fpp_r3  = glaive
+wpn_2hs_c_fpp_r4  = glaive
+wpn_2hs_c_fpp_r5  = glaive
+wpn_2hs_c_fpp_r6  = glaive
+wpn_2hs_c_fpp_r7  = glaive
+wpn_2hs_c_fpp_r8  = glaive
+wpn_2hs_c_fpp_r9  = glaive
+wpn_2hs_c_fpp_r10 = glaive
+wpn_2hs_c_fpp_r11 = glaive
+wpn_2hs_c_fpp_r12 = glaive
+wpn_2hs_c_fpp_r13 = glaive
+wpn_2hs_c_fpp_r14 = glaive
+wpn_2hs_c_fpp_r15 = glaive
+wpn_2hs_c_fpp_r16 = glaive
+wpn_2hs_c_fpp_r17 = glaive
+wpn_2hs_c_fpp_r18 = glaive
+wpn_2hs_c_fpp_r19 = glaive
+wpn_2hs_c_fpp_r20 = glaive
+wpn_2hs_c_fpp_r21 = glaive
+wpn_2hs_c_fpp_r22 = glaive
+wpn_2hs_c_fpp_r23 = glaive
+wpn_2hs_c_fpp_r24 = glaive
+
+wpn_2hs_d_fpp_r1  = disc brake greataxe
+wpn_2hs_d_fpp_r2  = disc brake greataxe
+wpn_2hs_d_fpp_r3  = disc brake greataxe
+wpn_2hs_d_fpp_r4  = disc brake greataxe
+wpn_2hs_d_fpp_r5  = disc brake greataxe
+wpn_2hs_d_fpp_r6  = disc brake greataxe
+wpn_2hs_d_fpp_r7  = disc brake greataxe
+wpn_2hs_d_fpp_r8  = disc brake greataxe
+wpn_2hs_d_fpp_r9  = disc brake greataxe
+wpn_2hs_d_fpp_r10 = disc brake greataxe
+wpn_2hs_d_fpp_r11 = disc brake greataxe
+wpn_2hs_d_fpp_r12 = disc brake greataxe
+wpn_2hs_d_fpp_r13 = disc brake greataxe
+wpn_2hs_d_fpp_r14 = disc brake greataxe
+wpn_2hs_d_fpp_r15 = disc brake greataxe
+wpn_2hs_d_fpp_r16 = disc brake greataxe
+wpn_2hs_d_fpp_r17 = disc brake greataxe
+wpn_2hs_d_fpp_r18 = disc brake greataxe
+wpn_2hs_d_fpp_r19 = disc brake greataxe
+wpn_2hs_d_fpp_r20 = disc brake greataxe
+wpn_2hs_d_fpp_r21 = disc brake greataxe
+wpn_2hs_d_fpp_r22 = disc brake greataxe
+wpn_2hs_d_fpp_r23 = disc brake greataxe
+wpn_2hs_d_fpp_r24 = disc brake greataxe
+
+wpn_2hs_d_fpp_r1  = disc brake greataxe
+wpn_2hs_d_fpp_r2  = disc brake greataxe
+wpn_2hs_d_fpp_r3  = disc brake greataxe
+wpn_2hs_d_fpp_r4  = disc brake greataxe
+wpn_2hs_d_fpp_r5  = disc brake greataxe
+wpn_2hs_d_fpp_r6  = disc brake greataxe
+wpn_2hs_d_fpp_r7  = disc brake greataxe
+wpn_2hs_d_fpp_r8  = disc brake greataxe
+wpn_2hs_d_fpp_r9  = disc brake greataxe
+wpn_2hs_d_fpp_r10 = disc brake greataxe
+wpn_2hs_d_fpp_r11 = disc brake greataxe
+wpn_2hs_d_fpp_r12 = disc brake greataxe
+wpn_2hs_d_fpp_r13 = disc brake greataxe
+wpn_2hs_d_fpp_r14 = disc brake greataxe
+wpn_2hs_d_fpp_r15 = disc brake greataxe
+wpn_2hs_d_fpp_r16 = disc brake greataxe
+wpn_2hs_d_fpp_r17 = disc brake greataxe
+wpn_2hs_d_fpp_r18 = disc brake greataxe
+wpn_2hs_d_fpp_r19 = disc brake greataxe
+wpn_2hs_d_fpp_r20 = disc brake greataxe
+wpn_2hs_d_fpp_r21 = disc brake greataxe
+wpn_2hs_d_fpp_r22 = disc brake greataxe
+wpn_2hs_d_fpp_r23 = disc brake greataxe
+wpn_2hs_d_fpp_r24 = disc brake greataxe
+
+wpn_2hs_e_fpp_r1  = fire station greataxe
+wpn_2hs_e_fpp_r2  = fire station greataxe
+wpn_2hs_e_fpp_r3  = fire station greataxe
+wpn_2hs_e_fpp_r4  = fire station greataxe
+wpn_2hs_e_fpp_r5  = fire station greataxe
+wpn_2hs_e_fpp_r6  = fire station greataxe
+wpn_2hs_e_fpp_r7  = fire station greataxe
+wpn_2hs_e_fpp_r8  = fire station greataxe
+wpn_2hs_e_fpp_r9  = fire station greataxe
+wpn_2hs_e_fpp_r10 = fire station greataxe
+wpn_2hs_e_fpp_r11 = fire station greataxe
+wpn_2hs_e_fpp_r12 = fire station greataxe
+wpn_2hs_e_fpp_r13 = fire station greataxe
+wpn_2hs_e_fpp_r14 = fire station greataxe
+wpn_2hs_e_fpp_r15 = fire station greataxe
+wpn_2hs_e_fpp_r16 = fire station greataxe
+wpn_2hs_e_fpp_r17 = fire station greataxe
+wpn_2hs_e_fpp_r18 = fire station greataxe
+wpn_2hs_e_fpp_r19 = fire station greataxe
+wpn_2hs_e_fpp_r20 = fire station greataxe
+wpn_2hs_e_fpp_r21 = fire station greataxe
+wpn_2hs_e_fpp_r22 = fire station greataxe
+wpn_2hs_e_fpp_r23 = fire station greataxe
+wpn_2hs_e_fpp_r24 = fire station greataxe
+
+wpn_2hs_f_fpp_r1  = slitter
+wpn_2hs_f_fpp_r2  = slitter
+wpn_2hs_f_fpp_r3  = slitter
+wpn_2hs_f_fpp_r4  = slitter
+wpn_2hs_f_fpp_r5  = slitter
+wpn_2hs_f_fpp_r6  = slitter
+wpn_2hs_f_fpp_r7  = slitter
+wpn_2hs_f_fpp_r8  = slitter
+wpn_2hs_f_fpp_r9  = slitter
+wpn_2hs_f_fpp_r10 = slitter
+wpn_2hs_f_fpp_r11 = slitter
+wpn_2hs_f_fpp_r12 = slitter
+wpn_2hs_f_fpp_r13 = slitter
+wpn_2hs_f_fpp_r14 = slitter
+wpn_2hs_f_fpp_r15 = slitter
+wpn_2hs_f_fpp_r16 = slitter
+wpn_2hs_f_fpp_r17 = slitter
+wpn_2hs_f_fpp_r18 = slitter
+wpn_2hs_f_fpp_r19 = slitter
+wpn_2hs_f_fpp_r20 = slitter
+wpn_2hs_f_fpp_r21 = slitter
+wpn_2hs_f_fpp_r22 = slitter
+wpn_2hs_f_fpp_r23 = slitter
+wpn_2hs_f_fpp_r24 = slitter
+
+wpn_2hs_g_fpp_r1  = pyramid blade
+wpn_2hs_g_fpp_r2  = pyramid blade
+wpn_2hs_g_fpp_r3  = pyramid blade
+wpn_2hs_g_fpp_r4  = pyramid blade
+wpn_2hs_g_fpp_r5  = pyramid blade
+wpn_2hs_g_fpp_r6  = pyramid blade
+wpn_2hs_g_fpp_r7  = pyramid blade
+wpn_2hs_g_fpp_r8  = pyramid blade
+wpn_2hs_g_fpp_r9  = pyramid blade
+wpn_2hs_g_fpp_r10 = pyramid blade
+wpn_2hs_g_fpp_r11 = pyramid blade
+wpn_2hs_g_fpp_r12 = pyramid blade
+wpn_2hs_g_fpp_r13 = pyramid blade
+wpn_2hs_g_fpp_r14 = pyramid blade
+wpn_2hs_g_fpp_r15 = pyramid blade
+wpn_2hs_g_fpp_r16 = pyramid blade
+wpn_2hs_g_fpp_r17 = pyramid blade
+wpn_2hs_g_fpp_r18 = pyramid blade
+wpn_2hs_g_fpp_r19 = pyramid blade
+wpn_2hs_g_fpp_r20 = pyramid blade
+wpn_2hs_g_fpp_r21 = pyramid blade
+wpn_2hs_g_fpp_r22 = pyramid blade
+wpn_2hs_g_fpp_r23 = pyramid blade
+wpn_2hs_g_fpp_r24 = pyramid blade
+
+wpn_2hs_h_fpp_r1  = thingamabob
+wpn_2hs_h_fpp_r2  = thingamabob
+wpn_2hs_h_fpp_r3  = thingamabob
+wpn_2hs_h_fpp_r4  = thingamabob
+wpn_2hs_h_fpp_r5  = thingamabob
+wpn_2hs_h_fpp_r6  = thingamabob
+wpn_2hs_h_fpp_r7  = thingamabob
+wpn_2hs_h_fpp_r8  = thingamabob
+wpn_2hs_h_fpp_r9  = thingamabob
+wpn_2hs_h_fpp_r10 = thingamabob
+wpn_2hs_h_fpp_r11 = thingamabob
+wpn_2hs_h_fpp_r12 = thingamabob
+wpn_2hs_h_fpp_r13 = thingamabob
+wpn_2hs_h_fpp_r14 = thingamabob
+wpn_2hs_h_fpp_r15 = thingamabob
+wpn_2hs_h_fpp_r16 = thingamabob
+wpn_2hs_h_fpp_r17 = thingamabob
+wpn_2hs_h_fpp_r18 = thingamabob
+wpn_2hs_h_fpp_r19 = thingamabob
+wpn_2hs_h_fpp_r20 = thingamabob
+wpn_2hs_h_fpp_r21 = thingamabob
+wpn_2hs_h_fpp_r22 = thingamabob
+wpn_2hs_h_fpp_r23 = thingamabob
+wpn_2hs_h_fpp_r24 = thingamabob
+
+wpn_2hs_i_fpp_r1  = jigsaw
+wpn_2hs_i_fpp_r2  = jigsaw
+wpn_2hs_i_fpp_r3  = jigsaw
+wpn_2hs_i_fpp_r4  = jigsaw
+wpn_2hs_i_fpp_r5  = jigsaw
+wpn_2hs_i_fpp_r6  = jigsaw
+wpn_2hs_i_fpp_r7  = jigsaw
+wpn_2hs_i_fpp_r8  = jigsaw
+wpn_2hs_i_fpp_r9  = jigsaw
+wpn_2hs_i_fpp_r10 = jigsaw
+wpn_2hs_i_fpp_r11 = jigsaw
+wpn_2hs_i_fpp_r12 = jigsaw
+wpn_2hs_i_fpp_r13 = jigsaw
+wpn_2hs_i_fpp_r14 = jigsaw
+wpn_2hs_i_fpp_r15 = jigsaw
+wpn_2hs_i_fpp_r16 = jigsaw
+wpn_2hs_i_fpp_r17 = jigsaw
+wpn_2hs_i_fpp_r18 = jigsaw
+wpn_2hs_i_fpp_r19 = jigsaw
+wpn_2hs_i_fpp_r20 = jigsaw
+wpn_2hs_i_fpp_r21 = jigsaw
+wpn_2hs_i_fpp_r22 = jigsaw
+wpn_2hs_i_fpp_r23 = jigsaw
+wpn_2hs_i_fpp_r24 = jigsaw
+
+wpn_2hb_a_fpp_r1  = engine bludgeon
+wpn_2hb_a_fpp_r2  = engine bludgeon
+wpn_2hb_a_fpp_r3  = engine bludgeon
+wpn_2hb_a_fpp_r4  = engine bludgeon
+wpn_2hb_a_fpp_r5  = engine bludgeon
+wpn_2hb_a_fpp_r6  = engine bludgeon
+wpn_2hb_a_fpp_r7  = engine bludgeon
+wpn_2hb_a_fpp_r8  = engine bludgeon
+wpn_2hb_a_fpp_r9  = engine bludgeon
+wpn_2hb_a_fpp_r10 = engine bludgeon
+wpn_2hb_a_fpp_r11 = engine bludgeon
+wpn_2hb_a_fpp_r12 = engine bludgeon
+wpn_2hb_a_fpp_r13 = engine bludgeon
+wpn_2hb_a_fpp_r14 = engine bludgeon
+wpn_2hb_a_fpp_r15 = engine bludgeon
+wpn_2hb_a_fpp_r16 = engine bludgeon
+wpn_2hb_a_fpp_r17 = engine bludgeon
+wpn_2hb_a_fpp_r18 = engine bludgeon
+wpn_2hb_a_fpp_r19 = engine bludgeon
+wpn_2hb_a_fpp_r20 = engine bludgeon
+wpn_2hb_a_fpp_r21 = engine bludgeon
+wpn_2hb_a_fpp_r22 = engine bludgeon
+wpn_2hb_a_fpp_r23 = engine bludgeon
+wpn_2hb_a_fpp_r24 = engine bludgeon
+
+wpn_2hb_b_fpp_r1  = 18th hole
+wpn_2hb_b_fpp_r2  = 18th hole
+wpn_2hb_b_fpp_r3  = 18th hole
+wpn_2hb_b_fpp_r4  = 18th hole
+wpn_2hb_b_fpp_r5  = 18th hole
+wpn_2hb_b_fpp_r6  = 18th hole
+wpn_2hb_b_fpp_r7  = 18th hole
+wpn_2hb_b_fpp_r8  = 18th hole
+wpn_2hb_b_fpp_r9  = 18th hole
+wpn_2hb_b_fpp_r10 = 18th hole
+wpn_2hb_b_fpp_r11 = 18th hole
+wpn_2hb_b_fpp_r12 = 18th hole
+wpn_2hb_b_fpp_r13 = 18th hole
+wpn_2hb_b_fpp_r14 = 18th hole
+wpn_2hb_b_fpp_r15 = 18th hole
+wpn_2hb_b_fpp_r16 = 18th hole
+wpn_2hb_b_fpp_r17 = 18th hole
+wpn_2hb_b_fpp_r18 = 18th hole
+wpn_2hb_b_fpp_r19 = 18th hole
+wpn_2hb_b_fpp_r20 = 18th hole
+wpn_2hb_b_fpp_r21 = 18th hole
+wpn_2hb_b_fpp_r22 = 18th hole
+wpn_2hb_b_fpp_r23 = 18th hole
+wpn_2hb_b_fpp_r24 = 18th hole
+
+wpn_2hb_c_fpp_r1  = verbum
+wpn_2hb_c_fpp_r2  = verbum
+wpn_2hb_c_fpp_r3  = verbum
+wpn_2hb_c_fpp_r4  = verbum
+wpn_2hb_c_fpp_r5  = verbum
+wpn_2hb_c_fpp_r6  = verbum
+wpn_2hb_c_fpp_r7  = verbum
+wpn_2hb_c_fpp_r8  = verbum
+wpn_2hb_c_fpp_r9  = verbum
+wpn_2hb_c_fpp_r10 = verbum
+wpn_2hb_c_fpp_r11 = verbum
+wpn_2hb_c_fpp_r12 = verbum
+wpn_2hb_c_fpp_r13 = verbum
+wpn_2hb_c_fpp_r14 = verbum
+wpn_2hb_c_fpp_r15 = verbum
+wpn_2hb_c_fpp_r16 = verbum
+wpn_2hb_c_fpp_r17 = verbum
+wpn_2hb_c_fpp_r18 = verbum
+wpn_2hb_c_fpp_r19 = verbum
+wpn_2hb_c_fpp_r20 = verbum
+wpn_2hb_c_fpp_r21 = verbum
+wpn_2hb_c_fpp_r22 = verbum
+wpn_2hb_c_fpp_r23 = verbum
+wpn_2hb_c_fpp_r24 = verbum
+
+wpn_2hb_e_fpp_r1  = savage bludgeon
+wpn_2hb_e_fpp_r2  = savage bludgeon
+wpn_2hb_e_fpp_r3  = savage bludgeon
+wpn_2hb_e_fpp_r4  = savage bludgeon
+wpn_2hb_e_fpp_r5  = savage bludgeon
+wpn_2hb_e_fpp_r6  = savage bludgeon
+wpn_2hb_e_fpp_r7  = savage bludgeon
+wpn_2hb_e_fpp_r8  = savage bludgeon
+wpn_2hb_e_fpp_r9  = savage bludgeon
+wpn_2hb_e_fpp_r10 = savage bludgeon
+wpn_2hb_e_fpp_r11 = savage bludgeon
+wpn_2hb_e_fpp_r12 = savage bludgeon
+wpn_2hb_e_fpp_r13 = savage bludgeon
+wpn_2hb_e_fpp_r14 = savage bludgeon
+wpn_2hb_e_fpp_r15 = savage bludgeon
+wpn_2hb_e_fpp_r16 = savage bludgeon
+wpn_2hb_e_fpp_r17 = savage bludgeon
+wpn_2hb_e_fpp_r18 = savage bludgeon
+wpn_2hb_e_fpp_r19 = savage bludgeon
+wpn_2hb_e_fpp_r20 = savage bludgeon
+wpn_2hb_e_fpp_r21 = savage bludgeon
+wpn_2hb_e_fpp_r22 = savage bludgeon
+wpn_2hb_e_fpp_r23 = savage bludgeon
+wpn_2hb_e_fpp_r24 = savage bludgeon
+
+wpn_2hb_f_fpp_r1  = metal railing
+wpn_2hb_f_fpp_r2  = metal railing
+wpn_2hb_f_fpp_r3  = metal railing
+wpn_2hb_f_fpp_r4  = metal railing
+wpn_2hb_f_fpp_r5  = metal railing
+wpn_2hb_f_fpp_r6  = metal railing
+wpn_2hb_f_fpp_r7  = metal railing
+wpn_2hb_f_fpp_r8  = metal railing
+wpn_2hb_f_fpp_r9  = metal railing
+wpn_2hb_f_fpp_r10 = metal railing
+wpn_2hb_f_fpp_r11 = metal railing
+wpn_2hb_f_fpp_r12 = metal railing
+wpn_2hb_f_fpp_r13 = metal railing
+wpn_2hb_f_fpp_r14 = metal railing
+wpn_2hb_f_fpp_r15 = metal railing
+wpn_2hb_f_fpp_r16 = metal railing
+wpn_2hb_f_fpp_r17 = metal railing
+wpn_2hb_f_fpp_r18 = metal railing
+wpn_2hb_f_fpp_r19 = metal railing
+wpn_2hb_f_fpp_r20 = metal railing
+wpn_2hb_f_fpp_r21 = metal railing
+wpn_2hb_f_fpp_r22 = metal railing
+wpn_2hb_f_fpp_r23 = metal railing
+wpn_2hb_f_fpp_r24 = metal railing
+
+wpn_2hb_g_fpp_r1  = duck hammer
+wpn_2hb_g_fpp_r2  = duck hammer
+wpn_2hb_g_fpp_r3  = duck hammer
+wpn_2hb_g_fpp_r4  = duck hammer
+wpn_2hb_g_fpp_r5  = duck hammer
+wpn_2hb_g_fpp_r6  = duck hammer
+wpn_2hb_g_fpp_r7  = duck hammer
+wpn_2hb_g_fpp_r8  = duck hammer
+wpn_2hb_g_fpp_r9  = duck hammer
+wpn_2hb_g_fpp_r10 = duck hammer
+wpn_2hb_g_fpp_r11 = duck hammer
+wpn_2hb_g_fpp_r12 = duck hammer
+wpn_2hb_g_fpp_r13 = duck hammer
+wpn_2hb_g_fpp_r14 = duck hammer
+wpn_2hb_g_fpp_r15 = duck hammer
+wpn_2hb_g_fpp_r16 = duck hammer
+wpn_2hb_g_fpp_r17 = duck hammer
+wpn_2hb_g_fpp_r18 = duck hammer
+wpn_2hb_g_fpp_r19 = duck hammer
+wpn_2hb_g_fpp_r20 = duck hammer
+wpn_2hb_g_fpp_r21 = duck hammer
+wpn_2hb_g_fpp_r22 = duck hammer
+wpn_2hb_g_fpp_r23 = duck hammer
+wpn_2hb_g_fpp_r24 = duck hammer
+
+wpn_2hb_h_fpp_r1  = flambeau
+wpn_2hb_h_fpp_r2  = flambeau
+wpn_2hb_h_fpp_r3  = flambeau
+wpn_2hb_h_fpp_r4  = flambeau
+wpn_2hb_h_fpp_r5  = flambeau
+wpn_2hb_h_fpp_r6  = flambeau
+wpn_2hb_h_fpp_r7  = flambeau
+wpn_2hb_h_fpp_r8  = flambeau
+wpn_2hb_h_fpp_r9  = flambeau
+wpn_2hb_h_fpp_r10 = flambeau
+wpn_2hb_h_fpp_r11 = flambeau
+wpn_2hb_h_fpp_r12 = flambeau
+wpn_2hb_h_fpp_r13 = flambeau
+wpn_2hb_h_fpp_r14 = flambeau
+wpn_2hb_h_fpp_r15 = flambeau
+wpn_2hb_h_fpp_r16 = flambeau
+wpn_2hb_h_fpp_r17 = flambeau
+wpn_2hb_h_fpp_r18 = flambeau
+wpn_2hb_h_fpp_r19 = flambeau
+wpn_2hb_h_fpp_r20 = flambeau
+wpn_2hb_h_fpp_r21 = flambeau
+wpn_2hb_h_fpp_r22 = flambeau
+wpn_2hb_h_fpp_r23 = flambeau
+wpn_2hb_h_fpp_r24 = flambeau
+
+wpn_2hb_i_fpp_r1  = caveman
+wpn_2hb_i_fpp_r2  = caveman
+wpn_2hb_i_fpp_r3  = caveman
+wpn_2hb_i_fpp_r4  = caveman
+wpn_2hb_i_fpp_r5  = caveman
+wpn_2hb_i_fpp_r6  = caveman
+wpn_2hb_i_fpp_r7  = caveman
+wpn_2hb_i_fpp_r8  = caveman
+wpn_2hb_i_fpp_r9  = caveman
+wpn_2hb_i_fpp_r10 = caveman
+wpn_2hb_i_fpp_r11 = caveman
+wpn_2hb_i_fpp_r12 = caveman
+wpn_2hb_i_fpp_r13 = caveman
+wpn_2hb_i_fpp_r14 = caveman
+wpn_2hb_i_fpp_r15 = caveman
+wpn_2hb_i_fpp_r16 = caveman
+wpn_2hb_i_fpp_r17 = caveman
+wpn_2hb_i_fpp_r18 = caveman
+wpn_2hb_i_fpp_r19 = caveman
+wpn_2hb_i_fpp_r20 = caveman
+wpn_2hb_i_fpp_r21 = caveman
+wpn_2hb_i_fpp_r22 = caveman
+wpn_2hb_i_fpp_r23 = caveman
+wpn_2hb_i_fpp_r24 = caveman
+
+wpn_2hb_n_fpp_r1  = bolted bludgeon 
+wpn_2hb_n_fpp_r2  = bolted bludgeon 
+wpn_2hb_n_fpp_r3  = bolted bludgeon 
+wpn_2hb_n_fpp_r4  = bolted bludgeon 
+wpn_2hb_n_fpp_r5  = bolted bludgeon 
+wpn_2hb_n_fpp_r6  = bolted bludgeon 
+wpn_2hb_n_fpp_r7  = bolted bludgeon 
+wpn_2hb_n_fpp_r8  = bolted bludgeon 
+wpn_2hb_n_fpp_r9  = bolted bludgeon 
+wpn_2hb_n_fpp_r10 = bolted bludgeon 
+wpn_2hb_n_fpp_r11 = bolted bludgeon 
+wpn_2hb_n_fpp_r12 = bolted bludgeon 
+wpn_2hb_n_fpp_r13 = bolted bludgeon 
+wpn_2hb_n_fpp_r14 = bolted bludgeon 
+wpn_2hb_n_fpp_r15 = bolted bludgeon 
+wpn_2hb_n_fpp_r16 = bolted bludgeon 
+wpn_2hb_n_fpp_r17 = bolted bludgeon 
+wpn_2hb_n_fpp_r18 = bolted bludgeon 
+wpn_2hb_n_fpp_r19 = bolted bludgeon 
+wpn_2hb_n_fpp_r20 = bolted bludgeon 
+wpn_2hb_n_fpp_r21 = bolted bludgeon 
+wpn_2hb_n_fpp_r22 = bolted bludgeon 
+wpn_2hb_n_fpp_r23 = bolted bludgeon 
+wpn_2hb_n_fpp_r24 = bolted bludgeon 
+
+wpn_1hs_knuckle_duster_alow_fpp_r1  = icepick claws
+wpn_1hs_knuckle_duster_alow_fpp_r2  = icepick claws
+wpn_1hs_knuckle_duster_alow_fpp_r3  = icepick claws
+wpn_1hs_knuckle_duster_alow_fpp_r4  = icepick claws
+wpn_1hs_knuckle_duster_alow_fpp_r5  = icepick claws
+wpn_1hs_knuckle_duster_alow_fpp_r6  = icepick claws
+wpn_1hs_knuckle_duster_alow_fpp_r7  = icepick claws
+wpn_1hs_knuckle_duster_alow_fpp_r8  = icepick claws
+wpn_1hs_knuckle_duster_alow_fpp_r9  = icepick claws
+wpn_1hs_knuckle_duster_alow_fpp_r10 = icepick claws
+wpn_1hs_knuckle_duster_alow_fpp_r11 = icepick claws
+wpn_1hs_knuckle_duster_alow_fpp_r12 = icepick claws
+wpn_1hs_knuckle_duster_alow_fpp_r13 = icepick claws
+wpn_1hs_knuckle_duster_alow_fpp_r14 = icepick claws
+wpn_1hs_knuckle_duster_alow_fpp_r15 = icepick claws
+wpn_1hs_knuckle_duster_alow_fpp_r16 = icepick claws
+wpn_1hs_knuckle_duster_alow_fpp_r17 = icepick claws
+wpn_1hs_knuckle_duster_alow_fpp_r18 = icepick claws
+wpn_1hs_knuckle_duster_alow_fpp_r19 = icepick claws
+wpn_1hs_knuckle_duster_alow_fpp_r20 = icepick claws
+wpn_1hs_knuckle_duster_alow_fpp_r21 = icepick claws
+wpn_1hs_knuckle_duster_alow_fpp_r22 = icepick claws
+wpn_1hs_knuckle_duster_alow_fpp_r23 = icepick claws
+wpn_1hs_knuckle_duster_alow_fpp_r24 = icepick claws
+
+wpn_1hs_knuckle_duster_amed_fpp_r1  = icepick claws 
+wpn_1hs_knuckle_duster_amed_fpp_r2  = icepick claws 
+wpn_1hs_knuckle_duster_amed_fpp_r3  = icepick claws 
+wpn_1hs_knuckle_duster_amed_fpp_r4  = icepick claws 
+wpn_1hs_knuckle_duster_amed_fpp_r5  = icepick claws 
+wpn_1hs_knuckle_duster_amed_fpp_r6  = icepick claws 
+wpn_1hs_knuckle_duster_amed_fpp_r7  = icepick claws 
+wpn_1hs_knuckle_duster_amed_fpp_r8  = icepick claws 
+wpn_1hs_knuckle_duster_amed_fpp_r9  = icepick claws 
+wpn_1hs_knuckle_duster_amed_fpp_r10 = icepick claws 
+wpn_1hs_knuckle_duster_amed_fpp_r11 = icepick claws 
+wpn_1hs_knuckle_duster_amed_fpp_r12 = icepick claws 
+wpn_1hs_knuckle_duster_amed_fpp_r13 = icepick claws 
+wpn_1hs_knuckle_duster_amed_fpp_r14 = icepick claws 
+wpn_1hs_knuckle_duster_amed_fpp_r15 = icepick claws 
+wpn_1hs_knuckle_duster_amed_fpp_r16 = icepick claws 
+wpn_1hs_knuckle_duster_amed_fpp_r17 = icepick claws 
+wpn_1hs_knuckle_duster_amed_fpp_r18 = icepick claws 
+wpn_1hs_knuckle_duster_amed_fpp_r19 = icepick claws 
+wpn_1hs_knuckle_duster_amed_fpp_r20 = icepick claws 
+wpn_1hs_knuckle_duster_amed_fpp_r21 = icepick claws 
+wpn_1hs_knuckle_duster_amed_fpp_r22 = icepick claws 
+wpn_1hs_knuckle_duster_amed_fpp_r23 = icepick claws 
+wpn_1hs_knuckle_duster_amed_fpp_r24 = icepick claws 
+
+wpn_1hs_knuckle_duster_ahigh_fpp_r1  = icepick claws
+wpn_1hs_knuckle_duster_ahigh_fpp_r2  = icepick claws
+wpn_1hs_knuckle_duster_ahigh_fpp_r3  = icepick claws
+wpn_1hs_knuckle_duster_ahigh_fpp_r4  = icepick claws
+wpn_1hs_knuckle_duster_ahigh_fpp_r5  = icepick claws
+wpn_1hs_knuckle_duster_ahigh_fpp_r6  = icepick claws
+wpn_1hs_knuckle_duster_ahigh_fpp_r7  = icepick claws
+wpn_1hs_knuckle_duster_ahigh_fpp_r8  = icepick claws
+wpn_1hs_knuckle_duster_ahigh_fpp_r9  = icepick claws
+wpn_1hs_knuckle_duster_ahigh_fpp_r10 = icepick claws
+wpn_1hs_knuckle_duster_ahigh_fpp_r11 = icepick claws
+wpn_1hs_knuckle_duster_ahigh_fpp_r12 = icepick claws
+wpn_1hs_knuckle_duster_ahigh_fpp_r13 = icepick claws
+wpn_1hs_knuckle_duster_ahigh_fpp_r14 = icepick claws
+wpn_1hs_knuckle_duster_ahigh_fpp_r15 = icepick claws
+wpn_1hs_knuckle_duster_ahigh_fpp_r16 = icepick claws
+wpn_1hs_knuckle_duster_ahigh_fpp_r17 = icepick claws
+wpn_1hs_knuckle_duster_ahigh_fpp_r18 = icepick claws
+wpn_1hs_knuckle_duster_ahigh_fpp_r19 = icepick claws
+wpn_1hs_knuckle_duster_ahigh_fpp_r20 = icepick claws
+wpn_1hs_knuckle_duster_ahigh_fpp_r21 = icepick claws
+wpn_1hs_knuckle_duster_ahigh_fpp_r22 = icepick claws
+wpn_1hs_knuckle_duster_ahigh_fpp_r23 = icepick claws
+wpn_1hs_knuckle_duster_ahigh_fpp_r24 = icepick claws
+
+wpn_1hs_knuckle_duster_blow_fpp_r1  = beast claws
+wpn_1hs_knuckle_duster_blow_fpp_r2  = beast claws
+wpn_1hs_knuckle_duster_blow_fpp_r3  = beast claws
+wpn_1hs_knuckle_duster_blow_fpp_r4  = beast claws
+wpn_1hs_knuckle_duster_blow_fpp_r5  = beast claws
+wpn_1hs_knuckle_duster_blow_fpp_r6  = beast claws
+wpn_1hs_knuckle_duster_blow_fpp_r7  = beast claws
+wpn_1hs_knuckle_duster_blow_fpp_r8  = beast claws
+wpn_1hs_knuckle_duster_blow_fpp_r9  = beast claws
+wpn_1hs_knuckle_duster_blow_fpp_r10 = beast claws
+wpn_1hs_knuckle_duster_blow_fpp_r11 = beast claws
+wpn_1hs_knuckle_duster_blow_fpp_r12 = beast claws
+wpn_1hs_knuckle_duster_blow_fpp_r13 = beast claws
+wpn_1hs_knuckle_duster_blow_fpp_r14 = beast claws
+wpn_1hs_knuckle_duster_blow_fpp_r15 = beast claws
+wpn_1hs_knuckle_duster_blow_fpp_r16 = beast claws
+wpn_1hs_knuckle_duster_blow_fpp_r17 = beast claws
+wpn_1hs_knuckle_duster_blow_fpp_r18 = beast claws
+wpn_1hs_knuckle_duster_blow_fpp_r19 = beast claws
+wpn_1hs_knuckle_duster_blow_fpp_r20 = beast claws
+wpn_1hs_knuckle_duster_blow_fpp_r21 = beast claws
+wpn_1hs_knuckle_duster_blow_fpp_r22 = beast claws
+wpn_1hs_knuckle_duster_blow_fpp_r23 = beast claws
+wpn_1hs_knuckle_duster_blow_fpp_r24 = beast claws
+
+wpn_1hs_knuckle_duster_bmed_fpp_r1  = beast claws
+wpn_1hs_knuckle_duster_bmed_fpp_r2  = beast claws
+wpn_1hs_knuckle_duster_bmed_fpp_r3  = beast claws
+wpn_1hs_knuckle_duster_bmed_fpp_r4  = beast claws
+wpn_1hs_knuckle_duster_bmed_fpp_r5  = beast claws
+wpn_1hs_knuckle_duster_bmed_fpp_r6  = beast claws
+wpn_1hs_knuckle_duster_bmed_fpp_r7  = beast claws
+wpn_1hs_knuckle_duster_bmed_fpp_r8  = beast claws
+wpn_1hs_knuckle_duster_bmed_fpp_r9  = beast claws
+wpn_1hs_knuckle_duster_bmed_fpp_r10 = beast claws
+wpn_1hs_knuckle_duster_bmed_fpp_r11 = beast claws
+wpn_1hs_knuckle_duster_bmed_fpp_r12 = beast claws
+wpn_1hs_knuckle_duster_bmed_fpp_r13 = beast claws
+wpn_1hs_knuckle_duster_bmed_fpp_r14 = beast claws
+wpn_1hs_knuckle_duster_bmed_fpp_r15 = beast claws
+wpn_1hs_knuckle_duster_bmed_fpp_r16 = beast claws
+wpn_1hs_knuckle_duster_bmed_fpp_r17 = beast claws
+wpn_1hs_knuckle_duster_bmed_fpp_r18 = beast claws
+wpn_1hs_knuckle_duster_bmed_fpp_r19 = beast claws
+wpn_1hs_knuckle_duster_bmed_fpp_r20 = beast claws
+wpn_1hs_knuckle_duster_bmed_fpp_r21 = beast claws
+wpn_1hs_knuckle_duster_bmed_fpp_r22 = beast claws
+wpn_1hs_knuckle_duster_bmed_fpp_r23 = beast claws
+wpn_1hs_knuckle_duster_bmed_fpp_r24 = beast claws
+
+wpn_1hs_knuckle_duster_bhigh_fpp_r1  = beast claws 
+wpn_1hs_knuckle_duster_bhigh_fpp_r2  = beast claws 
+wpn_1hs_knuckle_duster_bhigh_fpp_r3  = beast claws 
+wpn_1hs_knuckle_duster_bhigh_fpp_r4  = beast claws 
+wpn_1hs_knuckle_duster_bhigh_fpp_r5  = beast claws 
+wpn_1hs_knuckle_duster_bhigh_fpp_r6  = beast claws 
+wpn_1hs_knuckle_duster_bhigh_fpp_r7  = beast claws 
+wpn_1hs_knuckle_duster_bhigh_fpp_r8  = beast claws 
+wpn_1hs_knuckle_duster_bhigh_fpp_r9  = beast claws 
+wpn_1hs_knuckle_duster_bhigh_fpp_r10 = beast claws 
+wpn_1hs_knuckle_duster_bhigh_fpp_r11 = beast claws 
+wpn_1hs_knuckle_duster_bhigh_fpp_r12 = beast claws 
+wpn_1hs_knuckle_duster_bhigh_fpp_r13 = beast claws 
+wpn_1hs_knuckle_duster_bhigh_fpp_r14 = beast claws 
+wpn_1hs_knuckle_duster_bhigh_fpp_r15 = beast claws 
+wpn_1hs_knuckle_duster_bhigh_fpp_r16 = beast claws 
+wpn_1hs_knuckle_duster_bhigh_fpp_r17 = beast claws 
+wpn_1hs_knuckle_duster_bhigh_fpp_r18 = beast claws 
+wpn_1hs_knuckle_duster_bhigh_fpp_r19 = beast claws 
+wpn_1hs_knuckle_duster_bhigh_fpp_r20 = beast claws 
+wpn_1hs_knuckle_duster_bhigh_fpp_r21 = beast claws 
+wpn_1hs_knuckle_duster_bhigh_fpp_r22 = beast claws 
+wpn_1hs_knuckle_duster_bhigh_fpp_r23 = beast claws 
+wpn_1hs_knuckle_duster_bhigh_fpp_r24 = beast claws 
+
+wpn_1hs_knuckle_duster_clow_fpp_r1  = stabber claws
+wpn_1hs_knuckle_duster_clow_fpp_r2  = stabber claws
+wpn_1hs_knuckle_duster_clow_fpp_r3  = stabber claws
+wpn_1hs_knuckle_duster_clow_fpp_r4  = stabber claws
+wpn_1hs_knuckle_duster_clow_fpp_r5  = stabber claws
+wpn_1hs_knuckle_duster_clow_fpp_r6  = stabber claws
+wpn_1hs_knuckle_duster_clow_fpp_r7  = stabber claws
+wpn_1hs_knuckle_duster_clow_fpp_r8  = stabber claws
+wpn_1hs_knuckle_duster_clow_fpp_r9  = stabber claws
+wpn_1hs_knuckle_duster_clow_fpp_r10 = stabber claws
+wpn_1hs_knuckle_duster_clow_fpp_r11 = stabber claws
+wpn_1hs_knuckle_duster_clow_fpp_r12 = stabber claws
+wpn_1hs_knuckle_duster_clow_fpp_r13 = stabber claws
+wpn_1hs_knuckle_duster_clow_fpp_r14 = stabber claws
+wpn_1hs_knuckle_duster_clow_fpp_r15 = stabber claws
+wpn_1hs_knuckle_duster_clow_fpp_r16 = stabber claws
+wpn_1hs_knuckle_duster_clow_fpp_r17 = stabber claws
+wpn_1hs_knuckle_duster_clow_fpp_r18 = stabber claws
+wpn_1hs_knuckle_duster_clow_fpp_r19 = stabber claws
+wpn_1hs_knuckle_duster_clow_fpp_r20 = stabber claws
+wpn_1hs_knuckle_duster_clow_fpp_r21 = stabber claws
+wpn_1hs_knuckle_duster_clow_fpp_r22 = stabber claws
+wpn_1hs_knuckle_duster_clow_fpp_r23 = stabber claws
+wpn_1hs_knuckle_duster_clow_fpp_r24 = stabber claws
+
+wpn_1hs_knuckle_duster_cmed_fpp_r1  = stabber claws
+wpn_1hs_knuckle_duster_cmed_fpp_r2  = stabber claws
+wpn_1hs_knuckle_duster_cmed_fpp_r3  = stabber claws
+wpn_1hs_knuckle_duster_cmed_fpp_r4  = stabber claws
+wpn_1hs_knuckle_duster_cmed_fpp_r5  = stabber claws
+wpn_1hs_knuckle_duster_cmed_fpp_r6  = stabber claws
+wpn_1hs_knuckle_duster_cmed_fpp_r7  = stabber claws
+wpn_1hs_knuckle_duster_cmed_fpp_r8  = stabber claws
+wpn_1hs_knuckle_duster_cmed_fpp_r9  = stabber claws
+wpn_1hs_knuckle_duster_cmed_fpp_r10 = stabber claws
+wpn_1hs_knuckle_duster_cmed_fpp_r11 = stabber claws
+wpn_1hs_knuckle_duster_cmed_fpp_r12 = stabber claws
+wpn_1hs_knuckle_duster_cmed_fpp_r13 = stabber claws
+wpn_1hs_knuckle_duster_cmed_fpp_r14 = stabber claws
+wpn_1hs_knuckle_duster_cmed_fpp_r15 = stabber claws
+wpn_1hs_knuckle_duster_cmed_fpp_r16 = stabber claws
+wpn_1hs_knuckle_duster_cmed_fpp_r17 = stabber claws
+wpn_1hs_knuckle_duster_cmed_fpp_r18 = stabber claws
+wpn_1hs_knuckle_duster_cmed_fpp_r19 = stabber claws
+wpn_1hs_knuckle_duster_cmed_fpp_r20 = stabber claws
+wpn_1hs_knuckle_duster_cmed_fpp_r21 = stabber claws
+wpn_1hs_knuckle_duster_cmed_fpp_r22 = stabber claws
+wpn_1hs_knuckle_duster_cmed_fpp_r23 = stabber claws
+wpn_1hs_knuckle_duster_cmed_fpp_r24 = stabber claws
+
+wpn_1hs_knuckle_duster_chigh_fpp_r1  = stabber claws
+wpn_1hs_knuckle_duster_chigh_fpp_r2  = stabber claws
+wpn_1hs_knuckle_duster_chigh_fpp_r3  = stabber claws
+wpn_1hs_knuckle_duster_chigh_fpp_r4  = stabber claws
+wpn_1hs_knuckle_duster_chigh_fpp_r5  = stabber claws
+wpn_1hs_knuckle_duster_chigh_fpp_r6  = stabber claws
+wpn_1hs_knuckle_duster_chigh_fpp_r7  = stabber claws
+wpn_1hs_knuckle_duster_chigh_fpp_r8  = stabber claws
+wpn_1hs_knuckle_duster_chigh_fpp_r9  = stabber claws
+wpn_1hs_knuckle_duster_chigh_fpp_r10 = stabber claws
+wpn_1hs_knuckle_duster_chigh_fpp_r11 = stabber claws
+wpn_1hs_knuckle_duster_chigh_fpp_r12 = stabber claws
+wpn_1hs_knuckle_duster_chigh_fpp_r13 = stabber claws
+wpn_1hs_knuckle_duster_chigh_fpp_r14 = stabber claws
+wpn_1hs_knuckle_duster_chigh_fpp_r15 = stabber claws
+wpn_1hs_knuckle_duster_chigh_fpp_r16 = stabber claws
+wpn_1hs_knuckle_duster_chigh_fpp_r17 = stabber claws
+wpn_1hs_knuckle_duster_chigh_fpp_r18 = stabber claws
+wpn_1hs_knuckle_duster_chigh_fpp_r19 = stabber claws
+wpn_1hs_knuckle_duster_chigh_fpp_r20 = stabber claws
+wpn_1hs_knuckle_duster_chigh_fpp_r21 = stabber claws
+wpn_1hs_knuckle_duster_chigh_fpp_r22 = stabber claws
+wpn_1hs_knuckle_duster_chigh_fpp_r23 = stabber claws
+wpn_1hs_knuckle_duster_chigh_fpp_r24 = stabber claws
+
+wpn_1hb_knuckle_duster_alow_fpp_r1  = squash knuckles 
+wpn_1hb_knuckle_duster_alow_fpp_r2  = squash knuckles 
+wpn_1hb_knuckle_duster_alow_fpp_r3  = squash knuckles 
+wpn_1hb_knuckle_duster_alow_fpp_r4  = squash knuckles 
+wpn_1hb_knuckle_duster_alow_fpp_r5  = squash knuckles 
+wpn_1hb_knuckle_duster_alow_fpp_r6  = squash knuckles 
+wpn_1hb_knuckle_duster_alow_fpp_r7  = squash knuckles 
+wpn_1hb_knuckle_duster_alow_fpp_r8  = squash knuckles 
+wpn_1hb_knuckle_duster_alow_fpp_r9  = squash knuckles 
+wpn_1hb_knuckle_duster_alow_fpp_r10 = squash knuckles 
+wpn_1hb_knuckle_duster_alow_fpp_r11 = squash knuckles 
+wpn_1hb_knuckle_duster_alow_fpp_r12 = squash knuckles 
+wpn_1hb_knuckle_duster_alow_fpp_r13 = squash knuckles 
+wpn_1hb_knuckle_duster_alow_fpp_r14 = squash knuckles 
+wpn_1hb_knuckle_duster_alow_fpp_r15 = squash knuckles 
+wpn_1hb_knuckle_duster_alow_fpp_r16 = squash knuckles 
+wpn_1hb_knuckle_duster_alow_fpp_r17 = squash knuckles 
+wpn_1hb_knuckle_duster_alow_fpp_r18 = squash knuckles 
+wpn_1hb_knuckle_duster_alow_fpp_r19 = squash knuckles 
+wpn_1hb_knuckle_duster_alow_fpp_r20 = squash knuckles 
+wpn_1hb_knuckle_duster_alow_fpp_r21 = squash knuckles 
+wpn_1hb_knuckle_duster_alow_fpp_r22 = squash knuckles 
+wpn_1hb_knuckle_duster_alow_fpp_r23 = squash knuckles 
+wpn_1hb_knuckle_duster_alow_fpp_r24 = squash knuckles 
+
+wpn_1hb_knuckle_duster_amed_fpp_r1  = squash knuckles 
+wpn_1hb_knuckle_duster_amed_fpp_r2  = squash knuckles 
+wpn_1hb_knuckle_duster_amed_fpp_r3  = squash knuckles 
+wpn_1hb_knuckle_duster_amed_fpp_r4  = squash knuckles 
+wpn_1hb_knuckle_duster_amed_fpp_r5  = squash knuckles 
+wpn_1hb_knuckle_duster_amed_fpp_r6  = squash knuckles 
+wpn_1hb_knuckle_duster_amed_fpp_r7  = squash knuckles 
+wpn_1hb_knuckle_duster_amed_fpp_r8  = squash knuckles 
+wpn_1hb_knuckle_duster_amed_fpp_r9  = squash knuckles 
+wpn_1hb_knuckle_duster_amed_fpp_r10 = squash knuckles 
+wpn_1hb_knuckle_duster_amed_fpp_r11 = squash knuckles 
+wpn_1hb_knuckle_duster_amed_fpp_r12 = squash knuckles 
+wpn_1hb_knuckle_duster_amed_fpp_r13 = squash knuckles 
+wpn_1hb_knuckle_duster_amed_fpp_r14 = squash knuckles 
+wpn_1hb_knuckle_duster_amed_fpp_r15 = squash knuckles 
+wpn_1hb_knuckle_duster_amed_fpp_r16 = squash knuckles 
+wpn_1hb_knuckle_duster_amed_fpp_r17 = squash knuckles 
+wpn_1hb_knuckle_duster_amed_fpp_r18 = squash knuckles 
+wpn_1hb_knuckle_duster_amed_fpp_r19 = squash knuckles 
+wpn_1hb_knuckle_duster_amed_fpp_r20 = squash knuckles 
+wpn_1hb_knuckle_duster_amed_fpp_r21 = squash knuckles 
+wpn_1hb_knuckle_duster_amed_fpp_r22 = squash knuckles 
+wpn_1hb_knuckle_duster_amed_fpp_r23 = squash knuckles 
+wpn_1hb_knuckle_duster_amed_fpp_r24 = squash knuckles 
+
+wpn_1hb_knuckle_duster_ahigh_fpp_r1  = squash knuckles 
+wpn_1hb_knuckle_duster_ahigh_fpp_r2  = squash knuckles 
+wpn_1hb_knuckle_duster_ahigh_fpp_r3  = squash knuckles 
+wpn_1hb_knuckle_duster_ahigh_fpp_r4  = squash knuckles 
+wpn_1hb_knuckle_duster_ahigh_fpp_r5  = squash knuckles 
+wpn_1hb_knuckle_duster_ahigh_fpp_r6  = squash knuckles 
+wpn_1hb_knuckle_duster_ahigh_fpp_r7  = squash knuckles 
+wpn_1hb_knuckle_duster_ahigh_fpp_r8  = squash knuckles 
+wpn_1hb_knuckle_duster_ahigh_fpp_r9  = squash knuckles 
+wpn_1hb_knuckle_duster_ahigh_fpp_r10 = squash knuckles 
+wpn_1hb_knuckle_duster_ahigh_fpp_r11 = squash knuckles 
+wpn_1hb_knuckle_duster_ahigh_fpp_r12 = squash knuckles 
+wpn_1hb_knuckle_duster_ahigh_fpp_r13 = squash knuckles 
+wpn_1hb_knuckle_duster_ahigh_fpp_r14 = squash knuckles 
+wpn_1hb_knuckle_duster_ahigh_fpp_r15 = squash knuckles 
+wpn_1hb_knuckle_duster_ahigh_fpp_r16 = squash knuckles 
+wpn_1hb_knuckle_duster_ahigh_fpp_r17 = squash knuckles 
+wpn_1hb_knuckle_duster_ahigh_fpp_r18 = squash knuckles 
+wpn_1hb_knuckle_duster_ahigh_fpp_r19 = squash knuckles 
+wpn_1hb_knuckle_duster_ahigh_fpp_r20 = squash knuckles 
+wpn_1hb_knuckle_duster_ahigh_fpp_r21 = squash knuckles 
+wpn_1hb_knuckle_duster_ahigh_fpp_r22 = squash knuckles 
+wpn_1hb_knuckle_duster_ahigh_fpp_r23 = squash knuckles 
+wpn_1hb_knuckle_duster_ahigh_fpp_r24 = squash knuckles 
+
+wpn_1hb_knuckle_duster_blow_fpp_r1  = factory line knuckles 
+wpn_1hb_knuckle_duster_blow_fpp_r2  = factory line knuckles 
+wpn_1hb_knuckle_duster_blow_fpp_r3  = factory line knuckles 
+wpn_1hb_knuckle_duster_blow_fpp_r4  = factory line knuckles 
+wpn_1hb_knuckle_duster_blow_fpp_r5  = factory line knuckles 
+wpn_1hb_knuckle_duster_blow_fpp_r6  = factory line knuckles 
+wpn_1hb_knuckle_duster_blow_fpp_r7  = factory line knuckles 
+wpn_1hb_knuckle_duster_blow_fpp_r8  = factory line knuckles 
+wpn_1hb_knuckle_duster_blow_fpp_r9  = factory line knuckles 
+wpn_1hb_knuckle_duster_blow_fpp_r10 = factory line knuckles 
+wpn_1hb_knuckle_duster_blow_fpp_r11 = factory line knuckles 
+wpn_1hb_knuckle_duster_blow_fpp_r12 = factory line knuckles 
+wpn_1hb_knuckle_duster_blow_fpp_r13 = factory line knuckles 
+wpn_1hb_knuckle_duster_blow_fpp_r14 = factory line knuckles 
+wpn_1hb_knuckle_duster_blow_fpp_r15 = factory line knuckles 
+wpn_1hb_knuckle_duster_blow_fpp_r16 = factory line knuckles 
+wpn_1hb_knuckle_duster_blow_fpp_r17 = factory line knuckles 
+wpn_1hb_knuckle_duster_blow_fpp_r18 = factory line knuckles 
+wpn_1hb_knuckle_duster_blow_fpp_r19 = factory line knuckles 
+wpn_1hb_knuckle_duster_blow_fpp_r20 = factory line knuckles 
+wpn_1hb_knuckle_duster_blow_fpp_r21 = factory line knuckles 
+wpn_1hb_knuckle_duster_blow_fpp_r22 = factory line knuckles 
+wpn_1hb_knuckle_duster_blow_fpp_r23 = factory line knuckles 
+wpn_1hb_knuckle_duster_blow_fpp_r24 = factory line knuckles 
+
+wpn_1hb_knuckle_duster_bmed_fpp_r1  = factory line knuckles
+wpn_1hb_knuckle_duster_bmed_fpp_r2  = factory line knuckles
+wpn_1hb_knuckle_duster_bmed_fpp_r3  = factory line knuckles
+wpn_1hb_knuckle_duster_bmed_fpp_r4  = factory line knuckles
+wpn_1hb_knuckle_duster_bmed_fpp_r5  = factory line knuckles
+wpn_1hb_knuckle_duster_bmed_fpp_r6  = factory line knuckles
+wpn_1hb_knuckle_duster_bmed_fpp_r7  = factory line knuckles
+wpn_1hb_knuckle_duster_bmed_fpp_r8  = factory line knuckles
+wpn_1hb_knuckle_duster_bmed_fpp_r9  = factory line knuckles
+wpn_1hb_knuckle_duster_bmed_fpp_r10 = factory line knuckles
+wpn_1hb_knuckle_duster_bmed_fpp_r11 = factory line knuckles
+wpn_1hb_knuckle_duster_bmed_fpp_r12 = factory line knuckles
+wpn_1hb_knuckle_duster_bmed_fpp_r13 = factory line knuckles
+wpn_1hb_knuckle_duster_bmed_fpp_r14 = factory line knuckles
+wpn_1hb_knuckle_duster_bmed_fpp_r15 = factory line knuckles
+wpn_1hb_knuckle_duster_bmed_fpp_r16 = factory line knuckles
+wpn_1hb_knuckle_duster_bmed_fpp_r17 = factory line knuckles
+wpn_1hb_knuckle_duster_bmed_fpp_r18 = factory line knuckles
+wpn_1hb_knuckle_duster_bmed_fpp_r19 = factory line knuckles
+wpn_1hb_knuckle_duster_bmed_fpp_r20 = factory line knuckles
+wpn_1hb_knuckle_duster_bmed_fpp_r21 = factory line knuckles
+wpn_1hb_knuckle_duster_bmed_fpp_r22 = factory line knuckles
+wpn_1hb_knuckle_duster_bmed_fpp_r23 = factory line knuckles
+wpn_1hb_knuckle_duster_bmed_fpp_r24 = factory line knuckles
+
+wpn_1hb_knuckle_duster_bhigh_fpp_r1  = factory line knuckles
+wpn_1hb_knuckle_duster_bhigh_fpp_r2  = factory line knuckles
+wpn_1hb_knuckle_duster_bhigh_fpp_r3  = factory line knuckles
+wpn_1hb_knuckle_duster_bhigh_fpp_r4  = factory line knuckles
+wpn_1hb_knuckle_duster_bhigh_fpp_r5  = factory line knuckles
+wpn_1hb_knuckle_duster_bhigh_fpp_r6  = factory line knuckles
+wpn_1hb_knuckle_duster_bhigh_fpp_r7  = factory line knuckles
+wpn_1hb_knuckle_duster_bhigh_fpp_r8  = factory line knuckles
+wpn_1hb_knuckle_duster_bhigh_fpp_r9  = factory line knuckles
+wpn_1hb_knuckle_duster_bhigh_fpp_r10 = factory line knuckles
+wpn_1hb_knuckle_duster_bhigh_fpp_r11 = factory line knuckles
+wpn_1hb_knuckle_duster_bhigh_fpp_r12 = factory line knuckles
+wpn_1hb_knuckle_duster_bhigh_fpp_r13 = factory line knuckles
+wpn_1hb_knuckle_duster_bhigh_fpp_r14 = factory line knuckles
+wpn_1hb_knuckle_duster_bhigh_fpp_r15 = factory line knuckles
+wpn_1hb_knuckle_duster_bhigh_fpp_r16 = factory line knuckles
+wpn_1hb_knuckle_duster_bhigh_fpp_r17 = factory line knuckles
+wpn_1hb_knuckle_duster_bhigh_fpp_r18 = factory line knuckles
+wpn_1hb_knuckle_duster_bhigh_fpp_r19 = factory line knuckles
+wpn_1hb_knuckle_duster_bhigh_fpp_r20 = factory line knuckles
+wpn_1hb_knuckle_duster_bhigh_fpp_r21 = factory line knuckles
+wpn_1hb_knuckle_duster_bhigh_fpp_r22 = factory line knuckles
+wpn_1hb_knuckle_duster_bhigh_fpp_r23 = factory line knuckles
+wpn_1hb_knuckle_duster_bhigh_fpp_r24 = factory line knuckles
+
+wpn_1hb_knuckle_duster_clow_fpp_r1  = golden knuckles
+wpn_1hb_knuckle_duster_clow_fpp_r2  = golden knuckles
+wpn_1hb_knuckle_duster_clow_fpp_r3  = golden knuckles
+wpn_1hb_knuckle_duster_clow_fpp_r4  = golden knuckles
+wpn_1hb_knuckle_duster_clow_fpp_r5  = golden knuckles
+wpn_1hb_knuckle_duster_clow_fpp_r6  = golden knuckles
+wpn_1hb_knuckle_duster_clow_fpp_r7  = golden knuckles
+wpn_1hb_knuckle_duster_clow_fpp_r8  = golden knuckles
+wpn_1hb_knuckle_duster_clow_fpp_r9  = golden knuckles
+wpn_1hb_knuckle_duster_clow_fpp_r10 = golden knuckles
+wpn_1hb_knuckle_duster_clow_fpp_r11 = golden knuckles
+wpn_1hb_knuckle_duster_clow_fpp_r12 = golden knuckles
+wpn_1hb_knuckle_duster_clow_fpp_r13 = golden knuckles
+wpn_1hb_knuckle_duster_clow_fpp_r14 = golden knuckles
+wpn_1hb_knuckle_duster_clow_fpp_r15 = golden knuckles
+wpn_1hb_knuckle_duster_clow_fpp_r16 = golden knuckles
+wpn_1hb_knuckle_duster_clow_fpp_r17 = golden knuckles
+wpn_1hb_knuckle_duster_clow_fpp_r18 = golden knuckles
+wpn_1hb_knuckle_duster_clow_fpp_r19 = golden knuckles
+wpn_1hb_knuckle_duster_clow_fpp_r20 = golden knuckles
+wpn_1hb_knuckle_duster_clow_fpp_r21 = golden knuckles
+wpn_1hb_knuckle_duster_clow_fpp_r22 = golden knuckles
+wpn_1hb_knuckle_duster_clow_fpp_r23 = golden knuckles
+wpn_1hb_knuckle_duster_clow_fpp_r24 = golden knuckles
+
+wpn_1hb_knuckle_duster_cmed_fpp_r1  = golden knuckles 
+wpn_1hb_knuckle_duster_cmed_fpp_r2  = golden knuckles 
+wpn_1hb_knuckle_duster_cmed_fpp_r3  = golden knuckles 
+wpn_1hb_knuckle_duster_cmed_fpp_r4  = golden knuckles 
+wpn_1hb_knuckle_duster_cmed_fpp_r5  = golden knuckles 
+wpn_1hb_knuckle_duster_cmed_fpp_r6  = golden knuckles 
+wpn_1hb_knuckle_duster_cmed_fpp_r7  = golden knuckles 
+wpn_1hb_knuckle_duster_cmed_fpp_r8  = golden knuckles 
+wpn_1hb_knuckle_duster_cmed_fpp_r9  = golden knuckles 
+wpn_1hb_knuckle_duster_cmed_fpp_r10 = golden knuckles 
+wpn_1hb_knuckle_duster_cmed_fpp_r11 = golden knuckles 
+wpn_1hb_knuckle_duster_cmed_fpp_r12 = golden knuckles 
+wpn_1hb_knuckle_duster_cmed_fpp_r13 = golden knuckles 
+wpn_1hb_knuckle_duster_cmed_fpp_r14 = golden knuckles 
+wpn_1hb_knuckle_duster_cmed_fpp_r15 = golden knuckles 
+wpn_1hb_knuckle_duster_cmed_fpp_r16 = golden knuckles 
+wpn_1hb_knuckle_duster_cmed_fpp_r17 = golden knuckles 
+wpn_1hb_knuckle_duster_cmed_fpp_r18 = golden knuckles 
+wpn_1hb_knuckle_duster_cmed_fpp_r19 = golden knuckles 
+wpn_1hb_knuckle_duster_cmed_fpp_r20 = golden knuckles 
+wpn_1hb_knuckle_duster_cmed_fpp_r21 = golden knuckles 
+wpn_1hb_knuckle_duster_cmed_fpp_r22 = golden knuckles 
+wpn_1hb_knuckle_duster_cmed_fpp_r23 = golden knuckles 
+wpn_1hb_knuckle_duster_cmed_fpp_r24 = golden knuckles 
+
+wpn_1hb_knuckle_duster_chigh_fpp_r1  = golden knuckles 
+wpn_1hb_knuckle_duster_chigh_fpp_r2  = golden knuckles 
+wpn_1hb_knuckle_duster_chigh_fpp_r3  = golden knuckles 
+wpn_1hb_knuckle_duster_chigh_fpp_r4  = golden knuckles 
+wpn_1hb_knuckle_duster_chigh_fpp_r5  = golden knuckles 
+wpn_1hb_knuckle_duster_chigh_fpp_r6  = golden knuckles 
+wpn_1hb_knuckle_duster_chigh_fpp_r7  = golden knuckles 
+wpn_1hb_knuckle_duster_chigh_fpp_r8  = golden knuckles 
+wpn_1hb_knuckle_duster_chigh_fpp_r9  = golden knuckles 
+wpn_1hb_knuckle_duster_chigh_fpp_r10 = golden knuckles 
+wpn_1hb_knuckle_duster_chigh_fpp_r11 = golden knuckles 
+wpn_1hb_knuckle_duster_chigh_fpp_r12 = golden knuckles 
+wpn_1hb_knuckle_duster_chigh_fpp_r13 = golden knuckles 
+wpn_1hb_knuckle_duster_chigh_fpp_r14 = golden knuckles 
+wpn_1hb_knuckle_duster_chigh_fpp_r15 = golden knuckles 
+wpn_1hb_knuckle_duster_chigh_fpp_r16 = golden knuckles 
+wpn_1hb_knuckle_duster_chigh_fpp_r17 = golden knuckles 
+wpn_1hb_knuckle_duster_chigh_fpp_r18 = golden knuckles 
+wpn_1hb_knuckle_duster_chigh_fpp_r19 = golden knuckles 
+wpn_1hb_knuckle_duster_chigh_fpp_r20 = golden knuckles 
+wpn_1hb_knuckle_duster_chigh_fpp_r21 = golden knuckles 
+wpn_1hb_knuckle_duster_chigh_fpp_r22 = golden knuckles 
+wpn_1hb_knuckle_duster_chigh_fpp_r23 = golden knuckles 
+wpn_1hb_knuckle_duster_chigh_fpp_r24 = golden knuckles 
+
+wpn_1hs_axe_r_fpp_r1  = high tech
+wpn_1hs_axe_r_fpp_r2  = high tech
+wpn_1hs_axe_r_fpp_r3  = high tech
+wpn_1hs_axe_r_fpp_r4  = high tech
+wpn_1hs_axe_r_fpp_r5  = high tech
+wpn_1hs_axe_r_fpp_r6  = high tech
+wpn_1hs_axe_r_fpp_r7  = high tech
+wpn_1hs_axe_r_fpp_r8  = high tech
+wpn_1hs_axe_r_fpp_r9  = high tech
+wpn_1hs_axe_r_fpp_r10 = high tech
+wpn_1hs_axe_r_fpp_r11 = high tech
+wpn_1hs_axe_r_fpp_r12 = high tech
+wpn_1hs_axe_r_fpp_r13 = high tech
+wpn_1hs_axe_r_fpp_r14 = high tech
+wpn_1hs_axe_r_fpp_r15 = high tech
+wpn_1hs_axe_r_fpp_r16 = high tech
+wpn_1hs_axe_r_fpp_r17 = high tech
+wpn_1hs_axe_r_fpp_r18 = high tech
+wpn_1hs_axe_r_fpp_r19 = high tech
+wpn_1hs_axe_r_fpp_r20 = high tech
+wpn_1hs_axe_r_fpp_r21 = high tech
+wpn_1hs_axe_r_fpp_r22 = high tech
+wpn_1hs_axe_r_fpp_r23 = high tech
+wpn_1hs_axe_r_fpp_r24 = high tech
+
+wpn_1hs_mach_r_fpp_r1  = khukri
+wpn_1hs_mach_r_fpp_r2  = khukri
+wpn_1hs_mach_r_fpp_r3  = khukri
+wpn_1hs_mach_r_fpp_r4  = khukri
+wpn_1hs_mach_r_fpp_r5  = khukri
+wpn_1hs_mach_r_fpp_r6  = khukri
+wpn_1hs_mach_r_fpp_r7  = khukri
+wpn_1hs_mach_r_fpp_r8  = khukri
+wpn_1hs_mach_r_fpp_r9  = khukri
+wpn_1hs_mach_r_fpp_r10 = khukri
+wpn_1hs_mach_r_fpp_r11 = khukri
+wpn_1hs_mach_r_fpp_r12 = khukri
+wpn_1hs_mach_r_fpp_r13 = khukri
+wpn_1hs_mach_r_fpp_r14 = khukri
+wpn_1hs_mach_r_fpp_r15 = khukri
+wpn_1hs_mach_r_fpp_r16 = khukri
+wpn_1hs_mach_r_fpp_r17 = khukri
+wpn_1hs_mach_r_fpp_r18 = khukri
+wpn_1hs_mach_r_fpp_r19 = khukri
+wpn_1hs_mach_r_fpp_r20 = khukri
+wpn_1hs_mach_r_fpp_r21 = khukri
+wpn_1hs_mach_r_fpp_r22 = khukri
+wpn_1hs_mach_r_fpp_r23 = khukri
+wpn_1hs_mach_r_fpp_r24 = khukri
+
+wpn_1hs_axe_r_guards_t1 = Leitmotiv
+wpn_1hs_axe_r_guards_t2 = Leitmotiv
+wpn_1hs_axe_r_guards_t3 = Leitmotiv
+wpn_1hs_axe_r_guards_t4 = Leitmotiv
+wpn_1hs_axe_r_guards_t5 = Leitmotiv
+wpn_1hs_axe_r_guards_t6 = Leitmotiv
+wpn_1hs_axe_r_guards_t7 = Leitmotiv
+wpn_1hs_axe_r_guards_t8 = Leitmotiv
+wpn_1hs_axe_r_guards_t9 = Leitmotiv
+
+wpn_babel_carnage_1 = Baritone
+wpn_babel_carnage_2 = Baritone
+wpn_babel_carnage_3 = Baritone
+wpn_babel_carnage_4 = Baritone
+wpn_babel_carnage_5 = Baritone
+wpn_babel_carnage_6 = Baritone
+wpn_babel_carnage_7 = Baritone
+wpn_babel_carnage_8 = Baritone
+wpn_babel_carnage_9 = Baritone
+
+wpn_15hs_o_fpp_r0 = Aristocrat
+wpn_15hs_o_fpp_r1 = Aristocrat
+wpn_15hs_o_fpp_r2 = Aristocrat
+wpn_15hs_o_fpp_r3 = Aristocrat
+wpn_15hs_o_fpp_r4 = Aristocrat
+wpn_15hs_o_fpp_r5 = Aristocrat
+wpn_15hs_o_fpp_r6 = Aristocrat
+wpn_15hs_o_fpp_r7 = Aristocrat
+wpn_15hs_o_fpp_r8 = Aristocrat
+wpn_15hs_o_fpp_r9 = Aristocrat
+wpn_15hs_o_fpp_r10 = Aristocrat
+wpn_15hs_o_fpp_r11 = Aristocrat
+wpn_15hs_o_fpp_r12 = Aristocrat
+wpn_15hs_o_fpp_r13 = Aristocrat
+wpn_15hs_o_fpp_r14 = Aristocrat
+wpn_15hs_o_fpp_r15 = Aristocrat
+wpn_15hs_o_fpp_r16 = Aristocrat
+wpn_15hs_o_fpp_r17 = Aristocrat
+wpn_15hs_o_fpp_r18 = Aristocrat
+wpn_15hs_o_fpp_r19 = Aristocrat
+wpn_15hs_o_fpp_r20 = Aristocrat
+wpn_15hs_o_fpp_r21 = Aristocrat
+wpn_15hs_o_fpp_r22 = Aristocrat
+wpn_15hs_o_fpp_r23 = Aristocrat
+wpn_15hs_o_fpp_r24 = Aristocrat
+
+wpn_1hb_mace_b_opera_t1 = Proscenium
+wpn_1hb_mace_b_opera_t2 = Proscenium
+wpn_1hb_mace_b_opera_t3 = Proscenium
+wpn_1hb_mace_b_opera_t4 = Proscenium
+wpn_1hb_mace_b_opera_t5 = Proscenium
+wpn_1hb_mace_b_opera_t6 = Proscenium
+wpn_1hb_mace_b_opera_t7 = Proscenium
+wpn_1hb_mace_b_opera_t8 = Proscenium
+wpn_1hb_mace_b_opera_t9 = Proscenium
+
+wpn_15hs_a_forge_t1 = Prelude
+wpn_15hs_a_forge_t2 = Prelude
+wpn_15hs_a_forge_t3 = Prelude
+wpn_15hs_a_forge_t4 = Prelude
+wpn_15hs_a_forge_t5 = Prelude
+wpn_15hs_a_forge_t6 = Prelude
+wpn_15hs_a_forge_t7 = Prelude
+wpn_15hs_a_forge_t8 = Prelude
+wpn_15hs_a_forge_t9 = Prelude
+
+wpn_2hs_g_babel_t1 = Barber
+wpn_2hs_g_babel_t2 = Barber
+wpn_2hs_g_babel_t3 = Barber
+wpn_2hs_g_babel_t4 = Barber
+wpn_2hs_g_babel_t5 = Barber
+wpn_2hs_g_babel_t6 = Barber
+wpn_2hs_g_babel_t7 = Barber
+wpn_2hs_g_babel_t8 = Barber
+wpn_2hs_g_babel_t9 = Barber
+
+wpn_2hs_f_opera_t1 = Vibrato
+wpn_2hs_f_opera_t2 = Vibrato
+wpn_2hs_f_opera_t3 = Vibrato
+wpn_2hs_f_opera_t4 = Vibrato
+wpn_2hs_f_opera_t5 = Vibrato
+wpn_2hs_f_opera_t6 = Vibrato
+wpn_2hs_f_opera_t7 = Vibrato
+wpn_2hs_f_opera_t8 = Vibrato
+wpn_2hs_f_opera_t9 = Vibrato
+
+wpn_1hs_mach_o_fpp_r0 = Shark Teeth
+wpn_1hs_mach_o_fpp_r1 = Shark Teeth
+wpn_1hs_mach_o_fpp_r2 = Shark Teeth
+wpn_1hs_mach_o_fpp_r3 = Shark Teeth
+wpn_1hs_mach_o_fpp_r4 = Shark Teeth
+wpn_1hs_mach_o_fpp_r5 = Shark Teeth
+wpn_1hs_mach_o_fpp_r6 = Shark Teeth
+wpn_1hs_mach_o_fpp_r7 = Shark Teeth
+wpn_1hs_mach_o_fpp_r8 = Shark Teeth
+wpn_1hs_mach_o_fpp_r9 = Shark Teeth
+wpn_1hs_mach_o_fpp_r10 = Shark Teeth
+wpn_1hs_mach_o_fpp_r11 = Shark Teeth
+wpn_1hs_mach_o_fpp_r12 = Shark Teeth
+wpn_1hs_mach_o_fpp_r13 = Shark Teeth
+wpn_1hs_mach_o_fpp_r14 = Shark Teeth
+wpn_1hs_mach_o_fpp_r15 = Shark Teeth
+wpn_1hs_mach_o_fpp_r16 = Shark Teeth
+wpn_1hs_mach_o_fpp_r17 = Shark Teeth
+wpn_1hs_mach_o_fpp_r18 = Shark Teeth
+wpn_1hs_mach_o_fpp_r19 = Shark Teeth
+wpn_1hs_mach_o_fpp_r20 = Shark Teeth
+wpn_1hs_mach_o_fpp_r21 = Shark Teeth
+wpn_1hs_mach_o_fpp_r22 = Shark Teeth
+wpn_1hs_mach_o_fpp_r23 = Shark Teeth
+wpn_1hs_mach_o_fpp_r24 = Shark Teeth
+
+wpn_prince_spectacle_1 = Castrato
+wpn_prince_spectacle_2 = Castrato
+wpn_prince_spectacle_3 = Castrato
+wpn_prince_spectacle_4 = Castrato
+wpn_prince_spectacle_5 = Castrato
+wpn_prince_spectacle_6 = Castrato
+wpn_prince_spectacle_7 = Castrato
+wpn_prince_spectacle_8 = Castrato
+wpn_prince_spectacle_9 = Castrato
+
+wpn_1hb_mace_d_fpp_r0 = Medieval Mace
+wpn_1hb_mace_d_fpp_r1 = Medieval Mace
+wpn_1hb_mace_d_fpp_r2 = Medieval Mace
+wpn_1hb_mace_d_fpp_r3 = Medieval Mace
+wpn_1hb_mace_d_fpp_r4 = Medieval Mace
+wpn_1hb_mace_d_fpp_r5 = Medieval Mace
+wpn_1hb_mace_d_fpp_r6 = Medieval Mace
+wpn_1hb_mace_d_fpp_r7 = Medieval Mace
+wpn_1hb_mace_d_fpp_r8 = Medieval Mace
+wpn_1hb_mace_d_fpp_r9 = Medieval Mace
+wpn_1hb_mace_d_fpp_r10 = Medieval Mace
+wpn_1hb_mace_d_fpp_r11 = Medieval Mace
+wpn_1hb_mace_d_fpp_r12 = Medieval Mace
+wpn_1hb_mace_d_fpp_r13 = Medieval Mace
+wpn_1hb_mace_d_fpp_r14 = Medieval Mace
+wpn_1hb_mace_d_fpp_r15 = Medieval Mace
+wpn_1hb_mace_d_fpp_r16 = Medieval Mace
+wpn_1hb_mace_d_fpp_r17 = Medieval Mace
+wpn_1hb_mace_d_fpp_r18 = Medieval Mace
+wpn_1hb_mace_d_fpp_r19 = Medieval Mace
+wpn_1hb_mace_d_fpp_r20 = Medieval Mace
+wpn_1hb_mace_d_fpp_r21 = Medieval Mace
+wpn_1hb_mace_d_fpp_r22 = Medieval Mace
+wpn_1hb_mace_d_fpp_r23 = Medieval Mace
+wpn_1hb_mace_d_fpp_r24 = Medieval Mace
+
+wpn_1hs_mach_j_guards_t1 = Silence
+wpn_1hs_mach_j_guards_t2 = Silence
+wpn_1hs_mach_j_guards_t3 = Silence
+wpn_1hs_mach_j_guards_t4 = Silence
+wpn_1hs_mach_j_guards_t5 = Silence
+wpn_1hs_mach_j_guards_t6 = Silence
+wpn_1hs_mach_j_guards_t7 = Silence
+wpn_1hs_mach_j_guards_t8 = Silence
+wpn_1hs_mach_j_guards_t9 = Silence
+
+wpn_1hb_ham_p_guards_t1 = Staccato
+wpn_1hb_ham_p_guards_t2 = Staccato
+wpn_1hb_ham_p_guards_t3 = Staccato
+wpn_1hb_ham_p_guards_t4 = Staccato
+wpn_1hb_ham_p_guards_t5 = Staccato
+wpn_1hb_ham_p_guards_t6 = Staccato
+wpn_1hb_ham_p_guards_t7 = Staccato
+wpn_1hb_ham_p_guards_t8 = Staccato
+wpn_1hb_ham_p_guards_t9 = Staccato
+
+wpn_15hb_b_babel_t1 = Coloratura
+wpn_15hb_b_babel_t2 = Coloratura
+wpn_15hb_b_babel_t3 = Coloratura
+wpn_15hb_b_babel_t4 = Coloratura
+wpn_15hb_b_babel_t5 = Coloratura
+wpn_15hb_b_babel_t6 = Coloratura
+wpn_15hb_b_babel_t7 = Coloratura
+wpn_15hb_b_babel_t8 = Coloratura
+wpn_15hb_b_babel_t9 = Coloratura
+
+wpn_harran_spectacle_1 = composite baseball bat
+wpn_1hb_stk_1_harran_t1 = composite baseball bat
+wpn_1hb_stk_1_harran_t2 = composite baseball bat
+wpn_1hb_stk_1_harran_t3 = composite baseball bat
+wpn_1hb_stk_1_harran_t4 = composite baseball bat
+wpn_1hb_stk_1_harran_t5 = composite baseball bat
+wpn_1hb_stk_1_harran_t6 = composite baseball bat
+wpn_1hb_stk_1_harran_t7 = composite baseball bat
+wpn_1hb_stk_1_harran_t8 = composite baseball bat
+wpn_1hb_stk_1_harran_t9 = composite baseball bat
+
+wpn_prince_spectacle_2 = Choral
+wpn_2hb_g_prince_t1 = Choral
+wpn_2hb_g_prince_t2 = Choral
+wpn_2hb_g_prince_t3 = Choral
+wpn_2hb_g_prince_t4 = Choral
+wpn_2hb_g_prince_t5 = Choral
+wpn_2hb_g_prince_t6 = Choral
+wpn_2hb_g_prince_t7 = Choral
+wpn_2hb_g_prince_t8 = Choral
+wpn_2hb_g_prince_t9 = Choral
+
+wpn_forge_spectacle_1 = = Falsetto
+wpn_1hs_mach_p_forge_t1 = Falsetto
+wpn_1hs_mach_p_forge_t2 = Falsetto
+wpn_1hs_mach_p_forge_t3 = Falsetto
+wpn_1hs_mach_p_forge_t4 = Falsetto
+wpn_1hs_mach_p_forge_t5 = Falsetto
+wpn_1hs_mach_p_forge_t6 = Falsetto
+wpn_1hs_mach_p_forge_t7 = Falsetto
+wpn_1hs_mach_p_forge_t8 = Falsetto
+wpn_1hs_mach_p_forge_t9 = Falsetto
+
+wpn_2hs_b_prince_t1 = Cadenza
+wpn_2hs_b_prince_t2 = Cadenza
+wpn_2hs_b_prince_t3 = Cadenza
+wpn_2hs_b_prince_t4 = Cadenza
+wpn_2hs_b_prince_t5 = Cadenza
+wpn_2hs_b_prince_t6 = Cadenza
+wpn_2hs_b_prince_t7 = Cadenza
+wpn_2hs_b_prince_t8 = Cadenza
+wpn_2hs_b_prince_t9 = Cadenza
+
+wpn_15hb_l_fpp_r0 = Cricket Bat
+wpn_15hb_l_fpp_r1 = Cricket Bat
+wpn_15hb_l_fpp_r2 = Cricket Bat
+wpn_15hb_l_fpp_r3 = Cricket Bat
+wpn_15hb_l_fpp_r4 = Cricket Bat
+wpn_15hb_l_fpp_r5 = Cricket Bat
+wpn_15hb_l_fpp_r6 = Cricket Bat
+wpn_15hb_l_fpp_r7 = Cricket Bat
+wpn_15hb_l_fpp_r8 = Cricket Bat
+wpn_15hb_l_fpp_r9 = Cricket Bat
+wpn_15hb_l_fpp_r10 = Cricket Bat
+wpn_15hb_l_fpp_r11 = Cricket Bat
+wpn_15hb_l_fpp_r12 = Cricket Bat
+wpn_15hb_l_fpp_r13 = Cricket Bat
+wpn_15hb_l_fpp_r14 = Cricket Bat
+wpn_15hb_l_fpp_r15 = Cricket Bat
+wpn_15hb_l_fpp_r16 = Cricket Bat
+wpn_15hb_l_fpp_r17 = Cricket Bat
+wpn_15hb_l_fpp_r18 = Cricket Bat
+wpn_15hb_l_fpp_r19 = Cricket Bat
+wpn_15hb_l_fpp_r20 = Cricket Bat
+wpn_15hb_l_fpp_r21 = Cricket Bat
+wpn_15hb_l_fpp_r22 = Cricket Bat
+wpn_15hb_l_fpp_r23 = Cricket Bat
+wpn_15hb_l_fpp_r24 = Cricket Bat
+
+wpn_1hs_mach_v_opera_t1 = Intermezzo
+wpn_1hs_mach_v_opera_t2 = Intermezzo
+wpn_1hs_mach_v_opera_t3 = Intermezzo
+wpn_1hs_mach_v_opera_t4 = Intermezzo
+wpn_1hs_mach_v_opera_t5 = Intermezzo
+wpn_1hs_mach_v_opera_t6 = Intermezzo
+wpn_1hs_mach_v_opera_t7 = Intermezzo
+wpn_1hs_mach_v_opera_t8 = Intermezzo
+wpn_1hs_mach_v_opera_t9 = Intermezzo
+
+wpn_1hb_ham_g_babel_t1 = Bell
+wpn_1hb_ham_g_babel_t2 = Bell
+wpn_1hb_ham_g_babel_t3 = Bell
+wpn_1hb_ham_g_babel_t4 = Bell
+wpn_1hb_ham_g_babel_t5 = Bell
+wpn_1hb_ham_g_babel_t6 = Bell
+wpn_1hb_ham_g_babel_t7 = Bell
+wpn_1hb_ham_g_babel_t8 = Bell
+wpn_1hb_ham_g_babel_t9 = Bell
+
+wpn_1hs_mach_1_harran_t1 = Military Machete
+wpn_1hs_mach_1_harran_t2 = Military Machete
+wpn_1hs_mach_1_harran_t3 = Military Machete
+wpn_1hs_mach_1_harran_t4 = Military Machete
+wpn_1hs_mach_1_harran_t5 = Military Machete
+wpn_1hs_mach_1_harran_t6 = Military Machete
+wpn_1hs_mach_1_harran_t7 = Military Machete
+wpn_1hs_mach_1_harran_t8 = Military Machete
+wpn_1hs_mach_1_harran_t9 = Military Machete
+
+wpn_15hb_a_forge_t1 = Tormentor
+wpn_15hb_a_forge_t2 = Tormentor
+wpn_15hb_a_forge_t3 = Tormentor
+wpn_15hb_a_forge_t4 = Tormentor
+wpn_15hb_a_forge_t5 = Tormentor
+wpn_15hb_a_forge_t6 = Tormentor
+wpn_15hb_a_forge_t7 = Tormentor
+wpn_15hb_a_forge_t8 = Tormentor
+wpn_15hb_a_forge_t9 = Tormentor
+
+wpn_1hb_mace_d_opera_t1 = Rehearsal
+wpn_1hb_mace_d_opera_t2 = Rehearsal
+wpn_1hb_mace_d_opera_t3 = Rehearsal
+wpn_1hb_mace_d_opera_t4 = Rehearsal
+wpn_1hb_mace_d_opera_t5 = Rehearsal
+wpn_1hb_mace_d_opera_t6 = Rehearsal
+wpn_1hb_mace_d_opera_t7 = Rehearsal
+wpn_1hb_mace_d_opera_t8 = Rehearsal
+wpn_1hb_mace_d_opera_t9 = Rehearsal
+
+wpn_2hs_e_forge_t1 = Conductor
+wpn_2hs_e_forge_t2 = Conductor
+wpn_2hs_e_forge_t3 = Conductor
+wpn_2hs_e_forge_t4 = Conductor
+wpn_2hs_e_forge_t5 = Conductor
+wpn_2hs_e_forge_t6 = Conductor
+wpn_2hs_e_forge_t7 = Conductor
+wpn_2hs_e_forge_t8 = Conductor
+wpn_2hs_e_forge_t9 = Conductor
+
+wpn_1hs_mach_t_opera_t1 = Il Becco
+wpn_1hs_mach_t_opera_t2 = Il Becco
+wpn_1hs_mach_t_opera_t3 = Il Becco
+wpn_1hs_mach_t_opera_t4 = Il Becco
+wpn_1hs_mach_t_opera_t5 = Il Becco
+wpn_1hs_mach_t_opera_t6 = Il Becco
+wpn_1hs_mach_t_opera_t7 = Il Becco
+wpn_1hs_mach_t_opera_t8 = Il Becco
+wpn_1hs_mach_t_opera_t9 = Il Becco
+
+wpn_15hb_k_fpp_r0 = Proletarian
+wpn_15hb_k_fpp_r1 = Proletarian
+wpn_15hb_k_fpp_r2 = Proletarian
+wpn_15hb_k_fpp_r3 = Proletarian
+wpn_15hb_k_fpp_r4 = Proletarian
+wpn_15hb_k_fpp_r5 = Proletarian
+wpn_15hb_k_fpp_r6 = Proletarian
+wpn_15hb_k_fpp_r7 = Proletarian
+wpn_15hb_k_fpp_r8 = Proletarian
+wpn_15hb_k_fpp_r9 = Proletarian
+wpn_15hb_k_fpp_r10 = Proletarian
+wpn_15hb_k_fpp_r11 = Proletarian
+wpn_15hb_k_fpp_r12 = Proletarian
+wpn_15hb_k_fpp_r13 = Proletarian
+wpn_15hb_k_fpp_r14 = Proletarian
+wpn_15hb_k_fpp_r15 = Proletarian
+wpn_15hb_k_fpp_r16 = Proletarian
+wpn_15hb_k_fpp_r17 = Proletarian
+wpn_15hb_k_fpp_r18 = Proletarian
+wpn_15hb_k_fpp_r19 = Proletarian
+wpn_15hb_k_fpp_r20 = Proletarian
+wpn_15hb_k_fpp_r21 = Proletarian
+wpn_15hb_k_fpp_r22 = Proletarian
+wpn_15hb_k_fpp_r23 = Proletarian
+wpn_15hb_k_fpp_r24 = Proletarian
+
+wpn_15hs_e_opera = Overture
+wpn_15hs_e_opera_t1 = Overture
+wpn_15hs_e_opera_t2 = Overture
+wpn_15hs_e_opera_t3 = Overture
+wpn_15hs_e_opera_t4 = Overture
+wpn_15hs_e_opera_t5 = Overture
+wpn_15hs_e_opera_t6 = Overture
+wpn_15hs_e_opera_t7 = Overture
+wpn_15hs_e_opera_t8 = Overture
+wpn_15hs_e_opera_t9 = Overture
+
+wpn_1hb_stk_h_forge_t1 = Soprano
+wpn_1hb_stk_h_forge_t2 = Soprano
+wpn_1hb_stk_h_forge_t3 = Soprano
+wpn_1hb_stk_h_forge_t4 = Soprano
+wpn_1hb_stk_h_forge_t5 = Soprano
+wpn_1hb_stk_h_forge_t6 = Soprano
+wpn_1hb_stk_h_forge_t7 = Soprano
+wpn_1hb_stk_h_forge_t8 = Soprano
+wpn_1hb_stk_h_forge_t9 = Soprano
+
+wpn_1hb_ham_b_opera = Prop
+wpn_2hb_c_opera_t1 = Prop
+wpn_2hb_c_opera_t2 = Prop
+wpn_2hb_c_opera_t3 = Prop
+wpn_2hb_c_opera_t4 = Prop
+wpn_2hb_c_opera_t5 = Prop
+wpn_2hb_c_opera_t6 = Prop
+wpn_2hb_c_opera_t7 = Prop
+wpn_2hb_c_opera_t8 = Prop
+wpn_2hb_c_opera_t9 = Prop
+
+wpn_15hs_b_fpp_r0 = Enso Katana
+wpn_15hs_b_fpp_r1 = Enso Katana
+wpn_15hs_b_fpp_r2 = Enso Katana
+wpn_15hs_b_fpp_r3 = Enso Katana
+wpn_15hs_b_fpp_r4 = Enso Katana
+wpn_15hs_b_fpp_r5 = Enso Katana
+wpn_15hs_b_fpp_r6 = Enso Katana
+wpn_15hs_b_fpp_r7 = Enso Katana
+wpn_15hs_b_fpp_r8 = Enso Katana
+wpn_15hs_b_fpp_r9 = Enso Katana
+wpn_15hs_b_fpp_r10 = Enso Katana
+wpn_15hs_b_fpp_r11 = Enso Katana
+wpn_15hs_b_fpp_r12 = Enso Katana
+wpn_15hs_b_fpp_r13 = Enso Katana
+wpn_15hs_b_fpp_r14 = Enso Katana
+wpn_15hs_b_fpp_r15 = Enso Katana
+wpn_15hs_b_fpp_r16 = Enso Katana
+wpn_15hs_b_fpp_r17 = Enso Katana
+wpn_15hs_b_fpp_r18 = Enso Katana
+wpn_15hs_b_fpp_r19 = Enso Katana
+wpn_15hs_b_fpp_r20 = Enso Katana
+wpn_15hs_b_fpp_r21 = Enso Katana
+wpn_15hs_b_fpp_r22 = Enso Katana
+wpn_15hs_b_fpp_r23 = Enso Katana
+wpn_15hs_b_fpp_r24 = Enso Katana
+
+wpn_2hb_a_forge_t1 = A capella
+wpn_2hb_a_forge_t2 = A capella
+wpn_2hb_a_forge_t3 = A capella
+wpn_2hb_a_forge_t4 = A capella
+wpn_2hb_a_forge_t5 = A capella
+wpn_2hb_a_forge_t6 = A capella
+wpn_2hb_a_forge_t7 = A capella
+wpn_2hb_a_forge_t8 = A capella
+wpn_2hb_a_forge_t9 = A capella
+
+wpn_1hs_mach_l_babel_t1 = Harmony
+wpn_1hs_mach_l_babel_t2 = Harmony
+wpn_1hs_mach_l_babel_t3 = Harmony
+wpn_1hs_mach_l_babel_t4 = Harmony
+wpn_1hs_mach_l_babel_t5 = Harmony
+wpn_1hs_mach_l_babel_t6 = Harmony
+wpn_1hs_mach_l_babel_t7 = Harmony
+wpn_1hs_mach_l_babel_t8 = Harmony
+wpn_1hs_mach_l_babel_t9 = Harmony
+
+wpn_15hs_f_prince_t1 = Intermission
+wpn_15hs_f_prince_t2 = Intermission
+wpn_15hs_f_prince_t3 = Intermission
+wpn_15hs_f_prince_t4 = Intermission
+wpn_15hs_f_prince_t5 = Intermission
+wpn_15hs_f_prince_t6 = Intermission
+wpn_15hs_f_prince_t7 = Intermission
+wpn_15hs_f_prince_t8 = Intermission
+wpn_15hs_f_prince_t9 = Intermission
+
+wpn_15hb_d_opera_t1 = //
+wpn_15hb_d_opera_t2 = //
+wpn_15hb_d_opera_t3 = //
+wpn_15hb_d_opera_t4 = //
+wpn_15hb_d_opera_t5 = //
+wpn_15hb_d_opera_t6 = //
+wpn_15hb_d_opera_t7 = //
+wpn_15hb_d_opera_t8 = //
+wpn_15hb_d_opera_t9 = //
+
+wpn_1hb_ham_l_opera_t1 = Unison
+wpn_1hb_ham_l_opera_t2 = Unison
+wpn_1hb_ham_l_opera_t3 = Unison
+wpn_1hb_ham_l_opera_t4 = Unison
+wpn_1hb_ham_l_opera_t5 = Unison
+wpn_1hb_ham_l_opera_t6 = Unison
+wpn_1hb_ham_l_opera_t7 = Unison
+wpn_1hb_ham_l_opera_t8 = Unison
+wpn_1hb_ham_l_opera_t9 = Unison
+
+wpn_1hb_mace_d_opera_t1 = Operetta
+wpn_1hb_mace_d_opera_t2 = Operetta
+wpn_1hb_mace_d_opera_t3 = Operetta
+wpn_1hb_mace_d_opera_t4 = Operetta
+wpn_1hb_mace_d_opera_t5 = Operetta
+wpn_1hb_mace_d_opera_t6 = Operetta
+wpn_1hb_mace_d_opera_t7 = Operetta
+wpn_1hb_mace_d_opera_t8 = Operetta
+wpn_1hb_mace_d_opera_t9 = Operetta
+
+wpn_1hs_mach_a_platinum_t1 = shoelace machete legendary
+wpn_1hs_mach_a_platinum_t2 = shoelace machete legendary
+wpn_1hs_mach_a_platinum_t3 = shoelace machete legendary
+wpn_1hs_mach_a_platinum_t4 = shoelace machete legendary
+wpn_1hs_mach_a_platinum_t5 = shoelace machete legendary
+wpn_1hs_mach_a_platinum_t6 = shoelace machete legendary
+wpn_1hs_mach_a_platinum_t7 = shoelace machete legendary
+wpn_1hs_mach_a_platinum_t8 = shoelace machete legendary
+wpn_1hs_mach_a_platinum_t9 = shoelace machete legendary
+
+wpn_1hs_mach_b_platinum_t1 = military machete legendary
+wpn_1hs_mach_b_platinum_t2 = military machete legendary
+wpn_1hs_mach_b_platinum_t3 = military machete legendary
+wpn_1hs_mach_b_platinum_t4 = military machete legendary
+wpn_1hs_mach_b_platinum_t5 = military machete legendary
+wpn_1hs_mach_b_platinum_t6 = military machete legendary
+wpn_1hs_mach_b_platinum_t7 = military machete legendary
+wpn_1hs_mach_b_platinum_t8 = military machete legendary
+wpn_1hs_mach_b_platinum_t9 = military machete legendary
+
+wpn_1hs_mach_c_platinum_t1 = hussar legendary
+wpn_1hs_mach_c_platinum_t2 = hussar legendary
+wpn_1hs_mach_c_platinum_t3 = hussar legendary
+wpn_1hs_mach_c_platinum_t4 = hussar legendary
+wpn_1hs_mach_c_platinum_t5 = hussar legendary
+wpn_1hs_mach_c_platinum_t6 = hussar legendary
+wpn_1hs_mach_c_platinum_t7 = hussar legendary
+wpn_1hs_mach_c_platinum_t8 = hussar legendary
+wpn_1hs_mach_c_platinum_t9 = hussar legendary
+
+wpn_1hs_mach_w_platinum_t1 = papercutter legendary
+wpn_1hs_mach_w_platinum_t2 = papercutter legendary
+wpn_1hs_mach_w_platinum_t3 = papercutter legendary
+wpn_1hs_mach_w_platinum_t4 = papercutter legendary
+wpn_1hs_mach_w_platinum_t5 = papercutter legendary
+wpn_1hs_mach_w_platinum_t6 = papercutter legendary
+wpn_1hs_mach_w_platinum_t7 = papercutter legendary
+wpn_1hs_mach_w_platinum_t8 = papercutter legendary
+wpn_1hs_mach_w_platinum_t9 = papercutter legendary
+
+wpn_1hs_axdb_a_platinum_t1 = gravedigger legendary
+wpn_1hs_axdb_a_platinum_t2 = gravedigger legendary
+wpn_1hs_axdb_a_platinum_t3 = gravedigger legendary
+wpn_1hs_axdb_a_platinum_t4 = gravedigger legendary
+wpn_1hs_axdb_a_platinum_t5 = gravedigger legendary
+wpn_1hs_axdb_a_platinum_t6 = gravedigger legendary
+wpn_1hs_axdb_a_platinum_t7 = gravedigger legendary
+wpn_1hs_axdb_a_platinum_t8 = gravedigger legendary
+wpn_1hs_axdb_a_platinum_t9 = gravedigger legendary
+
+wpn_1hs_axe_a_platinum_t1 = tomahawk legendary
+wpn_1hs_axe_a_platinum_t2 = tomahawk legendary
+wpn_1hs_axe_a_platinum_t3 = tomahawk legendary
+wpn_1hs_axe_a_platinum_t4 = tomahawk legendary
+wpn_1hs_axe_a_platinum_t5 = tomahawk legendary
+wpn_1hs_axe_a_platinum_t6 = tomahawk legendary
+wpn_1hs_axe_a_platinum_t7 = tomahawk legendary
+wpn_1hs_axe_a_platinum_t8 = tomahawk legendary
+wpn_1hs_axe_a_platinum_t9 = tomahawk legendary
+
+wpn_1hs_axe_c_platinum_t1 = hacker axe legendary
+wpn_1hs_axe_c_platinum_t2 = hacker axe legendary
+wpn_1hs_axe_c_platinum_t3 = hacker axe legendary
+wpn_1hs_axe_c_platinum_t4 = hacker axe legendary
+wpn_1hs_axe_c_platinum_t5 = hacker axe legendary
+wpn_1hs_axe_c_platinum_t6 = hacker axe legendary
+wpn_1hs_axe_c_platinum_t7 = hacker axe legendary
+wpn_1hs_axe_c_platinum_t8 = hacker axe legendary
+wpn_1hs_axe_c_platinum_t9 = hacker axe legendary
+
+wpn_1hs_axe_k_platinum_t1 = camo axe legendary
+wpn_1hs_axe_k_platinum_t2 = camo axe legendary
+wpn_1hs_axe_k_platinum_t3 = camo axe legendary
+wpn_1hs_axe_k_platinum_t4 = camo axe legendary
+wpn_1hs_axe_k_platinum_t5 = camo axe legendary
+wpn_1hs_axe_k_platinum_t6 = camo axe legendary
+wpn_1hs_axe_k_platinum_t7 = camo axe legendary
+wpn_1hs_axe_k_platinum_t8 = camo axe legendary
+wpn_1hs_axe_k_platinum_t9 = camo axe legendary
+
+wpn_1hs_axe_r_platinum_t1 = Hi-Tech legendary
+wpn_1hs_axe_r_platinum_t2 = Hi-Tech legendary
+wpn_1hs_axe_r_platinum_t3 = Hi-Tech legendary
+wpn_1hs_axe_r_platinum_t4 = Hi-Tech legendary
+wpn_1hs_axe_r_platinum_t5 = Hi-Tech legendary
+wpn_1hs_axe_r_platinum_t6 = Hi-Tech legendary
+wpn_1hs_axe_r_platinum_t7 = Hi-Tech legendary
+wpn_1hs_axe_r_platinum_t8 = Hi-Tech legendary
+wpn_1hs_axe_r_platinum_t9 = Hi-Tech legendary
+
+wpn_15hs_b_platinum_t1 = enso katana legendary
+wpn_15hs_b_platinum_t2 = enso katana legendary
+wpn_15hs_b_platinum_t3 = enso katana legendary
+wpn_15hs_b_platinum_t4 = enso katana legendary
+wpn_15hs_b_platinum_t5 = enso katana legendary
+wpn_15hs_b_platinum_t6 = enso katana legendary
+wpn_15hs_b_platinum_t7 = enso katana legendary
+wpn_15hs_b_platinum_t8 = enso katana legendary
+wpn_15hs_b_platinum_t9 = enso katana legendary
+
+wpn_15hs_e_platinum_t1 = reliable axe legendary
+wpn_15hs_e_platinum_t2 = reliable axe legendary
+wpn_15hs_e_platinum_t3 = reliable axe legendary
+wpn_15hs_e_platinum_t4 = reliable axe legendary
+wpn_15hs_e_platinum_t5 = reliable axe legendary
+wpn_15hs_e_platinum_t6 = reliable axe legendary
+wpn_15hs_e_platinum_t7 = reliable axe legendary
+wpn_15hs_e_platinum_t8 = reliable axe legendary
+wpn_15hs_e_platinum_t9 = reliable axe legendary
+
+wpn_15hs_g_platinum_t1 = heavy duty legendary
+wpn_15hs_g_platinum_t2 = heavy duty legendary
+wpn_15hs_g_platinum_t3 = heavy duty legendary
+wpn_15hs_g_platinum_t4 = heavy duty legendary
+wpn_15hs_g_platinum_t5 = heavy duty legendary
+wpn_15hs_g_platinum_t6 = heavy duty legendary
+wpn_15hs_g_platinum_t7 = heavy duty legendary
+wpn_15hs_g_platinum_t8 = heavy duty legendary
+wpn_15hs_g_platinum_t9 = heavy duty legendary
+
+wpn_1hb_ham_g_platinum_t1 = mohawk hammer legendary
+wpn_1hb_ham_g_platinum_t2 = mohawk hammer legendary
+wpn_1hb_ham_g_platinum_t3 = mohawk hammer legendary
+wpn_1hb_ham_g_platinum_t4 = mohawk hammer legendary
+wpn_1hb_ham_g_platinum_t5 = mohawk hammer legendary
+wpn_1hb_ham_g_platinum_t6 = mohawk hammer legendary
+wpn_1hb_ham_g_platinum_t7 = mohawk hammer legendary
+wpn_1hb_ham_g_platinum_t8 = mohawk hammer legendary
+wpn_1hb_ham_g_platinum_t9 = mohawk hammer legendary
+
+wpn_1hb_ham_h_platinum_t1 = antique hammer legendary
+wpn_1hb_ham_h_platinum_t2 = antique hammer legendary
+wpn_1hb_ham_h_platinum_t3 = antique hammer legendary
+wpn_1hb_ham_h_platinum_t4 = antique hammer legendary
+wpn_1hb_ham_h_platinum_t5 = antique hammer legendary
+wpn_1hb_ham_h_platinum_t6 = antique hammer legendary
+wpn_1hb_ham_h_platinum_t7 = antique hammer legendary
+wpn_1hb_ham_h_platinum_t8 = antique hammer legendary
+wpn_1hb_ham_h_platinum_t9 = antique hammer legendary
+
+wpn_1hb_ham_p_platinum_t1 = smasher legendary
+wpn_1hb_ham_p_platinum_t2 = smasher legendary
+wpn_1hb_ham_p_platinum_t3 = smasher legendary
+wpn_1hb_ham_p_platinum_t4 = smasher legendary
+wpn_1hb_ham_p_platinum_t5 = smasher legendary
+wpn_1hb_ham_p_platinum_t6 = smasher legendary
+wpn_1hb_ham_p_platinum_t7 = smasher legendary
+wpn_1hb_ham_p_platinum_t8 = smasher legendary
+wpn_1hb_ham_p_platinum_t9 = smasher legendary
+
+wpn_1hb_stk_e_platinum_t1 = police stick legendary
+wpn_1hb_stk_e_platinum_t2 = police stick legendary
+wpn_1hb_stk_e_platinum_t3 = police stick legendary
+wpn_1hb_stk_e_platinum_t4 = police stick legendary
+wpn_1hb_stk_e_platinum_t5 = police stick legendary
+wpn_1hb_stk_e_platinum_t6 = police stick legendary
+wpn_1hb_stk_e_platinum_t7 = police stick legendary
+wpn_1hb_stk_e_platinum_t8 = police stick legendary
+wpn_1hb_stk_e_platinum_t9 = police stick legendary
+
+wpn_1hb_stk_h_platinum_t1 = rude stick legendary
+wpn_1hb_stk_h_platinum_t2 = rude stick legendary
+wpn_1hb_stk_h_platinum_t3 = rude stick legendary
+wpn_1hb_stk_h_platinum_t4 = rude stick legendary
+wpn_1hb_stk_h_platinum_t5 = rude stick legendary
+wpn_1hb_stk_h_platinum_t6 = rude stick legendary
+wpn_1hb_stk_h_platinum_t7 = rude stick legendary
+wpn_1hb_stk_h_platinum_t8 = rude stick legendary
+wpn_1hb_stk_h_platinum_t9 = rude stick legendary
+
+wpn_1hb_mace_d_platinum_t1 = medival mace legendary
+wpn_1hb_mace_d_platinum_t2 = medival mace legendary
+wpn_1hb_mace_d_platinum_t3 = medival mace legendary
+wpn_1hb_mace_d_platinum_t4 = medival mace legendary
+wpn_1hb_mace_d_platinum_t5 = medival mace legendary
+wpn_1hb_mace_d_platinum_t6 = medival mace legendary
+wpn_1hb_mace_d_platinum_t7 = medival mace legendary
+wpn_1hb_mace_d_platinum_t8 = medival mace legendary
+wpn_1hb_mace_d_platinum_t9 = medival mace legendary
+
+wpn_15hb_b_platinum_t1 = the stud legendary
+wpn_15hb_b_platinum_t2 = the stud legendary
+wpn_15hb_b_platinum_t3 = the stud legendary
+wpn_15hb_b_platinum_t4 = the stud legendary
+wpn_15hb_b_platinum_t5 = the stud legendary
+wpn_15hb_b_platinum_t6 = the stud legendary
+wpn_15hb_b_platinum_t7 = the stud legendary
+wpn_15hb_b_platinum_t8 = the stud legendary
+wpn_15hb_b_platinum_t9 = the stud legendary
+
+wpn_15hb_f_platinum_t1 = construction hammer legendary
+wpn_15hb_f_platinum_t2 = construction hammer legendary
+wpn_15hb_f_platinum_t3 = construction hammer legendary
+wpn_15hb_f_platinum_t4 = construction hammer legendary
+wpn_15hb_f_platinum_t5 = construction hammer legendary
+wpn_15hb_f_platinum_t6 = construction hammer legendary
+wpn_15hb_f_platinum_t7 = construction hammer legendary
+wpn_15hb_f_platinum_t8 = construction hammer legendary
+wpn_15hb_f_platinum_t9 = construction hammer legendary
+
+wpn_15hb_k_platinum_t1 = protetarian legendary
+wpn_15hb_k_platinum_t2 = protetarian legendary
+wpn_15hb_k_platinum_t3 = protetarian legendary
+wpn_15hb_k_platinum_t4 = protetarian legendary
+wpn_15hb_k_platinum_t5 = protetarian legendary
+wpn_15hb_k_platinum_t6 = protetarian legendary
+wpn_15hb_k_platinum_t7 = protetarian legendary
+wpn_15hb_k_platinum_t8 = protetarian legendary
+wpn_15hb_k_platinum_t9 = protetarian legendary
+
+wpn_15hb_m_platinum_t1 = smash legendary
+wpn_15hb_m_platinum_t2 = smash legendary
+wpn_15hb_m_platinum_t3 = smash legendary
+wpn_15hb_m_platinum_t4 = smash legendary
+wpn_15hb_m_platinum_t5 = smash legendary
+wpn_15hb_m_platinum_t6 = smash legendary
+wpn_15hb_m_platinum_t7 = smash legendary
+wpn_15hb_m_platinum_t8 = smash legendary
+wpn_15hb_m_platinum_t9 = smash legendary
+
+wpn_2hs_e_platinum_t1 = fire station greataxe
+wpn_2hs_e_platinum_t2 = fire station greataxe
+wpn_2hs_e_platinum_t3 = fire station greataxe
+wpn_2hs_e_platinum_t4 = fire station greataxe
+wpn_2hs_e_platinum_t5 = fire station greataxe
+wpn_2hs_e_platinum_t6 = fire station greataxe
+wpn_2hs_e_platinum_t7 = fire station greataxe
+wpn_2hs_e_platinum_t8 = fire station greataxe
+wpn_2hs_e_platinum_t9 = fire station greataxe
+
+wpn_2hs_f_platinum_t1 = slitter legendary
+wpn_2hs_f_platinum_t2 = slitter legendary
+wpn_2hs_f_platinum_t3 = slitter legendary
+wpn_2hs_f_platinum_t4 = slitter legendary
+wpn_2hs_f_platinum_t5 = slitter legendary
+wpn_2hs_f_platinum_t6 = slitter legendary
+wpn_2hs_f_platinum_t7 = slitter legendary
+wpn_2hs_f_platinum_t8 = slitter legendary
+wpn_2hs_f_platinum_t9 = slitter legendary
+
+wpn_2hs_g_platinum_t1 = pyramid blade legendary
+wpn_2hs_g_platinum_t2 = pyramid blade legendary
+wpn_2hs_g_platinum_t3 = pyramid blade legendary
+wpn_2hs_g_platinum_t4 = pyramid blade legendary
+wpn_2hs_g_platinum_t5 = pyramid blade legendary
+wpn_2hs_g_platinum_t6 = pyramid blade legendary
+wpn_2hs_g_platinum_t7 = pyramid blade legendary
+wpn_2hs_g_platinum_t8 = pyramid blade legendary
+wpn_2hs_g_platinum_t9 = pyramid blade legendary
+
+wpn_2hs_h_platinum_t1 = thingamabob legendary
+wpn_2hs_h_platinum_t2 = thingamabob legendary
+wpn_2hs_h_platinum_t3 = thingamabob legendary
+wpn_2hs_h_platinum_t4 = thingamabob legendary
+wpn_2hs_h_platinum_t5 = thingamabob legendary
+wpn_2hs_h_platinum_t6 = thingamabob legendary
+wpn_2hs_h_platinum_t7 = thingamabob legendary
+wpn_2hs_h_platinum_t8 = thingamabob legendary
+wpn_2hs_h_platinum_t9 = thingamabob legendary
+
+wpn_2hb_a_platinum_t1 = engine bludgeon legendary
+wpn_2hb_a_platinum_t2 = engine bludgeon legendary
+wpn_2hb_a_platinum_t3 = engine bludgeon legendary
+wpn_2hb_a_platinum_t4 = engine bludgeon legendary
+wpn_2hb_a_platinum_t5 = engine bludgeon legendary
+wpn_2hb_a_platinum_t6 = engine bludgeon legendary
+wpn_2hb_a_platinum_t7 = engine bludgeon legendary
+wpn_2hb_a_platinum_t8 = engine bludgeon legendary
+wpn_2hb_a_platinum_t9 = engine bludgeon legendary
+
+wpn_2hb_c_platinum_t1 = verbum legendary
+wpn_2hb_c_platinum_t2 = verbum legendary
+wpn_2hb_c_platinum_t3 = verbum legendary
+wpn_2hb_c_platinum_t4 = verbum legendary
+wpn_2hb_c_platinum_t5 = verbum legendary
+wpn_2hb_c_platinum_t6 = verbum legendary
+wpn_2hb_c_platinum_t7 = verbum legendary
+wpn_2hb_c_platinum_t8 = verbum legendary
+wpn_2hb_c_platinum_t9 = verbum legendary
+
+wpn_1hs_knuckle_duster_ahigh_platinum_t1 = ice pick claws legendary
+wpn_1hs_knuckle_duster_ahigh_platinum_t2 = ice pick claws legendary
+wpn_1hs_knuckle_duster_ahigh_platinum_t3 = ice pick claws legendary
+wpn_1hs_knuckle_duster_ahigh_platinum_t4 = ice pick claws legendary
+wpn_1hs_knuckle_duster_ahigh_platinum_t5 = ice pick claws legendary
+wpn_1hs_knuckle_duster_ahigh_platinum_t6 = ice pick claws legendary
+wpn_1hs_knuckle_duster_ahigh_platinum_t7 = ice pick claws legendary
+wpn_1hs_knuckle_duster_ahigh_platinum_t8 = ice pick claws legendary
+wpn_1hs_knuckle_duster_ahigh_platinum_t9 = ice pick claws legendary
+
+wpn_1hs_knuckle_duster_bhigh_platinum_t1 = beast claws legendary
+wpn_1hs_knuckle_duster_bhigh_platinum_t2 = beast claws legendary
+wpn_1hs_knuckle_duster_bhigh_platinum_t3 = beast claws legendary
+wpn_1hs_knuckle_duster_bhigh_platinum_t4 = beast claws legendary
+wpn_1hs_knuckle_duster_bhigh_platinum_t5 = beast claws legendary
+wpn_1hs_knuckle_duster_bhigh_platinum_t6 = beast claws legendary
+wpn_1hs_knuckle_duster_bhigh_platinum_t7 = beast claws legendary
+wpn_1hs_knuckle_duster_bhigh_platinum_t8 = beast claws legendary
+wpn_1hs_knuckle_duster_bhigh_platinum_t9 = beast claws legendary
+
+wpn_1hs_knuckle_duster_chigh_platinum_t1 = stabber claws legendary
+wpn_1hs_knuckle_duster_chigh_platinum_t2 = stabber claws legendary
+wpn_1hs_knuckle_duster_chigh_platinum_t3 = stabber claws legendary
+wpn_1hs_knuckle_duster_chigh_platinum_t4 = stabber claws legendary
+wpn_1hs_knuckle_duster_chigh_platinum_t5 = stabber claws legendary
+wpn_1hs_knuckle_duster_chigh_platinum_t6 = stabber claws legendary
+wpn_1hs_knuckle_duster_chigh_platinum_t7 = stabber claws legendary
+wpn_1hs_knuckle_duster_chigh_platinum_t8 = stabber claws legendary
+wpn_1hs_knuckle_duster_chigh_platinum_t9 = stabber claws legendary
+
+wpn_1hb_knuckle_duster_chigh_platinum_t1 = golden knuckles legendary
+wpn_1hb_knuckle_duster_chigh_platinum_t2 = golden knuckles legendary
+wpn_1hb_knuckle_duster_chigh_platinum_t3 = golden knuckles legendary
+wpn_1hb_knuckle_duster_chigh_platinum_t4 = golden knuckles legendary
+wpn_1hb_knuckle_duster_chigh_platinum_t5 = golden knuckles legendary
+wpn_1hb_knuckle_duster_chigh_platinum_t6 = golden knuckles legendary
+wpn_1hb_knuckle_duster_chigh_platinum_t7 = golden knuckles legendary
+wpn_1hb_knuckle_duster_chigh_platinum_t8 = golden knuckles legendary
+wpn_1hb_knuckle_duster_chigh_platinum_t9 = golden knuckles legendary
+
+//EASTER EGG WEAPONS
+
+EasterEgg_CursedHammer
+
+EasterEgg_SpearOfTheGods                  
+
+EasterEgg_KorekMachete3
+
+EasterEgg_MasterMachete
+
+EasterEgg_Cyberhands
+
+EasterEgg_StingerSword
+
+EasterEgg_WeaponOfTruth
+
+EasterEgg_LightBulb
+
+wpn_15hs_b_EE
+
+wpn_15hb_scarecrow
+
+
+//PROTOTYPE WEAPONS
+
+wpn_2hs_g_dragon_boat
+
+wpn_2hs_g_ancestral_dragon_boat
+
+wpn_1hs_knuckle_duster_d_fpp_nightrunnersclaws
+
+Chapter1_Mission_wpn_1hs_knuckle_duster_d_fpp_nightrunnersclaws
+
+wpn_opera_bolter_weapon
+
+wpn_Ingrid
+
+wpn_freak00
+
+wpn_freak01
+
+wpn_2hb_f_colonelschampion
+
+TEST_Magic_Machete_DamageScalesWithPlayer
+
+TEST_BrassKnuckles
+
+TEST_Shield
+
+wpn_mach_r1_durable
+
+wpn_mach_r3_durable
+
+wpn_2hb_E3
+
+wpn_1hb_stk_i_fpp_E3_Renegades_Thrown
+
+wpn_1hb_stk_i_fpp_E3_DZ
+
+harpoon_melee
+
+TEST_Helbard
+
+TEST_NunchacKU
+
+TEST_Flail
+
+Goon_Weapon
+
+Screamer_Weapon
+
+full_body_cut_test
+
+wpn_1h_test_fpp_marek
+
+wpn_2h_test_fpp_marek
+
+wpn_15h_test_fpp_marek
+
+prototype_NewElectricWeapon
+
+E3_threat_Weapon
+
+test_modded_weapon_stk
+
+AI_Combat_Playtest = // <INF DURA>
+
+AI_Combat_Playtest_Blunt = // <INF DURA>
+
+WeaponTest_StickSlow = // <INF DURA>
+
+TEST_stick2close
+
+Quest_Cindirella_Axe = // <INF DURA>
+
+wpn_1hb_mace_a_fpp_r1_test
+
+wpn_1hs_axe_e_fpp_r10_test
+
+wpn_1hs_axe_c_fpp_r19_test
+
+wpn_1hb_ham_a_fpp_r7_test
+
+wpn_1hb_ham_b_fpp_r7_test
+
+wpn_1hb_ham_c_fpp_r7_test
+
+wpn_2hb_a_fpp_r3_test
+
+wpn_1hs_mach_a_fpp_r7_test
+
+TEST_BrassKnuckles_Playtest
+
+wpn_1hs_mach_a_fpp_r7_test_stagger
+
+head_destroy_mace
+
+wpn_1hb_mace_d_fpp_r24_challenge_kill_spree_wave_01
+
+wpn_1hs_mach_a_fpp_r4_challenge_kill_all_01
+
+wpn_1hb_ham_a_fpp_r4_challenge_kill_all_01
+
+LeaderWeapon_BC_Razors
+
+LeaderWeapon_BC_Skyscrapper
+
+LeaderWeapon_BC_Water
+
+LeaderWeapon_BC_Vertical
+
+LeaderWeapon_BC_Military
+
+LeaderWeapon_BC_Chemicals
+
+wpn_1hs_axe_p_fpp_r12_markeitng
+
+wpn_1hs_mach_o_fpp_r12_marketing
+
+wpn_1hb_ham_n_fpp_r12_marketing
+
+wpn_15hb_b_challenge_ringout
+
+wpn_15hb_b_challenge_ringout_dlc1
+
+wpn_2hp_bow_a_fpp_t3_playtest
+
+melee_progressive_hits = // <HAS 99 FLAGS ENABLED>
+
+Firearm_Shotgun_Challenge // should be moved to accessories
+
+wpn_2hs_a_fpp_r12_marketing
+
+
+
+wpn_1hb_ham_b_electric_challenge
+
+wpn_1hs_mach_j_laststand_challenge
+
+wpn_1hs_axe_a_fpp_r5_preview
+
+wpn_1hb_stk_i_fpp_destroyed
+
+wpn_1hb_mace_a_fpp_stamina
+
+wpn_1hb_mace_a_fpp_brawl_at_the_pool
+
+wpn_2hb_d_goon_event
+
+skullface_weapon
+
+skullface_shot
+
+firearm_pistol_bd
+
+firearm_pistol_noise_bd
+
+firearm_rifle_bd
+
+firearm_shotgun_bd
+
+wpn_15hs_o_aristocrat
+
+wpn_xray_test
+
+
+//OPERA WEAPONS
+
+
+wpn_1hb_stk_a_baptistry_AI
+
+wpn_1hb_stk_a_baptistry_Player
+
+wpn_1hb_stk_i_gladiator
+
+wpn_1hb_stk_i_opera
+
+wpn_suppade
+
+wpn_rumble
+
+wpn_rumble_1_AI
+
+wpn_rumble_2_AI
+
+wpn_rumble_3_AI
+
+wpn_rumble_4_AI
+
+wpn_rumble_5_AI
+
+wpn_rumble_6_AI
+
+wpn_rumble_7_AI
+
+wpn_rumble_8_AI
+
+wpn_babel_spectacle_1
+
+wpn_babel_spectacle_2
+
+wpn_prince_spectacle_1
+
+wpn_prince_spectacle_2
+
+wpn_harran_spectacle_1
+
+wpn_harran_spectacle_2
+
+wpn_harran_spectacle_3
+
+wpn_harran_spectacle_4
+
+wpn_harran_spectacle_5
+
+wpn_forge_spectacle_1
+
+wpn_forge_spectacle_2
+
+wpn_babel_carnage_1
+
+wpn_babel_carnage_2
+
+wpn_babel_carnage_3
+
+wpn_prince_carnage_1
+
+wpn_prince_carnage_2
+
+wpn_harran_carnage_1
+
+wpn_harran_carnage_2
+
+wpn_harran_carnage_3
+
+
+wpn_forge_carnage_1
+
+wpn_forge_carnage_2
+
+wpn_1hb_slaves
+
+wpn_2hb_contenders
+
+wpn_2hb_e_ingrid
+
+wpn_threetotango_Player
+
+wpn_threetotango_Boba
+
+wpn_threetotango_Yoska
+
+wpn_freakfight_01
+
+wpn_freakfight_02
+
+wpn_freakfight_03
+
+wpn_freakfight_04
+
+wpn_pretendent_01
+
+wpn_pretendent_01_onehanded
+
+wpn_pretendent_02
+
+wpn_pretendent_03
+
+wpn_pretendent_04
+
+wpn_pretendent_05
+
+wpn_suppade_player
+
+wpn_cirofight_AI
+
+wpn_skullfacefight_Player
+
+Random_Fighter_5_Opera_AI
+
+wpn_15hs_suppade_AI
+
+wpn_bruiser_1
+
+wpn_bruiser_2
+
+wpn_tank_1
+
+wpn_tank_2
+
+wpn_medic_1
+
+wpn_medic_2
+
+wpn_1hs_axe_a_opera_t9
+
+wpn_1hs_mach_t_opera_t9
+
+wpn_1hs_mach_v_opera_t9
+
+wpn_15hs_e_opera_t9
+
+wpn_1hb_mace_b_opera_t9
+
+wpn_1hb_mace_d_opera_t9
+
+wpn_1hb_ham_l_opera_t9
+
+wpn_15hb_d_opera_t9
+
+wpn_2hb_c_opera_t9
+
+wpn_2hs_f_opera_t9
+
+wpn_2hb_g_prince_t9
+
+wpn_2hs_b_prince_t9
+
+wpn_1hb_stk_a_prince_t9
+
+wpn_15hs_f_prince_t9
+
+wpn_1hs_axe_b_prince_t9
+
+wpn_15hb_f_prince_t9
+
+wpn_2hb_n_babel_t9
+
+wpn_2hs_g_babel_t9
+
+wpn_1hb_ham_g_babel_t9
+
+wpn_15hs_g_babel_t9
+
+wpn_1hs_mach_l_babel_t9
+
+wpn_15hb_b_babel_t9
+
+wpn_2hb_a_forge_t9
+
+wpn_2hs_e_forge_t9
+
+wpn_1hb_stk_h_forge_t9
+
+wpn_15hs_a_forge_t9
+
+wpn_1hs_mach_p_forge_t9
+
+wpn_15hb_a_forge_t9
+
+wpn_1hs_mach_j_guards_t9
+
+wpn_1hs_axe_r_guards_t9
+
+wpn_1hb_stk_e_guards_t9
+
+wpn_1hb_ham_p_guards_t9
+
+wpn_1hs_mach_1_harran_t9
+
+wpn_1hb_stk_1_harran_t9
+
+wpn_2hb_1_harran_t9
+
+wpn_1hs_mach_y_opera_t9
+
+wpn_2hp_bow_prince_1
+
+wpn_2hr_forge_carnage_1
+
+wpn_15hs_b_fpp_redkatana
+
+wpn_15hb_s_fpp_prodder
+
+wpn_2hb_a_fpp_Rebarbar
+
+
+
+wpn_15hb_o_halloween
+
+wpn_1hb_stk_l_fpp_winter
+
+wpn_2hb_o_fpp_Winter
+
+wpn_1hs_mach_c_nut
+
+
+
+//OPERA PROTOTYPES
+
+wpn_2hb_a_weaponofgods
+
+wpn_bolter_weapon_quad_damage
+
+wpn_bolter_weapon_push_away
+
+Player_Shield
+
+PlayerShield_Shockwave
+
+Bullet_Harpoon_Spear           
+
+Tackle_Spear_Ciro              
+
+Thrown_Spear_Electric         
+
+wpn_15hb_scarecrow_AI
+
+Goon_Weapon_Opera
+
+wpn_rumble_electric_AI
+
+wpn_skullface_AI
+
+wpn_skullface_pool_AI
+
+BoltCannonRush
+
+wpn_2hr_crossbow_challenge_park
+
+
+
+
+
+//QUEST WEAPONS
+
+Quest_Fading_Light_Sword
+
+//
+
+
+//SPECIAL ITEMS
+
+Thrown_Spear_Upgrade8
+
+wpn_1hb_mace_h_fpp_vs_t2-4-fire
+
+PlayerBackpack
+
+PlayerBinoculars
+
+ZipLine_Pulley
+
+wpn_2hr_crossbow_challenge
+
+Antizine_Mushroom
+
+Corruptor_Key
+
+PursuitBreakerSwitch
+
+PaperSheet
+
+AI_Throwable_Stone
+
+AI_Throwable_Knife
+
+AI_Throwable_Mine
+
+AI_Throwable_Mine_Toxic
+
+AI_Throwable_Grenade_Electric
+
+AI_Shield
+
+AI_Throwable_KnifeBoss
+
+AI_Throwable_Knife_L2
+
+AI_Throwable_Knife_L4
+
+AI_Throwable_KnifePoison
+
+Volumetric_Default
+
+StompItem
+
+Melee_GroundPoundLvl1
+
+Parachute
+
+Parachute_Reload
+
+Parachute_Legendary_Nightrunner
+
+Parachute_Black_Copper
+
+Parachute_Tgg_Harpy
+
+Parachute_Tgg_Manticore
+
+Parachute_Tgg_Wyvern
+
+Parachute_Authority
+
+Parachute_Ronin
+
+Parachute_GoodNight_orange
+
+Parachute_GoodNight_red
+
+Parachute_Cobra
+
+Parachute_NightCreatures_Bat
+
+Parachute_Hunter_Basic
+
+Parachute_Hunter_Elite
+
+Parachute_PostApo
+
+Parachute_Halloween_Clown
+
+Parachute_Nutcracker_a
+
+Melee_FuryRam       <TEST NIGHRUNNER FIST AGAIN>
+
+NightRunnerItem
+
+NightRunnerRoarItem
+
+Melee_ZombieAmortizerShockwave
+
+Melee_HeavyLandingShockwave
+
+Melee_Shockwave_FurySmash
+
+Melee_Shockwave_FuryGroundPound
+
+ScareCrow
+
+TreeBranch
+
+ElectricWrench
+
+CoopHealBandage
+
+Spikes_Pikes
+
+Attachable_Flashlight
+
+Attachable_Flashlight_Exterior
+
+SupressantRegen
+
+SupressantInstant
+
+Melee_fighter_armored_machete
+
+
+
+
+//BOWS AND CROSSBOWS
+
+
+wpn_2hp_harpoon_a_fpp                          > test this see if its the same as Harppon <
+
+wpn_2hr_crossbow_b_fpp
+
+wpn_2hp_bow_f_fpp_t3_PlagueWitch
+
+wpn_lbow_a_fpp_funkadelic
+
+wpn_opera_crossbowb  = Carnage crossbow
+
+harpoon_crossbow  = HARPOON CROSSBOW
+
+wpn_2hp_bow_ballista
+
+
+
+ZZZZ3_Crossbow
+
+BoltCannonV1  //TEST
+
+BoltCannonV2  //TEST
+
+RazorCannon  //TEST
+
+RazorCannon_Challenge  //TEST
+
+WaterCannon  //TEST
+
+FireCannon  //TEST
+
+DEBUG_BOW_fpp
+
+
+
+
+//DEV WEAPONS
+
+
+Weapons_pool_d1
+
+Weapons_pool_T1_2h_d1
+
+Bow_T1
+
+Tackle_Spear_t1
